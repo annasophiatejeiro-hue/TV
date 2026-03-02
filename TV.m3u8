@@ -458,7 +458,7 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece (Op. 2)
-http://107.152.39.199:8030/hls/canal12.m3u8
+http://107.152.39.199:8030/hls/canal21.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece (Op. 3)
 #EXTVLCOPT:network-caching=1000
