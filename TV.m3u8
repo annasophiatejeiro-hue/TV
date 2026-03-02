@@ -295,13 +295,9 @@ http://liketv.pro:80/User1626/28TM4MEU66/158.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV SD (Op. 1)
 #EXTVLCOPT:network-caching=1000
-http://138.121.114.86:8000/play/a0d9
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV SD (Op. 2)
-#EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a036
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV SD (Op. 3)
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV SD (Op. 2)
 #EXTVLCOPT:network-caching=1000
 http://vipxtream.com:8880/live/DELUXE1096/7a97d11b2aa9d317/712742.m3u8
 
