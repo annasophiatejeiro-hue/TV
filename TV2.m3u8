@@ -86,7 +86,7 @@ http://181.78.7.90:12500/play/a0j2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-76.playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 🌎
+#EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 
 #EXTVLCOPT:network-caching=1000
 http://186.125.218.198:13000/play/a05b/index.m3u8
 
