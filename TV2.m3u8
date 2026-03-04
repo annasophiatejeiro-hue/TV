@@ -1331,13 +1331,13 @@ http://181.78.27.128:12543/play/a043
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/TNT_2016_%28Red%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121007" group-title="Cine",TNT 🇦🇷 (Op. 6)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-66.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TNT_Series_HD_2016.svg/revision/latest/scale-to-width-down/250?cb=20230902123217" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://mninoticias.com/wp-content/uploads/2023/06/7f334d87-5d5a-9854-2f73-d4959739d42c.png" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 1)
 http://181.13.252.102:8000/play/a07g/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TNT_Series_HD_2016.svg/revision/latest/scale-to-width-down/250?cb=20230902123217" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://mninoticias.com/wp-content/uploads/2023/06/7f334d87-5d5a-9854-2f73-d4959739d42c.png" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 2)
 http://186.125.218.198:13000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TNT_Series_HD_2016.svg/revision/latest/scale-to-width-down/250?cb=20230902123217" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://mninoticias.com/wp-content/uploads/2023/06/7f334d87-5d5a-9854-2f73-d4959739d42c.png" group-title="Novelas",TNT Novelas 🇦🇷 (Op. 3)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-65.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-TNTSeries.png?raw=true" group-title="Series",TNT Series 🇦🇷 (Op. 1)
