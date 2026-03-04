@@ -1048,9 +1048,6 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-50.playlist.m3u
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 2)
 http://181.13.252.102:8000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 3)
-http://201.217.246.84:9000/play/a06r
-
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="General US",MTV 🇺🇸
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
