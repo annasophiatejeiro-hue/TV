@@ -1400,20 +1400,20 @@ http://181.198.105.69:8111/play/a1eg/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 🇦🇷 (Op. 5)
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch116.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://img.utdstc.com/icon/004/ac8/004ac8e8fbbac486b0911752ee95d5e18df1f6d5f632fcc342bd9479aaa49b9b" group-title="Deportes",TyC Sports 🇦🇷 (Op. 1)
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://img.utdstc.com/icon/004/ac8/004ac8e8fbbac486b0911752ee95d5e18df1f6d5f632fcc342bd9479aaa49b9b" group-title="Deportes",TyC Sports 🇦🇷 (Op. 2)
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://img.utdstc.com/icon/004/ac8/004ac8e8fbbac486b0911752ee95d5e18df1f6d5f632fcc342bd9479aaa49b9b" group-title="Deportes",TyC Sports 🇦🇷 (Op. 3)
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://img.utdstc.com/icon/004/ac8/004ac8e8fbbac486b0911752ee95d5e18df1f6d5f632fcc342bd9479aaa49b9b" group-title="Deportes",TyC Sports 🇦🇷 (Op. 4)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a01n
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://img.utdstc.com/icon/004/ac8/004ac8e8fbbac486b0911752ee95d5e18df1f6d5f632fcc342bd9479aaa49b9b" group-title="Deportes",TyC Sports 🇦🇷 (Op. 5)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-90.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universal cinema" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="Cine",Universal Cinema 🌎 (Op. 1)
