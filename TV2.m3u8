@@ -375,15 +375,12 @@ http://190.108.89.228:8000/play/a05w/index.m3u8
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 5)
-http://190.117.20.37:8000/play/a08d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 6)
 http://190.117.20.39:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 7)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 6)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 8)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🌎 (Op. 7)
 http://live.btv.mx:2424/stream/278758/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🌎 (Op. 1)
@@ -1634,7 +1631,7 @@ https://stream.radio.co/s2ed3bec0a/listen
 #EXTVLCOPT:http-user-agent=iPhone
 https://edge01.radiohdvivo.com/ln1049
 
-#EXTINF:-1 tvg-id="La Red 910" tvg-logo="https://mediakit.grupoamerica.com.ar/img/lared.png" group-title="Radio AM" user-agent="iPhone",Radio La Red 910 (AM) 🇦🇷 
+#EXTINF:-1 tvg-id="La Red 910" tvg-logo="https://media.a24.com/adjuntos/296/migration/images/2020/6/10/brcRLnEriw.png" group-title="Radio AM" user-agent="iPhone",Radio La Red 910 (AM) 🇦🇷 
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 
@@ -1714,11 +1711,11 @@ https://cdn.instream.audio:9660/stream
 #EXTVLCOPT:http-user-agent=iPhone
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tomorrowland Daybreak Sessions" tvg-logo="https://www.tomorrowland.com/ico-192x192.png" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland Daybreak Sessions 🇧🇪
+#EXTINF:-1 tvg-id="Tomorrowland Daybreak Sessions" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland Daybreak Sessions 🇧🇪
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK.mp3
 
-#EXTINF:-1 tvg-id="Tomorrowland One World Radio" tvg-logo="https://www.tomorrowland.com/ico-192x192.png" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland One World Radio 🇧🇪
+#EXTINF:-1 tvg-id="Tomorrowland One World Radio" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland One World Radio 🇧🇪
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 
