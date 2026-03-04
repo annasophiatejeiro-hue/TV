@@ -1186,20 +1186,20 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch6.playlist
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es" group-title="Cine",Sony Channel 🇦🇷 (Op. 7)
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-70.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20220324215220&path-prefix=es" group-title="Cine",Sony Movies 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Cine",Sony Movies 🇦🇷 (Op. 1)
 http://181.13.252.102:8000/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20220324215220&path-prefix=es" group-title="Cine",Sony Movies 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Cine",Sony Movies 🇦🇷 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a01d
 
-#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20220324215220&path-prefix=es" group-title="Cine",Sony Movies 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Cine",Sony Movies 🇦🇷 (Op. 3)
 http://190.7.19.197:232/play/a01i
 
-#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20220324215220&path-prefix=es" group-title="Cine",Sony Movies 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Cine",Sony Movies 🇦🇷 (Op. 4)
 http://186.125.218.198:13000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20220324215220&path-prefix=es" group-title="Cine",Sony Movies 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="Sony Movie" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Cine",Sony Movies 🇦🇷 (Op. 5)
 http://181.198.105.69:8111/play/a1eu/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Cine",Space 🇦🇷 (Op. 1)
