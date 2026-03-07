@@ -1623,11 +1623,8 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telemax.playlist.m
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 🇦🇷 (Op. 3)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest?cb=20181101133212&path-prefix=es" group-title="General US",Telemundo Internacional 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest?cb=20181101133212&path-prefix=es" group-title="General US",Telemundo Internacional 🇺🇸 
 https://faster-viale.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest?cb=20181101133212&path-prefix=es" group-title="General US",Telemundo Internacional 🇺🇸 (Op. 2)
-http://190.238.43.117:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 1)
 http://181.13.252.102:8000/play/a058/index.m3u8
