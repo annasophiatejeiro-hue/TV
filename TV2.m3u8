@@ -38,17 +38,13 @@ https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist_
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://181.209.125.236:10000/play/a00b/index.m3u8
+https://faster-viale.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://faster-viale.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://170.246.176.223:12300/Live/dfea9ac7017e056d7bbb8bc031cc7273/a24.playlist.m3u8
 
@@ -107,9 +103,9 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-##EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/02-America.png?raw=true" tvg-country="AR" group-title="Argentina",América TV 🇦🇷 (Op. 6)
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#http://live.btv.mx:2424/stream/278751/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/02-America.png?raw=true" tvg-country="AR" group-title="Argentina",América TV 🇦🇷 (Op. 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://181.209.125.236:10000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true" group-title="Documentales",Animal Planet 🌎 (Op. 1) 
 #EXTVLCOPT:network-caching=1000
@@ -1069,9 +1065,6 @@ http://limed.cc:80/4x6cXF/ehfxdp/95661
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="General Br",Multishow 🇧🇷 (Op. 2)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1851
 
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="Música Br",Music Box Brazil 🇧🇷
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1852
-
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 1)
 https://faster-viale.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
@@ -1685,7 +1678,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-logo="https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png" group-title="Radio FM",AE Radio TV 🇨🇱
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cosquín Rock Radio" tvg-logo="https://comercial.cadena3.com/img/logo-cosquin-rock-radio.png" group-title="Radio FM" user-agent="iPhone",Cosquín Rock Radio 🇦🇷
+#EXTINF:-1 tvg-id="Cosquín Rock Radio" tvg-logo="https://comercial.cadena3.com/img/logo-cosquin-rock-radio.png" group-title="Radio FM" user-agent="iPhone",Cosquín Rock Radio (Córdoba) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
@@ -1697,7 +1690,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream/68b74fd1d6512526f1f7c75a/publish/media_2500.m3u8?aid=68ad13de5135549c1ca46231&uid=S3Tz6FR12D4E19fWsse34Nfg0b7biZBk&sid=V4L55ZLkbGN1zO1DYzDZpHASfpiAt6nH&pid=ZN2tTIUuYon4U8rQyi69HMpI0y5cg7HI&pid_dvr=zw0bBs6ZIYpS4PWhVIVYbBY2t4CepMh4&ref=https%3A%2F%2Fla100.cienradios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1767553933122&ot=gLVFo57gC2_bg2H-F1ugnw&proto=https&pz=us&CMCD=cid%3D%2268b74fd1d6512526f1f7c75a%22%2Cmtp%3D6800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ZN2tTIUuYon4U8rQyi69HMpI0y5cg7HI%22
 
-#EXTINF:-1 tvg-id="Cadena 3 100.5" tvg-logo="https://cdn-1.webcatalog.io/catalog/cadena-3-argentina/cadena-3-argentina-icon.png?v=1720407871560" group-title="Radio FM" user-agent="iPhone",Radio Cadena 3 100.5 🇦🇷 (Córdoba)
+#EXTINF:-1 tvg-id="Cadena 3 100.5" tvg-logo="https://cdn-1.webcatalog.io/catalog/cadena-3-argentina/cadena-3-argentina-icon.png?v=1720407871560" group-title="Radio FM" user-agent="iPhone",Radio Cadena 3 100.5 (Córdoba) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
@@ -1705,7 +1698,7 @@ https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" group-title="Radio FM" user-agent="iPhone",Radio Sónica 102.3 🇦🇷 (Paso de los Libres) (Not 24/7)
+#EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" group-title="Radio FM" user-agent="iPhone",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷 (Not 24/7)
 #EXTVLCOPT:http-user-agent=iPhone
 https://vivo.solumedia.com:19360/sonica/sonica.m3u8
 
