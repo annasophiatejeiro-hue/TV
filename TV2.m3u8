@@ -16,6 +16,10 @@ https://faster-viale.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.
 #EXTVLCOPT:network-caching=1000
 http://181.209.125.236:10000/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 🇦🇷 (Op. 4)
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05i/index.m3u8
+
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist_720p.m3u8?sense=true
@@ -65,6 +69,9 @@ https://faster-viale.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 (Op. 3)
 http://181.209.125.236:10000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 (Op. 4)
+http://181.13.252.102:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 🌎 
 #EXTVLCOPT:network-caching=1000
@@ -463,9 +470,12 @@ https://faster-viale.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina",El Nueve 🇦🇷 (Op. 8)
+http://190.7.19.197:232/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina",El Nueve 🇦🇷 (Op. 9)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157595
 
-##EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina" user-agent="iPhone",El Nueve 🇦🇷 (Op. 8)
+##EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina" user-agent="iPhone",El Nueve 🇦🇷 (Op. 10)
 ##EXTVLCOPT:http-user-agent=iPhone
 #http://live.btv.mx:2424/stream/278759/smAVz_uhytj5REM-4pYNZbkrcB2
 
@@ -490,9 +500,12 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/eltrece_720.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 (Op. 7)
+http://190.7.19.197:232/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 (Op. 8)
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157591
 
-##EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 (Op. 8)
+##EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 (Op. 9)
 #http://live.btv.mx:2424/stream/278760/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 1)
@@ -1317,7 +1330,10 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png" group-title="Argentina",Telefe HD 🇦🇷 (Op. 8)
 http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
 
-##EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png" group-title="Argentina",Telefe HD 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png" group-title="Argentina",Telefe HD 🇦🇷 (Op. 9)
+http://190.7.19.197:232/play/a059/index.m3u8
+
+##EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png" group-title="Argentina",Telefe HD 🇦🇷 (Op. 10)
 #http://live.btv.mx:2424/stream/278773/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 🇦🇷 
