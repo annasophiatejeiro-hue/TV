@@ -99,7 +99,7 @@ http://45.5.151.147:8000/play/a01e/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://faster-viale.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 
-#EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 🌎 (Op. 8)
+#EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 🌎 (Op. 2)
 http://45.5.151.147:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/02-America.png?raw=true" tvg-country="AR" group-title="Argentina",América TV 🇦🇷 (Op. 1)
@@ -995,12 +995,9 @@ http://138.121.114.91:8000/play/a070/index.m3u8
 http://45.5.151.147:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548" group-title="General US",FXX 🇺🇸 (Op. 1)
-http://1tv41.icu:8080/tS4m4V/047639/46699
-
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548" group-title="General US",FXX 🇺🇸 (Op. 2)
 http://fortv.cc:8080/live/8137358494/otiswilliam916@gmail.com/57429.m3u8
 
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548" group-title="General US",FXX 🇺🇸 (Op. 3)
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548" group-title="General US",FXX 🇺🇸 (Op. 2)
 http://fortv.cc:8080/54514663/54514663/46699
 
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 🇦🇷 (Op. 1)
