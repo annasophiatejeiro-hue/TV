@@ -1997,12 +1997,9 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true" group-title="24/7",The Simpsons 🇺🇸 (Op. 3)
-http://170.246.176.223:12300/Live/dfea9ac7017e056d7bbb8bc031cc7273/online-24-7.playlist.m3u8
-
-#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true" group-title="24/7",The Simpsons 🇺🇸 (Op. 4)
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16064
 
-##EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true" group-title="24/7",The Simpsons 🇺🇸 (Op. 5)
+##EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/04-LosSimpsonsTV.png?raw=true" group-title="24/7",The Simpsons 🇺🇸 (Op. 4)
 #http://live.btv.mx:2424/stream/279045/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/SamsungTV_Vevo_2K_1000x1000_Circle.png?$296_164_PNG$" group-title="Vevo",Vevo 2K 🇺🇸
