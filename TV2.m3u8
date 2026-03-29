@@ -64,8 +64,8 @@ http://186.0.248.91:20202/Live/fd6ec41d5033cde39c506f244e06a6e3/a24.playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://45.5.151.147:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 7)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/a24.playlist.m3u8
+##EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 7)
+#http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/a24.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 8)
 #https://faster-viale.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
@@ -690,10 +690,10 @@ http://192.141.98.91:8000/play/a1gt/index.m3u8
 http://181.209.37.74:8001/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 12)
-http://xpaneltv.com:8080/Alirf/78587421/52146
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 13)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+http://xpaneltv.com:8080/Alirf/78587421/51324
 
 ##EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 14)
 ##EXTVLCOPT:network-caching=1000
@@ -817,10 +817,10 @@ http://181.209.37.74:8001/play/a084
 http://xpaneltv.com:8080/Alirf/78587421/52149
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🇦🇷 (Op. 8)
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157561
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🇦🇷 (Op. 9)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157561
 
 ##EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🇦🇷 (Op. 10)
 #http://live.btv.mx:2424/stream/278764/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -929,48 +929,45 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
 http://190.95.60.228:8500/play/a035
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 2)
-http://45.5.151.62:8000/play/a07e/index.m3u8
+http://201.218.140.30:9000/play/a08n
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 3)
-http://201.218.140.30:9000/play/a08n
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 4)
 http://190.7.19.197:232/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 4)
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 5)
 http://138.121.114.91:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 6)
 http://supersonictv.live:8080/Sonya123/Sonya123/5118
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 7)
 http://45.5.151.147:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 8)
 http://177.53.153.207:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 10)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 9)
 http://38.187.3.110:8000/play/a0c7/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 11)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 10)
 http://201.218.140.30:9000/play/a08n
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 12)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 11)
 http://181.209.37.74:8001/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 13)
-http://xpaneltv.com:8080/Alirf/78587421/52150
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 14)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 12)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
-##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 15)
+##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 13)
+#http://xpaneltv.com:8080/Alirf/78587421/52150
+
+##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 14)
 #http://live.btv.mx:2424/stream/278766/smAVz_uhytj5REM-4pYNZbkrcB2
 
-##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 16)
+##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 15)
 #https://faster-viale.cdn.rcs.net.ar/mnp/pgxsrniofp0xmay8kxgl00000051o6ua/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 1)
@@ -1655,14 +1652,14 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://190.95.60.228:8500/play/a011
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 3)
-http://fortv.cc:8080/54514663/54514663/164873
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/tn.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 5)
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/tn.playlist.m3u8
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/tn_720.m3u8
 
 ##EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 6)
 #http://live.btv.mx:2424/stream/278775/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -1739,6 +1736,9 @@ http://45.5.151.147:8000/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Caricaturas",Tooncast 🌎 (Op. 2)
 https://faster-viale.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Caricaturas",Tooncast 🌎 (Op. 3)
+#http://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a03c/index.m3u8
