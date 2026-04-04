@@ -404,7 +404,6 @@ http://138.121.114.91:8000/play/a08g/index.m3u8
 http://45.5.151.147:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 5)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel 🇧🇷 (Op. 1)
@@ -423,8 +422,9 @@ http://181.13.252.102:8000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 3)
 http://138.121.114.91:8000/play/a08f/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 4)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
+#http://181.78.7.90:12500/play/a0fi/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 5)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-43.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 1)
@@ -523,7 +523,6 @@ http://xpaneltv.com:8080/Alirf/78587421/49709
 #http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cocina",El Gourmet 🇦🇷 (Op. 1)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-25.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cocina",El Gourmet 🇦🇷 (Op. 2)
@@ -553,7 +552,6 @@ http://45.5.151.147:8000/play/a00e/index.m3u8
 http://181.209.37.74:8001/play/a08k
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina",El Nueve 🇦🇷 (Op. 5)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-16.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://iconape.com/wp-content/png_logo_vector/elnueve-ls83-tv-canal-9-logo.png" group-title="Argentina",El Nueve 🇦🇷 (Op. 6)
@@ -586,7 +584,6 @@ http://45.5.151.147:8000/play/a00f/index.m3u8
 http://45.238.54.67:8000/play/b02f/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 (Op. 8)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/eltrece.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 1)
@@ -622,7 +619,6 @@ http://192.141.98.91:8000/play/a1gt/index.m3u8
 http://181.209.37.74:8001/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 11)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 12)
@@ -666,7 +662,6 @@ http://xpaneltv.com:8080/Alirf/78587421/52147
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157559
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes",ESPN 2 🇦🇷 (Op. 9)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes",ESPN 2 🇦🇷 (Op. 10)
@@ -709,7 +704,6 @@ http://xpaneltv.com:8080/Alirf/78587421/52148
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157560
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 (Op. 10)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 (Op. 11)
@@ -742,7 +736,6 @@ http://181.209.37.74:8001/play/a084
 http://xpaneltv.com:8080/Alirf/78587421/52149
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🇦🇷 (Op. 7)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🇦🇷 (Op. 8)
@@ -885,7 +878,6 @@ http://201.218.140.30:9000/play/a08n
 http://181.209.37.74:8001/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 12)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/FOX_Sports_2026.png/revision/latest/scale-to-width-down/200?cb=20260202183930&path-prefix=es" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 13)
@@ -932,7 +924,6 @@ http://181.209.37.74:8001/play/a09b/index.m3u8
 http://xpaneltv.com:8080/Alirf/78587421/52151
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 13)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 14)
@@ -970,7 +961,6 @@ http://181.209.37.74:8001/play/a06y/index.m3u8
 http://xpaneltv.com:8080/Alirf/78587421/52152
 
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 11)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 12)
@@ -993,7 +983,6 @@ http://45.238.54.67:8000/play/a04l/index.m3u8
 http://181.209.37.74:8001/play/a070
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/qSeBqMg.png" group-title="Cine",FX 🇦🇷 (Op. 6)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-72.playlist.m3u8
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/FXX_%28Yellow%29.svg/revision/latest/scale-to-width-down/250?cb=20200423152548" group-title="General US",FXX 🇺🇸 (Op. 1)
@@ -1009,7 +998,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://45.5.151.147:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 🇦🇷 (Op. 3)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-24.playlist.m3u8
 
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 🇦🇷 (Op. 4)
@@ -1155,7 +1143,6 @@ http://45.5.151.147:8000/play/a021/index.m3u8
 http://181.209.37.74:8001/play/a090
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.imgur.com/P5aKEES.png" group-title="Documentales",History Channel 🇦🇷 (Op. 6)
-http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40.playlist.m3u8
 
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://i.imgur.com/P5aKEES.png" group-title="Documentales",History Channel 🇧🇷
