@@ -32,6 +32,10 @@ http://190.238.43.117:8000/play/a01a/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.209.37.74:8001/play/a09h
 
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 🇧🇷
+#EXTVLCOPT:network-caching=1000
+https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist_720p.m3u8?sense=true
@@ -85,6 +89,10 @@ http://181.209.37.74:8001/play/a064
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 (Op. 6)
 #EXTVLCOPT:network-caching=1000
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-76.playlist.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇧🇷
+#EXTVLCOPT:network-caching=1000
+http://79.127.243.211:14565/G@
 
 #EXTINF:-1 tvg-id="AMC Series" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 🌎 
 http://45.5.151.147:8000/play/a01i/index.m3u8
@@ -157,8 +165,11 @@ http://45.5.151.147:8000/play/a01f/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-77.playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iconape.com/wp-content/files/nn/21306/png/axn-logo.png" group-title="General",AXN 🇧🇷 
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iconape.com/wp-content/files/nn/21306/png/axn-logo.png" group-title="General",AXN 🇧🇷 (Op. 1)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13003
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://iconape.com/wp-content/files/nn/21306/png/axn-logo.png" group-title="General",AXN 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Deportes Br",Band Sports 🇧🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -396,8 +407,11 @@ http://45.5.151.147:8000/play/a01s/index.m3u8
 http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel 🇧🇷 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel 🇧🇷 (Op. 1)
 http://46.151.196.223:14431
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -413,14 +427,20 @@ http://138.121.114.91:8000/play/a08f/index.m3u8
 http://181.78.7.90:12500/play/a0fi/index.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-43.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1820
+
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 (Op. 2)
 http://138.121.114.91:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇧🇷
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -430,8 +450,11 @@ http://190.95.60.228:8500/play/a02t
 #EXTVLCOPT:network-caching=1000
 http://138.121.114.91:8000/play/a074/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷
+#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1823
+
+#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a027/index.m3u8
@@ -442,8 +465,11 @@ http://45.5.151.62:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇦🇷 (Op. 3)
 http://138.121.114.91:8000/play/a062/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1824
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇦🇷 (Op. 1)
 http://138.121.114.91:8000/play/a076/index.m3u8
@@ -451,8 +477,11 @@ http://138.121.114.91:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇦🇷 (Op. 2)
 http://45.5.151.147:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1825
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🌎 
 http://201.230.137.126:8000/play/a17o/index.m3u8
@@ -1177,8 +1206,11 @@ http://38.44.109.41:8003/play/a02s
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🌎 (Op. 5)
 http://45.5.151.147:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1843
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 (Op. 2)
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" tvg-id="LaNacionPlus.ar" group-title="Noticias",LN+ 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -1729,6 +1761,9 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 
 ##EXTINF:-1 tvg-id="FUTURAMA" tvg-logo="https://freepngimg.com/save/174587-logo-futurama-free-clipart-hq/500x281" group-title="24/7",Futurama
 #http://live.btv.mx:2424/stream/279008/smAVz_uhytj5REM-4pYNZbkrcB2
+
+##EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends (Inglés)
+#http://cord-cutter.net:8080/bn80NG/909467/66407
 
 #EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 (Op. 1)
 http://79.127.238.228:14455
