@@ -771,7 +771,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playl
 https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 (Op. 10)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-96_720.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes Br",ESPN 3 🇧🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -1242,14 +1242,14 @@ http://limed.cc:80/4x6cXF/ehfxdp/95661
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="General Br",Multishow 🇧🇷 (Op. 2)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1851
 
-##EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 0)
-##EXTVLCOPT:network-caching=1000
-#http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8
-
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 1)
-http://181.78.7.90:12500/play/a0j4/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 2)
+http://181.78.7.90:12500/play/a0j4/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 3)
 http://181.13.252.102:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="General US",MTV 🇺🇸
@@ -1799,6 +1799,9 @@ http://79.127.238.228:14647
 
 ###### MÚSICA Y SERIES 24/7 ######
 
+#EXTINF:-1 tvg-id="Avatar: La Leyenda de Aang" tvg-logo="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABZroKcPIiFLP9LhG1nveE3GiMqvN8U7cqd2fxN0acVfR0NaP5wXTT_eHdqIevhXDzVFER3GV5muFb4gfUz3WgYEvuQLK4T15EA.png?r=b8e" group-title="Pluto TV",Avatar: La Leyenda de Aang 🇺🇸
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+
 #EXTINF:-1 tvg-id="Caso Cerrado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Caso_Cerrado_octubre_2018.png/revision/latest/scale-to-width-down/340?cb=20200816205635&path-prefix=es" group-title="24/7",Caso Cerrado 🇺🇸
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
@@ -1836,8 +1839,17 @@ http://79.127.238.228:14455
 #EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 (Op. 2)
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12060
 
+#EXTINF:-1 tvg-id="Hey Arnold!" tvg-logo="https://brandpalettes.com/wp-content/uploads/2018/11/Hey-Arnold-Logo.png" group-title="Pluto TV",Hey Arnold! 🇺🇸
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+
+#EXTINF:-1 tvg-id="iCarly" tvg-logo="https://www.paramountshop.co.uk/cdn/shop/files/icarly.png?v=1677858608" group-title="Pluto TV",iCarly 🇺🇸
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
 ##EXTINF:-1 tvg-id="Jhonny Bravo" tvg-logo="https://pngfre.com/wp-content/uploads/johnny-bravo-20.png" group-title="24/7",Jhonny Bravo 🇺🇸
 #http://live.btv.mx:2424/stream/279015/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="Kenan y Kel" tvg-logo="https://image.tmdb.org/t/p/original/hr2i30SDXvJ7LyVDCH4WdsBXAui.png" group-title="Pluto TV",Kenan y Kel 🇺🇸
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 
 ##EXTINF:-1 tvg-id="La vaca y el pollito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Cow-and-chicken-52569ee974f28.png/revision/latest?cb=20161210195047" group-title="24/7",La vaca y el pollito 🇺🇸
 #http://live.btv.mx:2424/stream/279005/smAVz_uhytj5REM-4pYNZbkrcB2
