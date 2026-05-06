@@ -149,9 +149,9 @@ http://181.13.252.102:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-AXN.png?raw=true" group-title="General",AXN 🇧🇷 
 https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Deportes Br",Band Sports 🇧🇷 
-#EXTVLCOPT:network-caching=1000
-http://79.127.243.211:14445/
+##EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Deportes Br",Band Sports 🇧🇷 
+##EXTVLCOPT:network-caching=1000
+#http://79.127.243.211:14445/
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Deportes US",beIN SPORTS XTRA 🇺🇸 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -294,6 +294,10 @@ http://190.7.19.197:232/play/a01d
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 http://45.5.151.147:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 (Op. 3)
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General US",Comedy Central 🇺🇸
 #EXTVLCOPT:network-caching=1000
@@ -1000,13 +1004,13 @@ https://hplay.tv/augetv/12396547488/10.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brasil",RecordTV 🇧🇷 (Op. 2)
-http://190.7.19.197:232/play/a08x/index.m3u8
+http://iptv.vivatele.com:80/live/viva_padrao/viva2384/13
 
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brasil",RecordTV 🇧🇷 (Op. 3)
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brasil",RecordTV 🇧🇷 (Op. 4)
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/13
+http://190.7.19.197:232/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://elsantodelrock.com/wp-content/uploads/2017/08/red-bull-tv-logo.png?w=848" group-title="Deportes US",Red Bull TV 🇺🇸
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1038,12 +1042,6 @@ https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/globo.
 http://190.7.19.197:232/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 8)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18022
-
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 9)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
-
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 10)
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 1)
@@ -1056,17 +1054,13 @@ http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 3)
 #EXTVLCOPT:network-caching=1000
-http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81580
+https://hplay.tv/live/augetv/12396547488/1276
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 4)
 #EXTVLCOPT:network-caching=1000
-https://hplay.tv/live/augetv/12396547488/1276
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 5)
-#EXTVLCOPT:network-caching=1000
 http://limed.cc:80/4x6cXF/ehfxdp/95666
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 6)
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 5)
 #EXTVLCOPT:network-caching=1000
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/2
 
