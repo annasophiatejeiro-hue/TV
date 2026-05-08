@@ -164,6 +164,20 @@ https://archive.org/download/3xpl-0c-1v-4-2-2001-hd-2-96-gb/3xpl0c1v4%202%20%282
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fd/UnaParejaExplosiva3.png/revision/latest?cb=20141009062012&path-prefix=es" group-title="Película",Una Pareja Explosiva 3 (2007)
 https://archive.org/download/3xpl-0c-1v-4-2-2001-hd-2-96-gb/3xpl0c1v4%203%20%282007%29%20HD%202%2C82%20GB.mkv
 
+#EXTINF:-1 tvg-logo="https://www.hugozapata.com.ar/wp-content/uploads/2020/05/space-jam.jpg" group-title="Película",Space Jam (1996) 
+https://dn710205.ca.archive.org/0/items/sspaci-4le-j-4mb-0-1996-720p-1-81-gb/Sspaci4le%20J4m%27b0%20%281996%29%20720p%201%2C81%20GB.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2021/04/space-jam-e1617488371722.jpg?fit=2416%2C2416&ssl=1" group-title="Película",Space Jam 2 (2021) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
+
+#EXTINF:-1 tvg-logo="https://cuadernoderetazos.wordpress.com/wp-content/uploads/2013/11/matilda.jpg" group-title="Película",Matilda (1996) 
+https://archive.org/download/m-4t-1lda/M4t1lda.mkv
+#https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
+#https://content.jwplatform.com/videos/tVuH5d4I-H6HLvZxB.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrX1IO2zmUqfV5bbUTuq4_8Bg_1c1STvKsQ&s" group-title="Película",Rango (2011)
+https://content.jwplatform.com/videos/CaszktLq-9GO24Csk.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViYTU5MDMtNjBjZC00OGIxLWI2MTItYzk5ZDgzYmY5YTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Película",Angry Birds: La película (2016)
 https://dl.dropboxusercontent.com/s/794f7b57ukdxl1b/SalynPM-Angry.birds.mp4?dl=0
 
@@ -198,40 +212,23 @@ https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7goxfOjtm5NdCwiOL97ZNBaTgBdRlG9ajbw&s" group-title="Película",Kung Fu Panda 4 (2024)
 https://dl.dropbox.com/scl/fi/8fm8d0ktuvq0l8icgirlh/kung4.mkv?rlkey=p6lk2tbw00i9du7men82bb0ui
 
-#EXTINF:-1 tvg-logo="https://i.redd.it/kdjg06vte59b1.jpg" group-title="Película",Los Increíbles 1 (2004)
+#EXTINF:-1 tvg-logo="https://i.redd.it/kdjg06vte59b1.jpg" group-title="Película",Los Increíbles (2004)
 https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
 
 #EXTINF:-1 tvg-logo="https://media.diariouno.com.ar/p/56cf88da4d2c227a1848dbc908a634f8/adjuntos/298/imagenes/001/390/0001390421/0019171555jpg.jpg" group-title="Película",Los Increíbles 2 (2018)
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrX1IO2zmUqfV5bbUTuq4_8Bg_1c1STvKsQ&s" group-title="Película",Rango (2011)
-https://content.jwplatform.com/videos/CaszktLq-9GO24Csk.mp4
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2024/06/intensamente-2-cine-america-flyer-santa-fe-agenda-cultural-disney-pixar2.jpg?resize=696%2C940&ssl=1" roup-title="Película",Intensamente 2 (2024)
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/IntensaMente.2.2024.720p-Dual-Lat.mkv
 
-#EXTINF:-1 tvg-logo="https://cuadernoderetazos.wordpress.com/wp-content/uploads/2013/11/matilda.jpg" group-title="Película",Matilda (1996) 
-https://archive.org/download/m-4t-1lda/M4t1lda.mkv
-#https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
-#https://content.jwplatform.com/videos/tVuH5d4I-H6HLvZxB.mp4
-
-#EXTINF:-1 tvg-logo="https://www.hugozapata.com.ar/wp-content/uploads/2020/05/space-jam.jpg" group-title="Película",Space Jam (1996) 
-https://dn710205.ca.archive.org/0/items/sspaci-4le-j-4mb-0-1996-720p-1-81-gb/Sspaci4le%20J4m%27b0%20%281996%29%20720p%201%2C81%20GB.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2021/04/space-jam-e1617488371722.jpg?fit=2416%2C2416&ssl=1" group-title="Película",Space Jam 2 (2021) 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrX1IO2zmUqfV5bbUTuq4_8Bg_1c1STvKsQ&s" group-title="Película",Elio (2025)
+https://archive.org/download/04_20250819/text-editors/02.mp4
 
 ##EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_300_300/pictures/18/11/21/00/23/0050056.jpg" group-title="Película",Un viernes de locos (2003)
 #https://pomf2.lain.la/f/gabb4xt6.mp4?download=1
 
 ##EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/otroviernesdeloco-poster.jpg" group-title="Película",Otro viernes de locos (2025)
 #https://pomf2.lain.la/f/ry5oh5bx.mp4?download=1
-
-#EXTINF:-1 tvg-logo="https://www.irun.org/images/actualidad-ocio-agenda/agenda/2021/abuztua/rey-leon.jpg" group-title="Película",El Rey León (2019)
-https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yrZqrGVbmoYZJdncnx60JUhzsGm.jpg" group-title="Película",Lilo y Stitch (2025)
-https://archive.org/download/nuevaplanilladekamila/Lilo.y.Stitch.2025.1080p-Dual-Lat.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAAhLHPJ289z1onNDJPVBF8MkGYNRu0-lGw&s" group-title="Película",Toy Story (1995)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
@@ -253,6 +250,12 @@ https://archive.org/download/l-2_20250817/M%20%282%29.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c1/Mulan-2020-Poster.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201105182002&path-prefix=es" group-title="Película",Mulan (2020)
 https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
+
+#EXTINF:-1 tvg-logo="https://www.irun.org/images/actualidad-ocio-agenda/agenda/2021/abuztua/rey-leon.jpg" group-title="Película",El Rey León (2019)
+https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yrZqrGVbmoYZJdncnx60JUhzsGm.jpg" group-title="Película",Lilo y Stitch (2025)
+https://archive.org/download/nuevaplanilladekamila/Lilo.y.Stitch.2025.1080p-Dual-Lat.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYhY-ymcVNuSTK2Y9hB2BbQKK5G4RYGgBVA&s" group-title="Película",Maléfica (2014)
 https://archive.org/download/04_20260404/up/05.mp4
