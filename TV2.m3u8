@@ -364,10 +364,7 @@ http://45.5.151.62:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 4)
 http://181.13.252.102:8000/play/a07h/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 1)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1820
-
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🌎
@@ -391,10 +388,7 @@ http://190.7.19.197:232/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇦🇷 (Op. 2)
 http://181.13.252.102:8000/play/a02z/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 (Op. 1)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1823
-
-#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🌎
@@ -406,10 +400,7 @@ http://45.5.151.147:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇦🇷 (Op. 2)
 http://45.5.151.62:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 (Op. 1)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1824
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🌎
@@ -424,10 +415,7 @@ http://190.7.19.197:232/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇦🇷 (Op. 3)
 http://181.13.252.102:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 (Op. 1)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1825
-
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🌎 (Op. 1)
@@ -980,10 +968,7 @@ http://190.7.19.197:232/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🌎 (Op. 6)
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255x5tBxrHrz1cktsG2xGKzx/m3u8
 
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 (Op. 1)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1843
-
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" tvg-id="LaNacionPlus.ar" group-title="Noticias",LN+ 🇦🇷 (Op. 1)
@@ -1006,11 +991,8 @@ http://190.7.19.197:232/play/a043/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="General Br",Multishow 🇧🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="General Br",Multishow 🇧🇷
 http://limed.cc:80/4x6cXF/ehfxdp/95661
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="General Br",Multishow 🇧🇷 (Op. 2)
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1851
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 (Op. 1)
 http://181.78.7.90:12500/play/a0j4/index.m3u8
@@ -1114,7 +1096,7 @@ http://190.7.19.197:232/play/a00w/index.m3u8
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 9)
-https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257EdwmuQy2LSm7fGbmSLVjX/m3u8
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -1220,9 +1202,6 @@ http://181.78.7.90:12500/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 🇦🇷 (Op. 4)
 http://181.13.252.102:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" group-title="General Br",Studio Universal 🇧🇷 
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
-
 #EXTINF:-1 tvg-id="SyFy" tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Cine US",SyFy 🇺🇸
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
@@ -1242,12 +1221,9 @@ http://45.5.151.147:8000/play/a00g/index.m3u8
 http://45.238.54.67:8000/play/b02e/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 🇦🇷 (Op. 4)
-http://gama-mx.com:8080/PEDRO1984@/PEDRO1984@/50510.m3u8
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 🇦🇷 (Op. 5)
 http://181.13.252.102:8000/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 🇦🇷 (Op. 5)
 http://45.5.151.62:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 🇦🇷 
@@ -1521,11 +1497,8 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16062
 ##EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends (Inglés)
 #http://cord-cutter.net:8080/bn80NG/909467/66407
 
-#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 (Op. 1)
+#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 
 http://79.127.238.228:14455
-
-#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 (Op. 2)
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12060
 
 #EXTINF:-1 tvg-id="Hey Arnold!" tvg-logo="https://brandpalettes.com/wp-content/uploads/2018/11/Hey-Arnold-Logo.png" group-title="Pluto TV",Hey Arnold! 🇺🇸
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
@@ -1648,9 +1621,9 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-logo="https://www.aeradio.cl/wp-content/uploads/2024/04/AE-RADIO-2024.png" group-title="Radio FM",AE Radio TV 🇨🇱
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aspen 102.7" tvg-logo="https://www.radioaspen.com.py/wp-content/uploads/2021/02/Aspen-blanco.png" group-title="Radio FM" user-agent="iPhone",ASPEN TV 🇵🇾
-#EXTVLCOPT:http-user-agent=iPhone
-https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
+##EXTINF:-1 tvg-id="Aspen 102.7" tvg-logo="https://www.radioaspen.com.py/wp-content/uploads/2021/02/Aspen-blanco.png" group-title="Radio FM" user-agent="iPhone",ASPEN TV 🇵🇾
+##EXTVLCOPT:http-user-agent=iPhone
+#https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Cosquín Rock Radio" tvg-logo="https://comercial.cadena3.com/img/logo-cosquin-rock-radio.png" group-title="Radio FM" user-agent="iPhone",Cosquín Rock Radio (Córdoba) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1668,13 +1641,13 @@ https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream/68b74fd1d6512526f1f7c75a/publi
 #EXTVLCOPT:http-user-agent=iPhone
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
-#EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://detodoradio.com/radios-logos/latina.png" group-title="Radio FM" user-agent="iPhone",Radio Latina 101.1 🇦🇷
-#EXTVLCOPT:http-user-agent=iPhone
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://detodoradio.com/radios-logos/latina.png" group-title="Radio FM",Radio Latina 101.1 🇦🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8?uid=aaefb8b7188f6d9d693b207f5cf9c240
 
-##EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" group-title="Radio FM" user-agent="iPhone",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷 (Not 24/7)
-##EXTVLCOPT:http-user-agent=iPhone
-#https://vivo.solumedia.com:19360/sonica/sonica.m3u8
+#EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" group-title="Radio FM",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷 (Not 24/7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://vivo.solumedia.com:19360/sonica/sonica.m3u8
 
 #EXTINF:-1 tvg-id="Vorterix" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHIWRYpTcsJ7dfpMQpBOriBJRlhHpvLRyqIv579weemLTZquoYttYUMvK6Gc9e9enHeVoqzUqR7Qr9tbqg1xOeHy12oGc3jb6-lIN6c0C5uOgczfhdML8l-3YCeIdKmRW-E_fm_BDL7RlVKTx9zZNM5ALii84k8YSyXIF8lCR0-9cBGYkOqfhhjAPlhSY/s500/Vorterix%202024.png" group-title="Radio" user-agent="iPhone",Vorterix 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1752,7 +1725,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 
 #EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://detodoradio.com/radios-logos/latina.png" group-title="Radio FM" user-agent="iPhone",Radio Latina 101.1 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
-https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8?uid=0a592f65e40101730b694007871b9083
 
 #EXTINF:-1 tvg-id="Los 40 105.5" tvg-logo="https://player.los40.com.ar/build/assets/los40argentina/img/300x300.png" group-title="Radio FM" user-agent="iPhone",Radio Los 40 105.5 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
