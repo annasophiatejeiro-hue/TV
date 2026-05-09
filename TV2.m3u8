@@ -50,13 +50,13 @@ http://45.5.151.62:8000/play/a002/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih_720p/index.m3u8
 
-##EXTINF:-1 tvg-id="Adult swim" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 🇦🇷 (Op. 1)
-##EXTVLCOPT:network-caching=1000
-#http://181.79.84.66:8000/play/a01b/index.m3u8
-
 #EXTINF:-1 tvg-id="Adult swim" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 🇦🇷 
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="Adult swim" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 🌎
+#EXTVLCOPT:network-caching=1000
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254iX3W9TBtS8A6mK0HoD05k/m3u8
 
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 (Op. 1)
 http://181.13.252.102:8000/play/a01z/index.m3u8
@@ -127,6 +127,9 @@ http://45.173.75.4:2061/play/a05s
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true" group-title="Documentales",Animal Planet 🌎 (Op. 2)
 http://191.97.61.32:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true" group-title="Documentales",Animal Planet 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256-CouPoLYn-nAGgUWMz5Yl/m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-AXN.png?raw=true" group-title="General",AXN 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -346,6 +349,9 @@ http://181.13.252.102:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Discovery.png?raw=true" group-title="Documentales",Discovery Channel 🇧🇷 
 https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Discovery.png?raw=true" group-title="Documentales",Discovery Channel 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254gVVextOEi3fK05m1w-2Hf/m3u8
+
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a03g/index.m3u8
 
@@ -364,6 +370,9 @@ http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1820
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇧🇷 (Op. 2)
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255HuJa5JywoLD5WdkgkjjRK/m3u8
+
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a01v/index.m3u8
 
@@ -372,6 +381,9 @@ http://190.7.19.197:232/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇧🇷
 https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254-Xu9Q3T7cI6qCqiPUyRya/m3u8
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a053/index.m3u8
@@ -385,6 +397,9 @@ http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1823
 #EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇧🇷 (Op. 2)
 https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery theater" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255eoLtc94tKNIgDS9HacNq7/m3u8
+
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a027/index.m3u8
 
@@ -396,6 +411,9 @@ http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1824
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇧🇷 (Op. 2)
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257anDM3VrpBXK8V6ypMkOVg/m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a01x/index.m3u8
@@ -418,6 +436,9 @@ http://201.230.137.126:8000/play/a17o/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🌎 (Op. 2)
 http://38.7.101.90:8000/play/a1za/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255e4_4Hj8kRbpe5UqpwbprW/m3u8
+
 #EXTINF:-1 tvg-id="Dreamworks" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DreamWorks_Animation_2016_%28Moon_Boy%29.svg/revision/latest/scale-to-width-down/250?cb=20220112025943" group-title="Caricaturas",Dreamworks 🌎 (Op. 1)
 http://190.0.247.38:8000/play/a00k
 
@@ -433,7 +454,13 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🇦🇷 (Op. 3)
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🇦🇷 (Op. 4)
+http://38.252.213.12:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🇦🇷 (Op. 5)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
+
+##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 🇦🇷 (Op. 6)
 #http://live.btv.mx:2424/stream/278758/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 (Op. 1)
@@ -442,8 +469,17 @@ http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 (Op. 2)
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 
-##EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports + 🇦🇷 
-#http://190.238.43.117:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 (Op. 3)
+http://179.63.6.9:8000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255r3yVqmo4P7lyNhCtFh2CF/m3u8
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports + 🇦🇷 (Op. 1)
+http://177.53.152.117:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports + 🇦🇷 (Op. 2)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256v2Ptu_IQdvov85RUdYmry/m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 1)
 http://45.5.151.62:8000/play/a022
@@ -527,6 +563,9 @@ https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://181.13.252.102:8000/play/a05a/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 (Op. 9)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257O983Gj-GARdJsFE-DvGzl/m3u8
+
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes Br",ESPN 1 🇧🇷 
 #EXTVLCOPT:network-caching=1000
 http://46.151.196.223:14432
@@ -545,6 +584,9 @@ https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://181.13.252.102:8000/play/a059/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes",ESPN 2 🇦🇷 (Op. 5)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254CkAuWWavFDZPaKIxuX4A1/m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes Br",ESPN 2 🇧🇷 
 #EXTVLCOPT:network-caching=1000
 http://46.151.196.223:14438
@@ -562,6 +604,9 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17_720p/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://181.13.252.102:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 (Op. 5)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255jU9Z-zHkJ3fJD-vVOS61u/m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes Br",ESPN 3 🇧🇷 
 #EXTVLCOPT:network-caching=1000
@@ -588,6 +633,9 @@ http://181.13.252.102:8000/play/a076/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://46.151.196.223:14450
 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254RIXNIfsWQ1HXmun2mUigO/m3u8
+
 ##EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 🇦🇷 
 #http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-104_720.m3u8
 
@@ -600,6 +648,9 @@ http://181.224.200.5:2277/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 🌎 (Op. 2)
 http://181.176.155.7:8090/play/a1e8/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2571ZC9yqvy4ql22rimoUSYF/m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes Br",ESPN 6 🇧🇷 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -619,6 +670,9 @@ http://38.7.101.90:8000/play/a1zq/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes",ESPN 6 🌎 (Op. 5)
 http://181.205.130.194:4000/play/a07t
 
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes",ESPN 6 🌎 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254B1e4KJrnvxVRXAF0Bj67f/m3u8
+
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7 🌎 (Op. 1)
 http://181.224.200.5:2277/play/a02l/index.m3u8
 
@@ -633,6 +687,9 @@ http://191.97.59.33:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7 🌎 (Op. 5)
 http://38.7.101.90:8000/play/a1zj/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7 🌎 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254eY9-q0GP96Y2070UT3dqo/m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a00m/index.m3u8
@@ -649,6 +706,9 @@ http://45.5.151.62:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium 🇦🇷 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a05u/index.m3u8
@@ -675,6 +735,9 @@ http://45.5.151.62:8000/play/a00i/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sports 1 🇦🇷 (Op. 9)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ndZNXnP83PBDj5pbyzf7T/m3u8
+
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports2.png?raw=true" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a03p/index.m3u8
 
@@ -700,6 +763,9 @@ http://45.5.151.62:8000/play/a00j/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports2.png?raw=true" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 9)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257lLW5OjG7gMPiErrix8pUF/m3u8
+
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports3.png?raw=true" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a04x/index.m3u8
 
@@ -721,6 +787,9 @@ http://45.5.151.62:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports3.png?raw=true" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports3.png?raw=true" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 8)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25740sCbtgP3iCeFcvJXUuzy/m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine",FX 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a01g/index.m3u8
@@ -764,7 +833,13 @@ http://45.5.151.147:8000/play/a00z/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" group-title="Cine",HBO 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254qnzVDR7P3O9p5mhGrxpty/m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" group-title="Cine",HBO 🌎 (Op. 5)
 http://45.5.118.152:8000/play/a0bm/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" group-title="Cine",HBO 🌎 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257B9uC_QUsaSGpR1zq_D4LC/m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" group-title="Cine",HBO 2 🌎 (Op. 1)
 http://45.5.117.57:8999/play/a05r/index.m3u8
@@ -776,6 +851,9 @@ http://45.5.151.147:8000/play/a010/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" group-title="Cine",HBO 2 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256qrDaRW7xa5zUvN_qQebUU/m3u8
+
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOFamiliy.png?raw=true" group-title="Cine",HBO Family 🌎 (Op. 1)
 http://45.181.122.46:8090/play/a017
 
@@ -786,12 +864,18 @@ http://181.119.111.25:4000/play/a0hh/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOFamiliy.png?raw=true" group-title="Cine",HBO Family 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254L6RfE6ZKBqSrGHk17CLkT/m3u8
+
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine",HBO Mundi 🌎 (Op. 1)
 http://45.5.151.147:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine",HBO Mundi 🌎 (Op. 2)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine",HBO Mundi 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255cYF1PEunkd-cSOmKrmZRz/m3u8
 
 #EXTINF:-1 tvg-id="HBO plus" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPlus.png?raw=true" group-title="Cine",HBO Plus 🌎 (Op. 1)
 http://45.5.151.147:8000/play/a013/index.m3u8
@@ -800,6 +884,9 @@ http://45.5.151.147:8000/play/a013/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO plus" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPlus.png?raw=true" group-title="Cine",HBO Plus 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257XiDu1PphN6Z9s-t5Ll5sN/m3u8
+
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPop.png?raw=true" group-title="Cine",HBO POP 🌎 (Op. 1)
 http://45.5.151.147:8000/play/a014/index.m3u8
 
@@ -807,9 +894,15 @@ http://45.5.151.147:8000/play/a014/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc_720p/index.m3u8
 
-##EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 🌎
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPop.png?raw=true" group-title="Cine",HBO POP 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256343jrbGzqrtNG_7nsZr7A/m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 🌎 (Op. 1)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-#https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4_720p/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 🌎 (Op. 2)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254x_WOtRp-XqmHJ7CTql6WJ/m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme 🌎 (Op. 1)
 http://45.181.122.46:8090/play/a018
@@ -821,8 +914,11 @@ http://45.5.151.147:8000/play/a015/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/HGTV_2015_azul.svg/revision/latest/scale-to-width-down/300?cb=20210817060747&path-prefix=es" group-title="Documentales",HGTV 🇦🇷 
-http://138.121.114.91:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2554wepscP6c0aYxGrniCLg9/m3u8
+
+##EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/HGTV_2015_azul.svg/revision/latest/scale-to-width-down/300?cb=20210817060747&path-prefix=es" group-title="Documentales",HGTV 🇦🇷 
+#http://138.121.114.91:8000/play/a06o/index.m3u8
 
 ##EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/HGTV_2015_azul.svg/revision/latest/scale-to-width-down/300?cb=20210817060747&path-prefix=es" group-title="Documentales",HGTV 🇦🇷 (Op. 2)
 #http://138.121.114.91:8000/play/a06o/index.m3u8
@@ -842,6 +938,9 @@ http://181.13.252.102:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="History Channel" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" group-title="Documentales",History Channel 🇧🇷
 http://46.151.196.223:14410
 
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" group-title="Documentales",History Channel 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256UXqnlHEgCFBGsye3mob-_/m3u8
+
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",History 2 🇦🇷 (Op. 1)
 http://181.78.7.90:12500/play/a0fi/index.m3u8
 
@@ -854,14 +953,14 @@ http://181.13.252.102:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="History 2" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",History 2 🇧🇷
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1838
 
+#EXTINF:-1 tvg-id="History 2" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",History 2 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257NY4fF6ol8WWe8uLfGpail/m3u8
+
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/11-HolaTV.png?raw=true" group-title="General",Hola TV 🇪🇸 (Op. 1)
-http://201.230.137.126:8000/play/a16p/index.m3u8
+http://200.125.170.122:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/11-HolaTV.png?raw=true" group-title="General",Hola TV 🇪🇸 (Op. 2)
-http://45.5.117.57:8999/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/11-HolaTV.png?raw=true" group-title="General",Hola TV 🇪🇸 (Op. 3)
-http://200.125.170.122:8000/play/a04k/index.m3u8
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256c-IKW2xDhPScOGBqALiRT/m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🌎 (Op. 1)
 http://45.181.122.46:8090/play/a020
@@ -877,6 +976,9 @@ http://45.5.151.147:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🌎 (Op. 5)
 http://190.7.19.197:232/play/a083/index.m3u8
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🌎 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255x5tBxrHrz1cktsG2xGKzx/m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 🇧🇷 (Op. 1)
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1843
@@ -925,8 +1027,11 @@ http://38.7.101.90:8000/play/a1ze/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="General US",MTV 🇺🇸
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/08-MusicTop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música",MusicTop 🇦🇷 
+#EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/08-MusicTop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música",MusicTop 🇦🇷 (Op. 1)
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/08-MusicTop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música",MusicTop 🇦🇷 (Op. 2)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2550w3kb-WDDuWBXA9CT--qF/m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🇦🇷 (Op. 1)
 http://45.5.151.147:8000/play/a022/index.m3u8
@@ -940,6 +1045,9 @@ http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🇦🇷 (Op. 4)
 http://181.13.252.102:8000/play/a05g/index.m3u8
 
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🌎
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255kPPLwfjc4Ian5QhypQeCJ/m3u8
+
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20171022124402" group-title="Deportes US",NBA TV 🇺🇸 (Op. 1)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
@@ -952,8 +1060,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NetTV 🇦🇷 (Op. 2)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Quiero_Musica_en_mi_idioma.png/revision/latest?cb=20210525000156&path-prefix=es" group-title="Música",Quiero Música 🇦🇷 
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Quiero_Musica_en_mi_idioma.png/revision/latest?cb=20210525000156&path-prefix=es" group-title="Música",Quiero Música 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Quiero_Musica_en_mi_idioma.png/revision/latest?cb=20210525000156&path-prefix=es" group-title="Música",Quiero Música 🇦🇷 (Op. 2)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257o3hAYBeFDlLPa55Uzoi5L/m3u8
 
 #EXTINF:-1 tvg-id="RBSTV.br" tvg-logo="https://static.wikia.nocookie.net/althistory/images/7/7d/RBS_TV_2019_%28ParadoXus%29.png/revision/latest?cb=20231224164905&path-prefix=pt" group-title="Brasil",RBS TV Porto Alegre
 https://hplay.tv/augetv/12396547488/10.m3u8
@@ -1001,6 +1112,9 @@ http://190.7.19.197:232/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 8)
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Logotipo_da_Rede_Globo_%282015-2021%29.png/revision/latest?cb=20220108173408" group-title="Brasil",Rede Globo 🇧🇷 (Op. 9)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257EdwmuQy2LSm7fGbmSLVjX/m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Brasil",SBT 🇧🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
@@ -1161,10 +1275,13 @@ http://181.13.252.102:8000/play/a058/index.m3u8
 http://45.5.151.62:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 5)
+http://45.5.151.147:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 6)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
@@ -1235,6 +1352,9 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Sports Premium 🇦🇷 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Caricaturas",Tooncast 🌎 (Op. 1)
 http://45.5.151.147:8000/play/a028/index.m3u8
 
@@ -1273,11 +1393,14 @@ http://45.5.151.62:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 5)
 http://181.13.252.102:8000/play/a02s/index.m3u8
 
-##EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 6)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25701dNVhmiQaGKq77OrhH4H/m3u8
+
+##EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 7)
 #https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-##EXTINF:-1 tvg-id="Universal cinema" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="Cine",Universal Cinema 🌎 
-#http://190.97.183.108:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="Universal cinema" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="Cine",Universal Cinema 🌎 
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255Cmvaz4p28tYLXyLv91TNJ/m3u8
 
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="Cine",Universal Comedy 🌎 (Op. 1)
 http://45.5.117.99:8000/play/a0i5/index.m3u8
@@ -1288,11 +1411,17 @@ http://200.229.147.142:8000/play/a03v
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="Cine",Universal Comedy 🌎 (Op. 3)
 http://45.5.119.43:4000/play/a0i5/index.m3u8
 
+#EXTINF:-1 tvg-id="Universal Comedy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="Cine",Universal Comedy 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254cj43rQleuK-i3UeupYfIk/m3u8
+
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="Cine",Universal Crime 🌎 (Op. 1)
 http://200.229.147.142:8000/play/a03u
 
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="Cine",Universal Crime 🌎 (Op. 2)
 http://45.5.119.43:4000/play/a0i4/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="Cine",Universal Crime 🌎 (Op. 3)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255cLIBvrFFcZSIrqkMH1XwK/m3u8
 
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cine",Universal Premiere 🌎 (Op. 1)
 http://200.229.147.142:8000/play/a03r
@@ -1302,6 +1431,9 @@ http://200.229.147.142:8000/play/a03s
 
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cine",Universal Premiere 🌎 (Op. 3)
 http://45.5.119.43:4000/play/a0i2/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cine",Universal Premiere 🌎 (Op. 4)
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257JYMWnX6pGzac-CUzvsru5/m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine",Universal TV 🇦🇷 (Op. 1)
 http://45.5.151.62:8000/play/a01k/index.m3u8
@@ -1452,7 +1584,7 @@ https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16177
 
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Música",Stingray iConcerts 🇨🇦 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-111_720.m3u8
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI2547ht4On-Sj0QKC64J5vsa4/m3u8
 
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Música",Stingray Classic Rock 🇨🇦
 https://lotus.stingray.com/manifest/ose-101ads-montreal/webapp/master.m3u8
