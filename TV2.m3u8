@@ -1792,147 +1792,147 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 
 ###### RADIOS ######
 
-#EXTINF:-1 tvg-id="Aspen 102.3" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" tvg-art="https://cdn.aptoide.com/imgs/1/2/e/12efee597500e110fa409eece3f93f42_fgraphic.jpg" group-title="Radio FM" user-agent="iPhone",Radio Aspen 102.3 🇦🇷
+#EXTINF:-1 tvg-id="Aspen 102.3" tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" tvg-banner="https://cdn.aptoide.com/imgs/1/2/e/12efee597500e110fa409eece3f93f42_fgraphic.jpg" group-title="Radio FM" user-agent="iPhone",Radio Aspen 102.3 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
-#EXTINF:-1 tvg-id="Bahia FM 88.7" tvg-logo="https://www.phonostar.de/images/auto_created/Bahia_FM184x184.png" tvg-art="https://i.ytimg.com/vi/GrAEDe5X5kA/maxresdefault.jpg" group-title="Radio FM BR" user-agent="iPhone",Radio Bahia FM 88.7 🇧🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Bahia FM 88.7" tvg-logo="https://www.phonostar.de/images/auto_created/Bahia_FM184x184.png" tvg-banner="https://i.ytimg.com/vi/GrAEDe5X5kA/maxresdefault.jpg" group-title="Radio FM BR" user-agent="iPhone",Radio Bahia FM 88.7 🇧🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=iPhone
 https://ice5.fabricahost.com.br/radiobahiafm
 
-#EXTINF:-1 tvg-id="Bahia FM 88.7" tvg-logo="https://www.phonostar.de/images/auto_created/Bahia_FM184x184.png" tvg-art="https://i.ytimg.com/vi/GrAEDe5X5kA/maxresdefault.jpg" group-title="Radio FM BR" user-agent="iPhone",Radio Bahia FM 88.7 🇧🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Bahia FM 88.7" tvg-logo="https://www.phonostar.de/images/auto_created/Bahia_FM184x184.png" tvg-banner="https://i.ytimg.com/vi/GrAEDe5X5kA/maxresdefault.jpg" group-title="Radio FM BR" user-agent="iPhone",Radio Bahia FM 88.7 🇧🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=iPhone
 https://ice.fabricahost.com.br/radiobahiafm
 
-#EXTINF:-1 tvg-id="Blue 100.7" tvg-logo="https://play-lh.googleusercontent.com/cdTmcCw1ehgO8w8-41GSHulXPY4mx5SFLjiB9JcGXdZXxFOt0pucF-dfGOunQ2X0jkg" tvg-art="https://i.ytimg.com/vi/vWCRoZrHowc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Blue 100.7 🇦🇷
+#EXTINF:-1 tvg-id="Blue 100.7" tvg-logo="https://play-lh.googleusercontent.com/cdTmcCw1ehgO8w8-41GSHulXPY4mx5SFLjiB9JcGXdZXxFOt0pucF-dfGOunQ2X0jkg" tvg-banner="https://i.ytimg.com/vi/vWCRoZrHowc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Blue 100.7 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
 
-#EXTINF:-1 tvg-id="Cadena 3 100.5" tvg-logo="https://cdn-1.webcatalog.io/catalog/cadena-3-argentina/cadena-3-argentina-icon.png?v=1720407871560" tvg-art="https://i.ytimg.com/vi/yEKMEfcVTEg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCq7uKW8V4dDDR1mk9RCrkpvrANzg" group-title="Radio FM" user-agent="iPhone",Radio Cadena 3 100.5 (Córdoba) 🇦🇷
+#EXTINF:-1 tvg-id="Cadena 3 100.5" tvg-logo="https://cdn-1.webcatalog.io/catalog/cadena-3-argentina/cadena-3-argentina-icon.png?v=1720407871560" tvg-banner="https://i.ytimg.com/vi/yEKMEfcVTEg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCq7uKW8V4dDDR1mk9RCrkpvrANzg" group-title="Radio FM" user-agent="iPhone",Radio Cadena 3 100.5 (Córdoba) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3.mp3
 
-#EXTINF:-1 tvg-id="Cadena Heat 91.9" tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat-1.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFvT1yywDeNMo1ga65TEMu1ZyrVEDEC0WFg&s" group-title="Radio FM" user-agent="iPhone",Radio Cadena Heat 91.9 (Córdoba) 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Cadena Heat 91.9" tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat-1.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFvT1yywDeNMo1ga65TEMu1ZyrVEDEC0WFg&s" group-title="Radio FM" user-agent="iPhone",Radio Cadena Heat 91.9 (Córdoba) 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENAHEAT_SC
 
-#EXTINF:-1 tvg-id="Cadena Heat 91.9" tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat-1.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFvT1yywDeNMo1ga65TEMu1ZyrVEDEC0WFg&s" group-title="Radio FM" user-agent="iPhone",Radio Cadena Heat 91.9 (Córdoba) 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Cadena Heat 91.9" tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat-1.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFvT1yywDeNMo1ga65TEMu1ZyrVEDEC0WFg&s" group-title="Radio FM" user-agent="iPhone",Radio Cadena Heat 91.9 (Córdoba) 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=iPhone
 https://liveradio.mediainbox.net/fmcordoba.mp3
 
-#EXTINF:-1 tvg-id="Continental 97.3" tvg-logo="https://cdn-profiles.tunein.com/s169661/images/logog.png" tvg-art="https://i1.sndcdn.com/visuals-000307788128-xgWI1m-t1240x260.jpg" group-title="Radio FM" user-agent="iPhone",Radio Continental 97.3 (Corrientes) 🇦🇷
+#EXTINF:-1 tvg-id="Continental 97.3" tvg-logo="https://cdn-profiles.tunein.com/s169661/images/logog.png" tvg-banner="https://i1.sndcdn.com/visuals-000307788128-xgWI1m-t1240x260.jpg" group-title="Radio FM" user-agent="iPhone",Radio Continental 97.3 (Corrientes) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 http://turadioenvivo.com:11017/stream
 
-#EXTINF:-1 tvg-id="Delta 90.3" tvg-logo="https://syndicast.co.uk/wp-content/uploads/2025/05/Delta-Radio-partnered-with-Syndicast.png" tvg-art="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/d6/8d/d68d9706-a23b-4a71-805c-67f7456c9d77.jpg" group-title="Radio FM" user-agent="iPhone",Radio Delta 90.3 🇦🇷
+#EXTINF:-1 tvg-id="Delta 90.3" tvg-logo="https://syndicast.co.uk/wp-content/uploads/2025/05/Delta-Radio-partnered-with-Syndicast.png" tvg-banner="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/d6/8d/d68d9706-a23b-4a71-805c-67f7456c9d77.jpg" group-title="Radio FM" user-agent="iPhone",Radio Delta 90.3 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://cdn.instream.audio/:9069/stream
 
-#EXTINF:-1 tvg-id="Disney 91.3" tvg-logo="https://img.radios.com.br/radio/lg/radio12826_1736202852.png" tvg-art="https://lumiere-a.akamaihd.net/v1/images/16x9_3_5dcc6b36.jpeg?region=0%2C0%2C1920%2C1080" group-title="Radio FM BR" user-agent="iPhone",Radio Disney 91.3 🇧🇷
+#EXTINF:-1 tvg-id="Disney 91.3" tvg-logo="https://img.radios.com.br/radio/lg/radio12826_1736202852.png" tvg-banner="https://lumiere-a.akamaihd.net/v1/images/16x9_3_5dcc6b36.jpeg?region=0%2C0%2C1920%2C1080" group-title="Radio FM BR" user-agent="iPhone",Radio Disney 91.3 🇧🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://26683.live.streamtheworld.com/DISNEY_BRA_SP.mp3
 
-#EXTINF:-1 tvg-id="Disney 94.3" tvg-logo="https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.217fc174.png&w=256&q=75" tvg-art="https://i.ytimg.com/vi/5U_CmJ6lZCQ/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Disney 94.3 🇦🇷
+#EXTINF:-1 tvg-id="Disney 94.3" tvg-logo="https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.217fc174.png&w=256&q=75" tvg-banner="https://i.ytimg.com/vi/5U_CmJ6lZCQ/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Disney 94.3 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 
-#EXTINF:-1 tvg-id="DSports 103.1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQoiOv2tOAVMJ3Z36mVFwYnZoyHsLR5ISKfb6lApmkn8P_Aj45KaDSo815IY-1vjjqgFr_xLQ8GdtnbVIYC2mX_JVT9sgqzbFX30wqqYiQIrT_t3vRxn2hqCOAuFkcvkzzUFEvW67Bl6b7jD5TCfJkDJqUKqRTqW8n06msTe5CiFQ9A5a7wliFam9G9VI/s1132/dsports.png" tvg-art="https://i.ytimg.com/vi/vri7DWVdBLo/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio DSports 103.1 🇦🇷
+#EXTINF:-1 tvg-id="DSports 103.1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQoiOv2tOAVMJ3Z36mVFwYnZoyHsLR5ISKfb6lApmkn8P_Aj45KaDSo815IY-1vjjqgFr_xLQ8GdtnbVIYC2mX_JVT9sgqzbFX30wqqYiQIrT_t3vRxn2hqCOAuFkcvkzzUFEvW67Bl6b7jD5TCfJkDJqUKqRTqW8n06msTe5CiFQ9A5a7wliFam9G9VI/s1132/dsports.png" tvg-banner="https://i.ytimg.com/vi/vri7DWVdBLo/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio DSports 103.1 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC_SC
 
-#EXTINF:-1 tvg-id="La 100 99.9" tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png" tvg-art="https://myradioenvivo.ar/public/uploads/radio_img/la-100/fb_cover.jpg" group-title="Radio FM" user-agent="iPhone",Radio La 100 99.9 🇦🇷 
+#EXTINF:-1 tvg-id="La 100 99.9" tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png" tvg-banner="https://myradioenvivo.ar/public/uploads/radio_img/la-100/fb_cover.jpg" group-title="Radio FM" user-agent="iPhone",Radio La 100 99.9 🇦🇷 
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56AAC.aac
 
-#EXTINF:-1 tvg-id="La Nación 104.9 + música" tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZVfmL0oSFpzE_NibgGMIj2giby3zmxbrbQ&s" group-title="Radio FM" user-agent="iPhone",Radio LN+ música 104.9 🇦🇷
+#EXTINF:-1 tvg-id="La Nación 104.9 + música" tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZVfmL0oSFpzE_NibgGMIj2giby3zmxbrbQ&s" group-title="Radio FM" user-agent="iPhone",Radio LN+ música 104.9 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://stream.radio.co/s2ed3bec0a/listen
 
-#EXTINF:-1 tvg-id="La Red 910" tvg-logo="https://media.a24.com/adjuntos/296/migration/images/2020/6/10/brcRLnEriw.png" tvg-art="https://i.ytimg.com/vi/gZsvCBV4Ywo/maxresdefault.jpg" group-title="Radio AM" user-agent="iPhone",Radio La Red 910 (AM) 🇦🇷 
+#EXTINF:-1 tvg-id="La Red 910" tvg-logo="https://media.a24.com/adjuntos/296/migration/images/2020/6/10/brcRLnEriw.png" tvg-banner="https://i.ytimg.com/vi/gZsvCBV4Ywo/maxresdefault.jpg" group-title="Radio AM" user-agent="iPhone",Radio La Red 910 (AM) 🇦🇷 
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 
-#EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://detodoradio.com/radios-logos/latina.png" tvg-art="https://www.totalmedios.com/img/noticias/2022/08/62ec087a96787__838x390.jpg" group-title="Radio FM" user-agent="iPhone",Radio Latina 101.1 🇦🇷
+#EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://detodoradio.com/radios-logos/latina.png" tvg-banner="https://www.totalmedios.com/img/noticias/2022/08/62ec087a96787__838x390.jpg" group-title="Radio FM" user-agent="iPhone",Radio Latina 101.1 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8?uid=0a592f65e40101730b694007871b9083
 
-#EXTINF:-1 tvg-id="Los 40 105.5" tvg-logo="https://player.los40.com.ar/build/assets/los40argentina/img/300x300.png" tvg-art="https://myradioenvivo.ar/public/uploads/radio_img/los40-argentina/fb_cover.jpg" group-title="Radio FM" user-agent="iPhone",Radio Los 40 105.5 🇦🇷
+#EXTINF:-1 tvg-id="Los 40 105.5" tvg-logo="https://player.los40.com.ar/build/assets/los40argentina/img/300x300.png" tvg-banner="https://myradioenvivo.ar/public/uploads/radio_img/los40-argentina/fb_cover.jpg" group-title="Radio FM" user-agent="iPhone",Radio Los 40 105.5 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://edge01.radiohdvivo.com/los40
 
-#EXTINF:-1 tvg-id="Radio Nacional LT12 Gral. Madariaga 840 AM" tvg-logo="https://iproxy.tvpublica.com.ar/insecure/rs:fit:0:0/plain/https://cdn.radionacional.com.ar/wp-content/uploads/2025/06/LogoRadioNacional3.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyife_J-8c0dj3svrCoFh4ox5_swhSmfIfUg&s" group-title="Radio AM" user-agent="iPhone",Radio Nacional LT12 Gral. Madariaga 840 (AM) (Paso de los Libres) 🇦🇷
+#EXTINF:-1 tvg-id="Radio Nacional LT12 Gral. Madariaga 840 AM" tvg-logo="https://iproxy.tvpublica.com.ar/insecure/rs:fit:0:0/plain/https://cdn.radionacional.com.ar/wp-content/uploads/2025/06/LogoRadioNacional3.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyife_J-8c0dj3svrCoFh4ox5_swhSmfIfUg&s" group-title="Radio AM" user-agent="iPhone",Radio Nacional LT12 Gral. Madariaga 840 (AM) (Paso de los Libres) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad43
 
-#EXTINF:-1 tvg-id="Mega 98.3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/MEGA.png/revision/latest?cb=20201007173112" tvg-art="https://i.ytimg.com/vi/Cw35crdL3yc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Mega 98.3 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Mega 98.3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/MEGA.png/revision/latest?cb=20201007173112" tvg-banner="https://i.ytimg.com/vi/Cw35crdL3yc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Mega 98.3 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=iPhone
 https://mega.stweb.tv/mega983/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Mega 98.3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/MEGA.png/revision/latest?cb=20201007173112" tvg-art="https://i.ytimg.com/vi/Cw35crdL3yc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Mega 98.3 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Mega 98.3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/MEGA.png/revision/latest?cb=20201007173112" tvg-banner="https://i.ytimg.com/vi/Cw35crdL3yc/maxresdefault.jpg" group-title="Radio FM" user-agent="iPhone",Radio Mega 98.3 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=iPhone
 https://mega.stweb.tv/mega983/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Metro 95.1" tvg-logo="https://escucharradios.com/sites/default/files/radio/logos/logo-radio-metro.png" tvg-art="https://deradios.com/wp-content/uploads/2023/09/metro2-jpg.webp" group-title="Radio FM" user-agent="iPhone",Radio Metro 95.1 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Metro 95.1" tvg-logo="https://escucharradios.com/sites/default/files/radio/logos/logo-radio-metro.png" tvg-banner="https://deradios.com/wp-content/uploads/2023/09/metro2-jpg.webp" group-title="Radio FM" user-agent="iPhone",Radio Metro 95.1 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
 
-#EXTINF:-1 tvg-id="Metro 95.1" tvg-logo="https://escucharradios.com/sites/default/files/radio/logos/logo-radio-metro.png" tvg-art="https://deradios.com/wp-content/uploads/2023/09/metro2-jpg.webp" group-title="Radio FM" user-agent="iPhone",Radio Metro 95.1 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Metro 95.1" tvg-logo="https://escucharradios.com/sites/default/files/radio/logos/logo-radio-metro.png" tvg-banner="https://deradios.com/wp-content/uploads/2023/09/metro2-jpg.webp" group-title="Radio FM" user-agent="iPhone",Radio Metro 95.1 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
 
-#EXTINF:-1 tvg-id="Mia 104.1" tvg-logo="https://1.bp.blogspot.com/-MD0AMXAJ2l4/XWRAdZaXC5I/AAAAAAAAHZA/Eqkpy2maayQds1V-UAupd0_OVa3Bi9ZpwCLcBGAs/s1600/mia-fm-104-1.png" tvg-art="https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg" group-title="Radio AM" user-agent="iPhone",Radio Mia 104.1 🇦🇷
+#EXTINF:-1 tvg-id="Mia 104.1" tvg-logo="https://1.bp.blogspot.com/-MD0AMXAJ2l4/XWRAdZaXC5I/AAAAAAAAHZA/Eqkpy2maayQds1V-UAupd0_OVa3Bi9ZpwCLcBGAs/s1600/mia-fm-104-1.png" tvg-banner="https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg" group-title="Radio AM" user-agent="iPhone",Radio Mia 104.1 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://26683.live.streamtheworld.com/FM1041_56AAC.aac
 
-#EXTINF:-1 tvg-id="RadioMitre.ar" tvg-logo="https://teatrocolon.org.ar/wp-content/uploads/2023/09/mitre.png" tvg-art="https://interradial.wordpress.com/wp-content/uploads/2022/05/mitre.png" group-title="Radio AM" user-agent="iPhone",Radio Mitre 790 (AM) 🇦🇷
+#EXTINF:-1 tvg-id="RadioMitre.ar" tvg-logo="https://teatrocolon.org.ar/wp-content/uploads/2023/09/mitre.png" tvg-banner="https://interradial.wordpress.com/wp-content/uploads/2022/05/mitre.png" group-title="Radio AM" user-agent="iPhone",Radio Mitre 790 (AM) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
 
-#EXTINF:-1 tvg-id="Nacional Rock 93.7" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" tvg-art="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_nacional_rock_937.jpg" group-title="Radio AM" user-agent="iPhone",Radio Nacional Rock 93.7 🇦🇷
+#EXTINF:-1 tvg-id="Nacional Rock 93.7" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" tvg-banner="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_nacional_rock_937.jpg" group-title="Radio AM" user-agent="iPhone",Radio Nacional Rock 93.7 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#EXTINF:-1 tvg-id="O Dia 99.7" tvg-logo="https://tudoradio.com/img/uploads/noticias/653045170791e.png" tvg-art="https://radiosnoar.com/wp-content/uploads/2024/07/Radio-FM-O-Dia-99.7-FM.png.webp" group-title="Radio FM BR" user-agent="iPhone",Radio O Dia 99.7 🇧🇷
+#EXTINF:-1 tvg-id="O Dia 99.7" tvg-logo="https://tudoradio.com/img/uploads/noticias/653045170791e.png" tvg-banner="https://radiosnoar.com/wp-content/uploads/2024/07/Radio-FM-O-Dia-99.7-FM.png.webp" group-title="Radio FM BR" user-agent="iPhone",Radio O Dia 99.7 🇧🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://wz7.servidoresbrasil.com:8274/stream
 
-#EXTINF:-1 tvg-id="One 103.7" tvg-logo="https://cdn-profiles.tunein.com/s83455/images/logog.png?t=153597" tvg-art="https://symphonier.com/img/estaciones/radio-one-103-7.png" group-title="Radio FM" user-agent="iPhone",Radio One 103.7 🇦🇷
+#EXTINF:-1 tvg-id="One 103.7" tvg-logo="https://cdn-profiles.tunein.com/s83455/images/logog.png?t=153597" tvg-banner="https://symphonier.com/img/estaciones/radio-one-103-7.png" group-title="Radio FM" user-agent="iPhone",Radio One 103.7 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://one.stweb.tv/one/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pop Radio 101.5" tvg-logo="https://www.isec.edu.ar/img/egresados/logos/fm-pop-1015.png" tvg-art="https://radiotv.ar/wp-content/uploads/2025/01/radiopop.jpg" group-title="Radio FM" user-agent="iPhone",Radio Pop 101.5 🇦🇷
+#EXTINF:-1 tvg-id="Pop Radio 101.5" tvg-logo="https://www.isec.edu.ar/img/egresados/logos/fm-pop-1015.png" tvg-banner="https://radiotv.ar/wp-content/uploads/2025/01/radiopop.jpg" group-title="Radio FM" user-agent="iPhone",Radio Pop 101.5 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rivadavia 630" tvg-logo="https://ecohouse.org.ar/wp-content/uploads/2016/04/varios.png" tvg-art="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630-1024x576.jpg" group-title="Radio AM" user-agent="iPhone",Radio Rivadavia AM 630 🇦🇷
+#EXTINF:-1 tvg-id="Rivadavia 630" tvg-logo="https://ecohouse.org.ar/wp-content/uploads/2016/04/varios.png" tvg-banner="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630-1024x576.jpg" group-title="Radio AM" user-agent="iPhone",Radio Rivadavia AM 630 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 
-#EXTINF:-1 tvg-id="Rock & Pop 95.9" tvg-logo="https://play-lh.googleusercontent.com/nHWkk59GEFIGmeroxi7n-SXCMgxuZidQsVTbrPq4niM6CfS5J76hoOCPIuFydlP1xgOtbVLT3BM94LAqN5wueg" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oNcyu-hZmztg1tNSZH2I0tUo20ue18aMPw&s" group-title="Radio FM" user-agent="iPhone",Radio Rock & Pop 95.9 🇦🇷
+#EXTINF:-1 tvg-id="Rock & Pop 95.9" tvg-logo="https://play-lh.googleusercontent.com/nHWkk59GEFIGmeroxi7n-SXCMgxuZidQsVTbrPq4niM6CfS5J76hoOCPIuFydlP1xgOtbVLT3BM94LAqN5wueg" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oNcyu-hZmztg1tNSZH2I0tUo20ue18aMPw&s" group-title="Radio FM" user-agent="iPhone",Radio Rock & Pop 95.9 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
 
-#EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PTofcORzxlWSAcbrT4FkM8oU8BMshwwMug&s" group-title="Radio FM" user-agent="iPhone",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷
+#EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PTofcORzxlWSAcbrT4FkM8oU8BMshwwMug&s" group-title="Radio FM" user-agent="iPhone",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 https://01.solumedia.com.ar:8796/stream
 
-#EXTINF:-1 tvg-id="Urbana Play 104.3" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-300x300.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxvwVEMr2KVfP-vZSm_7gCLuZkgmoJ4WhYw&s" group-title="Radio FM" user-agent="iPhone",Radio Urbana Play 104.3 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Urbana Play 104.3" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-300x300.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxvwVEMr2KVfP-vZSm_7gCLuZkgmoJ4WhYw&s" group-title="Radio FM" user-agent="iPhone",Radio Urbana Play 104.3 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=iPhone
 http://ipanel.instream.audio:7102/stream
 
-#EXTINF:-1 tvg-id="Urbana Play 104.3" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-300x300.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxvwVEMr2KVfP-vZSm_7gCLuZkgmoJ4WhYw&s" group-title="Radio FM" user-agent="iPhone",Radio Urbana Play 104.3 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="Urbana Play 104.3" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-300x300.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxvwVEMr2KVfP-vZSm_7gCLuZkgmoJ4WhYw&s" group-title="Radio FM" user-agent="iPhone",Radio Urbana Play 104.3 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=iPhone
 https://cdn.instream.audio:9660/stream
 
-#EXTINF:-1 tvg-id="Vale 97.5" tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_5617_2_29003.png.b66f81ad3042274ed27a569b3a963f47.png" tvg-art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaiEpNY3DiFsMy6IVUtPo2rB4QGCpVV4tNg&s" group-title="Radio FM" user-agent="iPhone",Radio Vale 97.5 🇦🇷
+#EXTINF:-1 tvg-id="Vale 97.5" tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_5617_2_29003.png.b66f81ad3042274ed27a569b3a963f47.png" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaiEpNY3DiFsMy6IVUtPo2rB4QGCpVV4tNg&s" group-title="Radio FM" user-agent="iPhone",Radio Vale 97.5 🇦🇷
 #EXTVLCOPT:http-user-agent=iPhone
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tomorrowland Daybreak Sessions" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" tvg-art="https://i.ytimg.com/vi/aZT73SdhXok/maxresdefault.jpg" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland Daybreak Sessions 🇧🇪
+#EXTINF:-1 tvg-id="Tomorrowland Daybreak Sessions" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" tvg-banner="https://i.ytimg.com/vi/aZT73SdhXok/maxresdefault.jpg" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland Daybreak Sessions 🇧🇪
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK.mp3
 
-#EXTINF:-1 tvg-id="Tomorrowland One World Radio" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" tvg-art="https://i.ytimg.com/vi/JvNotPTImGY/maxresdefault.jpg" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland One World Radio 🇧🇪
+#EXTINF:-1 tvg-id="Tomorrowland One World Radio" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e2/One_World_Radio_%282019-.n.v.%29.png/revision/latest?cb=20240326183332" tvg-banner="https://i.ytimg.com/vi/JvNotPTImGY/maxresdefault.jpg" group-title="Radio Electrónica" user-agent="iPhone",Tomorrowland One World Radio 🇧🇪
 #EXTVLCOPT:http-user-agent=iPhone
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 
