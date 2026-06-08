@@ -15,8 +15,8 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/oppenheimer_poster.jpg" group-title="Película",Oppenheimer (2023) 
 https://archive.org/download/captura-de-pantalla-2023-09-08-184347/Oppenheimer%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/11/13/43/1699835.jpg" group-title="Película",Madame Curie (2019)
-https://archive.org/download/9edb-3e-054d-318eba-192c-07a-809315e-72/Radioactive%20%282019%29%20HD-1080p.mkv
+##EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/11/13/43/1699835.jpg" group-title="Película",Madame Curie (2019)
+#https://archive.org/download/9edb-3e-054d-318eba-192c-07a-809315e-72/Radioactive%20%282019%29%20HD-1080p.mkv
 
 #EXTINF:-1 tvg-logo="https://sanlorenzoprimero.com.ar/wp-content/uploads/2024/01/la-sociedad-de-la-nieve-20240110-1735376.jpg" group-title="Película",La sociedad de la nieve (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
@@ -49,8 +49,8 @@ https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Ba
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnpjBBAXSCAbQzLQc2IBQxrZK4mGItMBRoA&s" group-title="Película",Bohemian Rhapsody (2018)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte5%2FVer%20pel%C3%ADcula%20Bohemian%20Rhapsody-%20La%20historia%20de%20Freddie%20Mercury%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Elvis (2022) (Inglés)
-http://fortv.cc:8080/movie/3017851038/JACKWES2001@GMAIL.COM/169105.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Elvis (2022) [Inglés]
+#http://fortv.cc:8080/movie/3017851038/JACKWES2001@GMAIL.COM/169105.mp4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-y-eWu_8alsDCRx3DMLiJP16FqHaKXVqwMtmydVkjqxLLCchlU5NlhbvaIXZc-T-pmOi=w240-h480-rw" group-title="Película",Había una vez en... Hollywood (2019)
 https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Hab%C3%ADa.una.vez.en.Hollywood.2019.720p-Dual-Lat.mkv
@@ -115,8 +115,8 @@ https://dl.dropboxusercontent.com/s/4ueh6fa7jn23vbh/SalynPM-SMP2w9b.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU3OWYwNjAtNWExZS00ODY4LTgwMGQtNzliMzM2MjEyNDBkXkEyXkFqcGc@._V1_.jpg" group-title="Película",Misterio a la vista (2023)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Murder%20Mystery%202%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFhYTI2MzMtYmJjOC00YmM5LWI1MGYtYzc1NjE4ZDgxMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",La otra Missy (2020)
-https://dl.dropbox.com/s/pbiw2p1y0bsnrk1/L%40_0TR4_M155Y_.avi
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFhYTI2MzMtYmJjOC00YmM5LWI1MGYtYzc1NjE4ZDgxMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",La otra Missy (2020)
+#https://dl.dropbox.com/s/pbiw2p1y0bsnrk1/L%40_0TR4_M155Y_.avi
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8c/LaMascara.jpg/revision/latest?cb=20200731143600&path-prefix=es" group-title="Película",La Máscara (1994) 
 https://archive.org/download/la-m-4sc-4r-4-hd-1-68-gb/La%20m4sc4r4%20HD%201%2C68%20GB.mkv
@@ -255,8 +255,8 @@ https://archive.org/download/l-2_20250817/M%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c4/06/6d/c4066da2-42f7-749e-61cf-ca55e302a59e/00050086125777.rgb.jpg/900x900bb.jpg" group-title="Película",Mulan II (2004)
 https://archive.org/download/l-2_20250817/M%20%282%29.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c1/Mulan-2020-Poster.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201105182002&path-prefix=es" group-title="Película",Mulan (2020)
-https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
+##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c1/Mulan-2020-Poster.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201105182002&path-prefix=es" group-title="Película",Mulan (2020)
+#https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
 
 #EXTINF:-1 tvg-logo="https://www.irun.org/images/actualidad-ocio-agenda/agenda/2021/abuztua/rey-leon.jpg" group-title="Película",El Rey León (2019)
 https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
@@ -272,16 +272,14 @@ https://archive.org/download/04_20260404/up/05.mp4
 https://archive.org/download/04_20260404/up/06.mp4
 
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/1700/1762/001_m.jpg" group-title="Película",Avatar (2009) 
-https://archive.org/download/08_20260419_202604/Debianators/06.mp4
-#https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20720p%20DUAL%202.67%20GB.mkv
+https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20720p%20DUAL%202.67%20GB.mkv
 #https://content.jwplatform.com/videos/jpaugSDb-j90WX2ie.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDY9cZhs9rtorYQVr6F6gT1kOsAZuLw4-n-Q&s" group-title="Película",Avatar 2 (2022)
-https://archive.org/download/08_20260419_202604/Debianators/07.mp4
-#https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20-%202%20720p%20DUAL%201%2C94%20GB.mkv
+https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20-%202%20720p%20DUAL%201%2C94%20GB.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-y3EW8VTJ6LCzmLUqIrvzGTc0kOqQzH7kw&s" group-title="Película",Avatar 3 (2025)
-https://archive.org/download/08_20260419_202604/Debianators/08.mkv
+##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-y3EW8VTJ6LCzmLUqIrvzGTc0kOqQzH7kw&s" group-title="Película",Avatar 3 (2025)
+#https://archive.org/download/08_20260419_202604/Debianators/08.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkyYjVkNDItODc1Ny00NzA1LTkwY2YtZDUwNTlhMDk3MTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Harry Potter y la piedra filosofal (2001)
 https://archive.org/download/h-4rr-1y-p-0tt-3r-4-1080p-dual-4.71-gb/H4rr1y%20p0tt3r%201%201080p%20EXTENDED%20DUAL%203.45%20GB.mkv
@@ -323,18 +321,18 @@ https://archive.org/download/h-4rr-1y-p-0tt-3r-p-4rt-3-1-1080p-dual-4.69-gb/H4rr
 #https://dl.dropboxusercontent.com/s/1n54lazx90lfv72/SalynPM-H.P.8.mp4?dl=0
 #https://archive.org/download/03_20260419/Linux/007.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNhNjg1NWItZThkNC00N2JiLTkzOTgtNzZjYzAyYTQ4OTEwXkEyXkFqcGc@._V1_.jpg" group-title="Película",Harry Potter 20 Aniversario
-https://archive.org/download/h-4rr-1y-p-0tt-3r-p-4rt-3-1-1080p-dual-4.69-gb/H4rr1y%20p0tt3r%2020th%27s%201080p%20DUAL%202.24%20GB.mkv
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNhNjg1NWItZThkNC00N2JiLTkzOTgtNzZjYzAyYTQ4OTEwXkEyXkFqcGc@._V1_.jpg" group-title="Película",Harry Potter 20 Aniversario
+#https://archive.org/download/h-4rr-1y-p-0tt-3r-p-4rt-3-1-1080p-dual-4.69-gb/H4rr1y%20p0tt3r%2020th%27s%201080p%20DUAL%202.24%20GB.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4dca2e61aaec6555d48b77a1796032f609ba821466758530262cd53ba13752bb._SX1080_FMjpg_.jpg" group-title="Película",Animales fantásticos y dónde encontrarlos (2016) 
-https://archive.org/download/08_20260419_202604/Debianators/03.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4dca2e61aaec6555d48b77a1796032f609ba821466758530262cd53ba13752bb._SX1080_FMjpg_.jpg" group-title="Película",Animales fantásticos y dónde encontrarlos (2016) 
+#https://archive.org/download/08_20260419_202604/Debianators/03.mp4
 #https://content.jwplatform.com/videos/nTLa65rp-ZLlOiAMk.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a30ca549f049952d95495295765c8c67ae655aadd49b3ae391893da0e429a550.jpg" group-title="Película",Animales fantásticos: Los crímenes de Grindelwald (2018)
-https://archive.org/download/08_20260419_202604/Debianators/04.mkv
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a30ca549f049952d95495295765c8c67ae655aadd49b3ae391893da0e429a550.jpg" group-title="Película",Animales fantásticos: Los crímenes de Grindelwald (2018)
+#https://archive.org/download/08_20260419_202604/Debianators/04.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e69027ee96e0fcfe5953cdc9365a0542aeaef5a9271c6af09e9b8757fb56704e.jpg" group-title="Película",Animales fantásticos: Los secretos de Dumbledore (2022)
-https://archive.org/download/08_20260419_202604/Debianators/05.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e69027ee96e0fcfe5953cdc9365a0542aeaef5a9271c6af09e9b8757fb56704e.jpg" group-title="Película",Animales fantásticos: Los secretos de Dumbledore (2022)
+#https://archive.org/download/08_20260419_202604/Debianators/05.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuigv0sBbbkadQuNSq9WQymmZLL5HzPxFURw&s" group-title="Película",Piratas del caribe: La maldición de la perla negra (2003)
 https://archive.org/download/04_20260501/upload/03.mp4
@@ -352,8 +350,8 @@ https://archive.org/download/04_20260501/upload/06.mp4
 https://archive.org/download/04_20260501/upload/07.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rFi0qLi5q9oB6znNaGysAQRjSLQ.jpg" group-title="Película",Mi Pobre Angelito (1990) 
-https://ia802302.us.archive.org/1/items/m-1-p-0br-3-4ng-3l-1t-0-1080p-2-29-gb/M1%20p0br3%204ng3l1t0%201080p%202%2C29%20GB.mp4
-#https://archive.org/download/03_20251117/gedit/02.mp4
+https://archive.org/download/03_20251117/gedit/02.mp4
+#https://ia802302.us.archive.org/1/items/m-1-p-0br-3-4ng-3l-1t-0-1080p-2-29-gb/M1%20p0br3%204ng3l1t0%201080p%202%2C29%20GB.mp4
 
 #EXTINF:-1 tvg-logo="https://xl.movieposterdb.com/06_02/1992/0104431/xl_93718_0104431_cb20523c.jpg" group-title="Película",Mi Pobre Angelito 2 (1992) 
 https://ia601200.us.archive.org/4/items/m-1-p-0br-3-4ng-3l-1t-0-2-1080p-lat-2.8-gb/M1%20p0br3%204ng3l1t0%202%201080p%20LAT%202.8%20GB.mp4
