@@ -193,7 +193,7 @@ https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053_720p/index.m3u8
 ##EXTINF:-1 tvg-id="CarasTV.ar" tvg-logo="https://fotos.perfil.com/2024/03/01/trim/987/555/caras-tv-1763217.jpg" group-title="General",Caras TV (Op. 2)
 #http://45.5.151.62:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-id="CAZE TV" tvg-logo="https://fotos.perfil.com/2024/03/01/trim/987/555/caras-tv-1763217.jpg" group-title="Deportes Br",CAZE TV 🇧🇷
+#EXTINF:-1 tvg-id="CazéTV.br" tvg-logo="https://static.cdnlogo.com/logos/c/27/caze-tv_thumb.png" group-title="Deportes Br",CazéTV 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal 🇦🇷 (Op. 1)
@@ -259,6 +259,9 @@ http://190.7.19.197:232/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 (Op. 2)
 http://181.209.96.155:10000/play/a12v/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 (Op. 3)
+http://200.112.174.230/mtcast_ccentralhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General US",Comedy Central 🇺🇸
 #EXTVLCOPT:network-caching=1000
@@ -486,7 +489,7 @@ http://190.7.19.197:232/play/a03k/index.m3u8
 http://181.209.96.155:10000/play/a13z/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 3)
-http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157595
+http://200.112.174.230/mtcast_canal9hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
