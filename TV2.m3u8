@@ -1608,10 +1608,10 @@ http://190.7.19.197:232/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Evento" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2024/07/74/66aa4728c9cb5_ar.com.personal.png" group-title="Eventos/Deportes",Eventos 🇦🇷 (Op. 2)
 http://45.188.229.33:8000/play/a1dc/index.m3u8?hls
 
-##EXTINF:-1 tvg-id=" Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends 🇺🇸 [Inglés]
+##EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends 🇺🇸 [Inglés]
 http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8
 
-#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="Novelas Br",Globoplay Novelas 🇧🇷 
+#EXTINF:-1 tvg-id="GloboplayNovelas.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/globoplay-novelas-br.png?raw=true" group-title="Novelas Br",Globoplay Novelas 🇧🇷 
 http://79.127.238.228:14455
 
 #EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 1)
@@ -1622,22 +1622,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
 #EXTVLCOPT:http-user-agent=iPhone
 http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.ts
 
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png/revision/latest?cb=20230316115746" group-title="Música UK",Now 70's 🇬🇧 
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/That%27s_80s_2023.png/revision/latest/scale-to-width-down/250?cb=20230109161537" group-title="Música UK",Now 80's 🇬🇧 
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="Now90s00s.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest/scale-to-width-down/250?cb=20260219165635" group-title="Música UK",Now 90s00s 🇬🇧
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest/scale-to-width-down/220?cb=20250820172319" group-title="Música UK",Now Rock 🇬🇧 
-https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-##https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
-
-##EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Música",Stingray iConcerts 🇨🇦 (Op. 2)
+##EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-iconcerts-es.png?raw=true" group-title="Música",Stingray iConcerts 🇨🇦 (Op. 2)
 #http://181.191.141.7/Live/aa83fb298d3d3d6981474f75012d85a1/local-stin_720.m3u8
 
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Música",Stingray Classic Rock 🇨🇦
@@ -1657,6 +1642,21 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/webapp/master.m3u8
 
 #EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Música",Stingray Remember the 80s 🇨🇦
 https://lotus.stingray.com/manifest/ose-128ads-montreal/webapp/master.m3u8
+
+#EXTINF:-1 tvg-id="Thats70s.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-70s-uk.png?raw=true" group-title="Música UK",That's 70s 🇬🇧 
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Thats80s.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-80s-uk.png?raw=true" group-title="Música UK",That's 80s 🇬🇧 
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Thats90s00s.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest/scale-to-width-down/250?cb=20260219165635" group-title="Música UK",That's 90s00s 🇬🇧
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThatsRock.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-rock-uk.png?raw=true" group-title="Música UK",That's Rock 🇬🇧 
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+##https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory 🇺🇸 [Inglés]
 http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8
@@ -1688,11 +1688,11 @@ https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-90s-vod.png?raw=true" group-title="Vevo",Vevo '90s 🇺🇸
 https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
 
-##EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-latino-vod.png?raw=true" group-title="Vevo",Vevo Latino 🇺🇸
-#https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-latino-vod.png?raw=true" group-title="Vevo",Vevo Latino 🇺🇸
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
-##EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://www.iabuk.com/sites/default/files/styles/event_person/public/speakers/9_1.png?itok=db43l_KY" group-title="Vevo",Vevo Retro Rock 🇺🇸
-#https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Vevo",Vevo Retro Rock 🇺🇸
+https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" group-title="24/7",Yo soy Betty la fea 🇨🇴
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16128
