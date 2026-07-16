@@ -1400,8 +1400,8 @@ http://179.51.136.23:8000/play/a00k/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-studiouniversal.playlist.m3u8
 
-##EXTINF:-1 tvg-id="SyFy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cine US",SyFy 🇺🇸
-#http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cine US",SyFy 🇺🇸
+http://40.160.24.55/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="General US",TBS 🇺🇸 (Op. 1)
 http://fortv.cc:8080/54514663/54514663/20867
@@ -1636,8 +1636,8 @@ http://138.59.227.20:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/usa-network-lam.png?raw=true" group-title="Cine Br",USA Network 🇧🇷
 http://148.113.160.49:14133
 
-##EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="General US",VH1 🇺🇸
-#http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="General US",VH1 🇺🇸
+http://40.160.24.55/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Argentina",Volver 🇦🇷 (Op. 1)
 http://190.7.19.197:232/play/a048/index.m3u8
