@@ -4,6 +4,9 @@
 
 ###### TELEVISIÓN ######
 
+#EXTINF:-1 tvg-id="5TV.ar" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes",5TV 🇦🇷
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
+
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true" group-title="General",A&E 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=4000
 http://190.7.19.197:232/play/a00c/index.m3u8
