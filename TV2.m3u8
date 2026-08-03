@@ -206,13 +206,9 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://mediakit.perfil.com/img/logo-bravo-tv.png" group-title="General",Bravo TV 🇦🇷 (Op. 1)
-#EXTVLCOPT:network-caching=1000
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://mediakit.perfil.com/img/logo-bravo-tv.png" group-title="General",Bravo TV 🇦🇷 (Op. 2)
-#EXTVLCOPT:network-caching=1000
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+##EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://mediakit.perfil.com/img/logo-bravo-tv.png" group-title="General",Bravo TV 🇦🇷 (Op. 1)
+##EXTVLCOPT:network-caching=1000
+#https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHc5n.png?raw=true" group-title="Noticias",C5N 🇦🇷 (Op. 1)
 http://181.94.205.55:4022/udp/225.2.2.2:20009
@@ -576,28 +572,25 @@ http://179.1.146.22:8000/play/a0bd/index.m3u8
 http://45.188.229.33:8000/play/a1a5/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 2)
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160131
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 3)
 http://liketv.xyz:80/alerua5897/24681012/81.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 3)
 http://181.94.205.55:4022/udp/225.2.2.2:20015
 #https://faster-viale.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 4)
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 5)
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 6)
 http://177.53.153.207:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 7)
 http://legazy.icu:8880/live/patricia2025cas/gkst7NBDxRRe08vz/2637.ts
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 8)
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712708.ts
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 1)
@@ -614,25 +607,22 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-eltrece.play
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 5)
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108799
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 6)
 http://177.53.153.207:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 6)
 http://15.204.246.24:8080/eltreceHD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 7)
 http://liketv.xyz:80/alerua5897/24681012/84.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 8)
 http://181.94.205.55:4022/udp/225.2.2.2:20016
 #https://faster-viale.cdn.rcs.net.ar/mnp/el13/output.mpd
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 10)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 9)
 http://181.209.38.115:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 11)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina",El Trece 🇦🇷 (Op. 10)
 http://latinplaytv.xyz:80/live/Oscar2208chieu/GX9vqaWbZ7/712710.ts
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Argentina",Encuentro 
@@ -1577,31 +1567,22 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://45.188.229.33:8000/play/a1a3/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 3)
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160130
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 4)
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 5)
 http://liketv.xyz:80/alerua5897/24681012/103.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 4)
 http://181.94.205.55:4022/udp/225.2.2.2:20010
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 5)
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tn.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/z3yr000000792oqkpjzgz53bii53nrik/output.mpd
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 6)
 http://15.204.246.24:8080/TNHD/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 7)
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tn.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 10)
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Noticias",TN 🇦🇷 (Op. 8)
 http://181.209.38.115:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine",TNT 🇦🇷 (Op. 1)
@@ -2006,8 +1987,8 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8?uid=aaefb8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA101.1_LRL318LATI
 
 #EXTINF:-1 tvg-id="Rock & Pop 95.9" tvg-logo="https://play-lh.googleusercontent.com/nHWkk59GEFIGmeroxi7n-SXCMgxuZidQsVTbrPq4niM6CfS5J76hoOCPIuFydlP1xgOtbVLT3BM94LAqN5wueg" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oNcyu-hZmztg1tNSZH2I0tUo20ue18aMPw&s" group-title="Radio FM",Radio Rock & Pop 95.9 🇦🇷 (Op. 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #EXTINF:-1 tvg-id="Rock & Pop 95.9" tvg-logo="https://play-lh.googleusercontent.com/nHWkk59GEFIGmeroxi7n-SXCMgxuZidQsVTbrPq4niM6CfS5J76hoOCPIuFydlP1xgOtbVLT3BM94LAqN5wueg" tvg-banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oNcyu-hZmztg1tNSZH2I0tUo20ue18aMPw&s" group-title="Radio FM",Radio Rock & Pop 95.9 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -2195,14 +2176,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIO
 ##EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV Bunge y El Mar Domo Pinamar 🇦🇷
 #https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/chunklist_w1262995065_b1344100_sleng.m3u8
 
-#EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV Bunge y Libertador Pinamar 🇦🇷
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
+##EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV Bunge y Libertador Pinamar 🇦🇷
+#https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV El Calafate SC Santa Cruz 🇦🇷
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CA___CAMGLCIARPERI
+##EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV El Calafate SC Santa Cruz 🇦🇷
+#https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CA___CAMGLCIARPERI
 
-#EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV El Chaltén SC Santa Cruz
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CH___CAMELCHALTEN_
+##EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV El Chaltén SC Santa Cruz
+#https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CH___CAMELCHALTEN_
 
 #EXTINF:-1 group-title="WebCams Argentina" tvg-logo="https://www.pngmart.com/files/23/Live-PNG-File.png",CamTV Las Leñas 🇦🇷
 https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
