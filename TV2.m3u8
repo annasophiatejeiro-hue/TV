@@ -1895,12 +1895,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Evento" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2024/07/74/66aa4728c9cb5_ar.com.personal.png" group-title="Eventos/Deportes",Eventos 🇦🇷 
 http://45.188.229.33:8000/play/a1dc/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends 🇺🇸 
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281223
 #http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloUZI6DMvu3LK4j1W7HVqYfw
-
-#EXTINF:-1 tvg-id="Friends" tvg-logo="https://mystickermania.com/cdn/stickers/movies-and-series/friends-logo-512x512.png" group-title="24/7",Friends 🇺🇸 (Op. 2) [Inglés]
-http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8
+#http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297133.m3u8
 
 #EXTINF:-1 tvg-id="Game of Thrones" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Game_of_Thrones_%28Stacked%29.svg/revision/latest?cb=20180324065358" group-title="24/7",Game of Thrones
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281224
@@ -1922,10 +1920,7 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
 
 #EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 2)
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281253
-
-#EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 3) [Inglés]
-#EXTVLCOPT:http-user-agent=iPhone
-http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.m3u8
+#http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.m3u8
 
 #EXTINF:-1 tvg-id="Modern Family" tvg-logo="https://image.tmdb.org/t/p/original/wueq6jo7yBSTVNbslyogZHzgyJ5.png" group-title="24/7",Modern Family 🇺🇸 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16167
@@ -1982,9 +1977,7 @@ http://elpapanatas.space:8080/Felipe123/Felipe123/309634
 #EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory 🇺🇸 (Op. 4)
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16153
 #http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16155
-
-#EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory 🇺🇸 (Op. 5) [Inglés]
-http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8
+#http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8
 
 ##EXTINF:-1 tvg-id="The Office" tvg-logo="https://image.tmdb.org/t/p/original/9h5aA5FhdKSkpLI0JvD4NsJZqIh.png" group-title="24/7",The Office 🇺🇸 
 #http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYflofVa7Yv0wy343fJChwiFIK8
