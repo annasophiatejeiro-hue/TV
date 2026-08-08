@@ -175,12 +175,9 @@ http://181.209.38.115:8000/play/a00t/index.m3u8
 http://45.188.229.33:8000/play/a1ak/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🇦🇷 (Op. 3)
-http://179.1.146.22:8000/play/a0bj/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🇦🇷 (Op. 4)
 http://181.115.239.66:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🇦🇷 (Op. 4)
 http://138.59.227.20:8000/play/a09e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🌎 (Op. 1)
@@ -190,7 +187,7 @@ http://201.240.104.137:8000/play/a0a4/index.m3u8
 http://45.228.235.116:8000/play/a0iy/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General",AXN 🌎 (Op. 3)
-http://181.232.188.21:8282/play/a05n/index.m3u8
+http://179.1.146.22:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="General Br",AXN 🇧🇷
 http://79.127.243.211:14569/live.ts
@@ -566,23 +563,23 @@ http://181.119.93.83:8000/play/a28a/index.m3u8
 http://190.60.57.58:8000/play/a1a3/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 1)
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-elgourmet.playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb_720p/index.m3u8
 #http://177.234.249.178:8888/EL-GOURMET/index.m3u8
+#http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-elgourmet.playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 2)
 http://45.188.229.33:8000/play/a1d5/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #http://playcom.trapemn.tv:1935/transcoderip/gourmet.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 3)
 http://181.209.38.115:8000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🌎 (Op. 1)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🌎 (Op. 2)
 http://179.1.146.22:8000/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 🇦🇷 (Op. 1)
