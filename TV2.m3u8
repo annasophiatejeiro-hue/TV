@@ -1871,7 +1871,8 @@ http://181.209.38.115:8000/play/a02r/index.m3u8
 http://181.209.38.115:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General",Warner Channel 🇦🇷 (Op. 2)
-https://faster-viale.cdn.rcs.net.ar/mnp/warner/output.mpd
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-warner.playlist.m3u8
+#https://faster-viale.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General",Warner Channel 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -1879,7 +1880,6 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General",Warner Channel 🇦🇷 (Op. 4)
 http://45.188.229.33:8000/play/a1ai/index.m3u8?hls
-#http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-warner.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General",Warner Channel 🇦🇷 (Op. 5)
 http://179.1.146.22:8000/play/a0bi/index.m3u8
