@@ -5,21 +5,22 @@
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/05/10/49/3147329.jpg" group-title="Película",El Robo del Siglo (2020)
 https://dl.dropboxusercontent.com/s/u2s8jabw42d058v/El.robo.del.siglo.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZiYzE4N2ItYzQ5Yy00ZmIxLTg5YTQtMGI3NzMzMWI5MjBjXkEyXkFqcGc@._V1_.jpg" group-title="Película",Homo Argentum (2025)
-http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/464784.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZiYzE4N2ItYzQ5Yy00ZmIxLTg5YTQtMGI3NzMzMWI5MjBjXkEyXkFqcGc@._V1_.jpg" group-title="Película",Homo Argentum (2025)
+#http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/464784.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5e2eb4a6e307994bfc5302c68c85523f2c0f111be0ee4f07a93b4fe518fb9a4e.png" group-title="Película",Sonido de Libertad (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Sonido%20De%20Libertad%20online%20HD%20-%20Cuevana%202.mp4
 #https://dl.dropbox.com/scl/fi/y2u80j9c3lnfd5ihzd1ig/s0und0ofr33d0m.mp4?rlkey=4vwygkgsse7pd9f6wyqj8839m
 
 #EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/oppenheimer_poster.jpg" group-title="Película",Oppenheimer (2023) 
-https://archive.org/download/captura-de-pantalla-2023-09-08-184347/Oppenheimer%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
+http://45.226.28.9:8085/cloud_2/Oppenheimer.2023.720.lat.mp4
 
 ##EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/11/13/43/1699835.jpg" group-title="Película",Madame Curie (2019)
 #https://archive.org/download/9edb-3e-054d-318eba-192c-07a-809315e-72/Radioactive%20%282019%29%20HD-1080p.mkv
 
 #EXTINF:-1 tvg-logo="https://sanlorenzoprimero.com.ar/wp-content/uploads/2024/01/la-sociedad-de-la-nieve-20240110-1735376.jpg" group-title="Película",La sociedad de la nieve (2023)
-https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
+http://45.226.28.9:8085/cloud_2/La.sociedad.de.la.nieve.2024.720.lat.mp4
+#https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/617452/1917-cartel/450_1000.jpeg" group-title="Película",1917 (2019) 
 https://archive.org/download/09_20260501/upload/09.mp4
@@ -27,24 +28,25 @@ https://archive.org/download/09_20260501/upload/09.mp4
 #https://archive.org/download/tapita/tapita/tapita.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/09/17/17/03/5442885.jpg" group-title="Película",Joker (2019)
-http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
+http://45.226.28.9:8085/cloud_2/Joker.2019.720.lat.mp4
+#http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NGYyMWQtYmZjMy00NzljLWI3YWMtMmQwYTIyMWYwN2M1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",31 Minutos: Calurosa navidad (2025)
-http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/456046.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NGYyMWQtYmZjMy00NzljLWI3YWMtMmQwYTIyMWYwN2M1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",31 Minutos: Calurosa navidad (2025)
+#http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/456046.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VKeJ2mzPszY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAztdq55CqYHon-ARH3s1Vq8MvQRw" group-title="Película",Barbie (2023) 
-https://dl.dropbox.com/scl/fi/bjvlufuknwm3l7brteh74/b4rb13.mkv?rlkey=mlxyzbpfk14au1x3b8cv41tcl
-#https://archive.org/download/captura-de-pantalla-2023-11-11-005823/Barbie.2023.720p-Dual-Lat.mkv
+http://45.226.28.9:8085/cloud_2/Barbie.2023.720.lat.mp4
+#https://dl.dropbox.com/scl/fi/bjvlufuknwm3l7brteh74/b4rb13.mkv?rlkey=mlxyzbpfk14au1x3b8cv41tcl
 
 #EXTINF:-1 tvg-logo="https://www.aceprensa.com/wp-content/uploads/2025/06/f1-la-pelicula-818x1024.jpg" group-title="Película",F1 la película (2025)
-https://archive.org/download/10_20260430_20260430_1725/unix/10.mp4
-#http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/443634.mp4
+http://45.226.28.9:8085/cloud_2/F1.2025.720.lat.mp4
+#https://archive.org/download/10_20260430_20260430_1725/unix/10.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemALoUCxN6MZekgLOeTFAW1SRsEVEnr-nZQ&s" group-title="Película",Bad Boys para siempre (2020)
 https://dl.dropboxusercontent.com/s/gben3yxir2o6ngw/SalynPM-SPM2u6p.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/oGythE98MYleE6mZlGs5oBGkux1.jpg" group-title="Película",Bad Boys ride or die (2024)
-https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Bad.Boys.Hasta.la.muerte.2024.720p-Dual-Lat.mkv
+https://dl.dropbox.com/scl/fi/cjprf7xar6f5724tvv1mn/Ver-Bad-Boys-Hasta-la-muerte-online-Cuevana2.mp4?rlkey=ejcbwaip1gmrpuqnhbwjwbwb5&dl=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnpjBBAXSCAbQzLQc2IBQxrZK4mGItMBRoA&s" group-title="Película",Bohemian Rhapsody (2018)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte5%2FVer%20pel%C3%ADcula%20Bohemian%20Rhapsody-%20La%20historia%20de%20Freddie%20Mercury%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
@@ -52,21 +54,21 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 ##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Elvis (2022) [Inglés]
 #http://fortv.cc:8080/movie/3017851038/JACKWES2001@GMAIL.COM/169105.mp4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-y-eWu_8alsDCRx3DMLiJP16FqHaKXVqwMtmydVkjqxLLCchlU5NlhbvaIXZc-T-pmOi=w240-h480-rw" group-title="Película",Había una vez en... Hollywood (2019)
-https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Hab%C3%ADa.una.vez.en.Hollywood.2019.720p-Dual-Lat.mkv
+##EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-y-eWu_8alsDCRx3DMLiJP16FqHaKXVqwMtmydVkjqxLLCchlU5NlhbvaIXZc-T-pmOi=w240-h480-rw" group-title="Película",Había una vez en... Hollywood (2019)
+#https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Hab%C3%ADa.una.vez.en.Hollywood.2019.720p-Dual-Lat.mkv
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f7/Napoleon-poster-2023.jpg/revision/latest?cb=20231019001952&path-prefix=es" group-title="Película",Napoleón (2023) 
-https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
-#https://archive.org/download/4ef-06fcb-5210e-7aae-2a-3b-116dbb-34f-9b/Napole%C3%B3n.2023.720p-Dual-Lat.mkv
+http://45.226.28.9:8085/cloud_2/Napoleon.2023.720.lat.mp4
+#https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI1ZGY4ODUtMDJlNy00YTdhLWEwNTctMTQ3ZWYwMGUwNTc1XkEyXkFqcGc@._V1_.jpg" group-title="Película",Frankenstein (2025)
 https://archive.org/download/10_20251106/nano/11.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fdf356b8fdbdb136e5b2e2ac41aa037e908e03d2e8f057c403f1c78859df4896.jpg" group-title="Película",Una película de Minecraft (2025)
-http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/434320.mp4
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fdf356b8fdbdb136e5b2e2ac41aa037e908e03d2e8f057c403f1c78859df4896.jpg" group-title="Película",Una película de Minecraft (2025)
+#https://dl.dropbox.com/scl/fi/4lkkl7qkpkegyyfup2wbe/123753.ts?rlkey=l04oo2qya5nktf2fa310c13x2&st=b10ld6zc&dl=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u6iFFGcOXk4d6C5pZes1qRgU8Nt.jpg" group-title="Película",Los Cuatro Fantásticos (2025) 
-http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/447472.mp4
+##EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u6iFFGcOXk4d6C5pZes1qRgU8Nt.jpg" group-title="Película",Los Cuatro Fantásticos (2025) 
+#https://dl.dropbox.com/scl/fi/ifgzkj8nmjycbdk4qj16i/sociales.mp4?rlkey=qjf9dnhp5mej55di2y7jarj03&st=79g5g9i2&dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FzB0iqbqhMo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDacdwjDChcJj9eMTcugvT-PPIU9g" group-title="Película",Materialistas (2025)
 https://archive.org/download/04_20250819/text-editors/06.mp4
@@ -82,9 +84,14 @@ https://archive.org/download/c-4ry-m-0v-1e-2000-1080p-2-92-gb/%24c4ry%20M0v1e%C2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeGKe9FkeOdzxRPL0Pe_dZEcbJrbrkmi4QTg&s" group-title="Película",Scary Movie 2 (2001)
 https://archive.org/download/c-4ry-m-0v-13-2-2001-1080p-2-04-gb/%24c4ry%20M0v13%202%C2%A0%282001%29%201080p%202%2C04%20GB.mkv
+#https://dl.dropbox.com/s/phhok3peq3lp76p/SK4R1M0V132.avi
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bb052ba84c88a55ee40fe7c19d86a6d46a30093d10685b7772ed0a1c98cbd247.jpg" group-title="Película",Scary Movie: Terroríficamente incorrecta (2026)
+https://hugh.cdn.rumble.cloud/video/fwe2/12/s8/2/u/k/K/B/ukKBA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/34b2d39ed55f6df09da8871919da835dba6e86d68af01079ab75635836f00200.jpg" group-title="Película",¿Y dónde están las rubias? (2004) 
-https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+https://hugh.cdn.rumble.cloud/video/fww1/0c/s8/2/u/b/K/O/ubKOz.aaa.mp4
+#https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
 #https://content.jwplatform.com/videos/7Eu0eQCZ-sVI2ukY9.mp4
 #https://archive.org/download/rub-14-1080p-3-75-gb/Rub14%24%201080p%203%2C75%20GB.mkv
 #https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
@@ -115,15 +122,16 @@ https://dl.dropboxusercontent.com/s/4ueh6fa7jn23vbh/SalynPM-SMP2w9b.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU3OWYwNjAtNWExZS00ODY4LTgwMGQtNzliMzM2MjEyNDBkXkEyXkFqcGc@._V1_.jpg" group-title="Película",Misterio a la vista (2023)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Murder%20Mystery%202%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFhYTI2MzMtYmJjOC00YmM5LWI1MGYtYzc1NjE4ZDgxMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",La otra Missy (2020)
-#https://dl.dropbox.com/s/pbiw2p1y0bsnrk1/L%40_0TR4_M155Y_.avi
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFhYTI2MzMtYmJjOC00YmM5LWI1MGYtYzc1NjE4ZDgxMTk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",La otra Missy (2020)
+https://dl.dropbox.com/s/pbiw2p1y0bsnrk1/L%40_0TR4_M155Y_.avi
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8c/LaMascara.jpg/revision/latest?cb=20200731143600&path-prefix=es" group-title="Película",La Máscara (1994) 
 https://archive.org/download/la-m-4sc-4r-4-hd-1-68-gb/La%20m4sc4r4%20HD%201%2C68%20GB.mkv
 #https://content.jwplatform.com/videos/oo1NGfNH-3rsvtGyk.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHHSXRp5UCnU3utQwjnC9zEneSz0FbXyyFA&s" group-title="Película",Mentiroso mentiroso (1997)
-https://archive.org/download/mentiroso-mentiroso/Mentiroso%20Mentiroso/MENTIROSO%20MENTIROSO.mkv
+https://1a-1791.com/video/s8/2/O/q/O/2/OqO2u.caa.mp4?u=0
+#https://archive.org/download/mentiroso-mentiroso/Mentiroso%20Mentiroso/MENTIROSO%20MENTIROSO.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgR9ByhxeEWBUHZJtmv2IO0Df5BC9jl54p4w&s" group-title="Película",El Grinch (2000)
 https://ia800503.us.archive.org/18/items/el-gr-1nch-2000-1080p-2-86-gb/El%20Gr1nch%27%24%20%282000%29%201080p%202%2C86%20GB.mp4
@@ -172,10 +180,12 @@ https://archive.org/download/3xpl-0c-1v-4-2-2001-hd-2-96-gb/3xpl0c1v4%202%20%282
 https://archive.org/download/3xpl-0c-1v-4-2-2001-hd-2-96-gb/3xpl0c1v4%203%20%282007%29%20HD%202%2C82%20GB.mkv
 
 #EXTINF:-1 tvg-logo="https://www.hugozapata.com.ar/wp-content/uploads/2020/05/space-jam.jpg" group-title="Película",Space Jam (1996) 
-https://dn710205.ca.archive.org/0/items/sspaci-4le-j-4mb-0-1996-720p-1-81-gb/Sspaci4le%20J4m%27b0%20%281996%29%20720p%201%2C81%20GB.mp4
+https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/U/I/u/v/UIuvz.aaa.mp4
+#https://dn710205.ca.archive.org/0/items/sspaci-4le-j-4mb-0-1996-720p-1-81-gb/Sspaci4le%20J4m%27b0%20%281996%29%20720p%201%2C81%20GB.mp4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2021/04/space-jam-e1617488371722.jpg?fit=2416%2C2416&ssl=1" group-title="Película",Space Jam 2 (2021) 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
+https://1a-1791.com/video/fwe2/e2/s8/2/4/M/u/v/4Muvz.aaa.mp4
+#https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
 
 #EXTINF:-1 tvg-logo="https://cuadernoderetazos.wordpress.com/wp-content/uploads/2013/11/matilda.jpg" group-title="Película",Matilda (1996) 
 https://archive.org/download/m-4t-1lda/M4t1lda.mkv
@@ -194,17 +204,20 @@ https://dl.dropboxusercontent.com/s/4uau4m652wtuaei/SalynPM-SPM1a3h.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://lieve.co/wp-content/uploads/2023/05/super_mario_bros_movie_poster.jpg" group-title="Película",Super Mario Bros: La película (2023)
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRkODc0MmItYzQ2NS00MGU3LTkwMTUtMGRmZjMwODNiNmI0XkEyXkFqcGc@._V1_.jpg" group-title="Película",Super Mario Galaxy: La película (2026)
+https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/69/Shrekban.png/revision/latest?cb=20200731225428&path-prefix=es" group-title="Película",Shrek (2001)
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdkZmJkNDAtYTAzZS00NDc4LTkzOGMtMDNmMTUzZWRhYjk3XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004)
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%202%20%282004%29.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg" group-title="Película",Shrek Tercero (2007)
 https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
 #https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20Tercero%20%282007%29.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDO6miNoFMIvEHE74mUH_5reRjYRJBXHkBFNzxUafGkng71opE4x8bnVE&s=10" group-title="Película",Shrek felices para siempre (2010)
 https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20para%20siempre%20%282010%29.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5czDcBmevDw_LJg3E_kgTI7wu6t-X4JGxXg&s" group-title="Película",Kung Fu Panda (2008)
@@ -226,7 +239,7 @@ https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2024/06/intensamente-2-cine-america-flyer-santa-fe-agenda-cultural-disney-pixar2.jpg?resize=696%2C940&ssl=1" roup-title="Película",Intensamente 2 (2024)
-https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/IntensaMente.2.2024.720p-Dual-Lat.mkv
+https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/INMT2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FhODA4M2UtNmU5ZC00YjQwLTliNDQtZDVmMGYxMTk4NTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Elio (2025)
 https://archive.org/download/04_20250819/text-editors/02.mp4
@@ -234,20 +247,26 @@ https://archive.org/download/04_20250819/text-editors/02.mp4
 ##EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_300_300/pictures/18/11/21/00/23/0050056.jpg" group-title="Película",Un viernes de locos (2003)
 #https://pomf2.lain.la/f/gabb4xt6.mp4?download=1
 
-##EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/otroviernesdeloco-poster.jpg" group-title="Película",Otro viernes de locos (2025)
-#https://pomf2.lain.la/f/ry5oh5bx.mp4?download=1
+#EXTINF:-1 tvg-logo="https://micartelera.com.ar/images/peliculas/poster/otroviernesdeloco-poster.jpg" group-title="Película",Otro viernes de locos (2025)
+http://45.226.28.9:8085/cloud_2/Otro.viernes.de.locos.2025.720.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAAhLHPJ289z1onNDJPVBF8MkGYNRu0-lGw&s" group-title="Película",Toy Story (1995)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY1.mp4
+#https://dl.dropboxusercontent.com/s/sqlabqu4wmlj8rh/SalynPM-T.S.1.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipUtMUSSvuomVOP8fvZEDHrO1R7gdMHTp6A&s" group-title="Película",Toy Story 2 (1999)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY2.mp4
+#https://dl.dropboxusercontent.com/s/r9f1djbxpjjb1sv/SalynPM-T.S.2.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/74/Toy_Story_3_portada.jpg/revision/latest?cb=20230618165417&path-prefix=es" group-title="Película",Toy Story 3 (2010)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY3.mp4
+#https://dl.dropboxusercontent.com/s/9pxbjvzsql60s2n/SalynPM-T.S.3.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://moviepostermexico.com/cdn/shop/products/1553788375115586850_1500x.png?v=1596552490" group-title="Película",Toy Story 4 (2019)
 https://github.com/ValentinoProM123/MDMP4/releases/download/mp32/TSY4.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNiNWExOTQtZTU1Ny00N2MyLWI4YzMtMWJjMTI1ZWRmNmQ4XkEyXkFqcGc@._V1_.jpg" group-title="Película",Toy Story 5 (2026)
+https://hugh.cdn.rumble.cloud/video/fwe2/39/s8/2/O/a/P/C/OaPCA.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5a/37/e9/5a37e92fc9003be1f02709adc88fff46.jpg" group-title="Película",Mulan (1998)
 https://archive.org/download/l-2_20250817/M%20%281%29.mp4
@@ -278,7 +297,8 @@ https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20720p%20DUAL%202
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDY9cZhs9rtorYQVr6F6gT1kOsAZuLw4-n-Q&s" group-title="Película",Avatar 2 (2022)
 https://archive.org/download/4v-4t-4r-720p-dual-2.67-gb/4v4t4r%20-%202%20720p%20DUAL%201%2C94%20GB.mkv
 
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-y3EW8VTJ6LCzmLUqIrvzGTc0kOqQzH7kw&s" group-title="Película",Avatar 3 (2025)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-y3EW8VTJ6LCzmLUqIrvzGTc0kOqQzH7kw&s" group-title="Película",Avatar 3 (2025)
+https://hugh.cdn.rumble.cloud/video/fww1/63/s8/2/C/j/4/a/Cj4aA.aaa.mp4
 #https://archive.org/download/08_20260419_202604/Debianators/08.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkyYjVkNDItODc1Ny00NzA1LTkwY2YtZDUwNTlhMDk3MTZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",Harry Potter y la piedra filosofal (2001)
@@ -339,9 +359,11 @@ https://archive.org/download/04_20260501/upload/03.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX1000_.jpg" group-title="Película",Piratas del caribe: El cofre de la muerte (2006)
 https://archive.org/download/04_20260501/upload/04.mp4
+#https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQ9U-ooeIUPlOli2h_A9DPyYeY9TqYFNMng&s" group-title="Película",Piratas del caribe: En el fin del mundo (2007)
 https://archive.org/download/04_20260501/upload/05.mp4
+#https://dl.dropbox.com/s/vzv0dsmu8uoynui/Pirates.of.the.caribbean.at.worlds.end.2007.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U0ZTYwZTctMTU2MC00M2Y5LTgwYmYtNjNkNWQyYzczOTUxXkEyXkFqcGc@._V1_.jpg" group-title="Película",Piratas del caribe: Navegando aguas misteriosas (2011)
 https://archive.org/download/04_20260501/upload/06.mp4
@@ -354,7 +376,8 @@ https://archive.org/download/03_20251117/gedit/02.mp4
 #https://ia802302.us.archive.org/1/items/m-1-p-0br-3-4ng-3l-1t-0-1080p-2-29-gb/M1%20p0br3%204ng3l1t0%201080p%202%2C29%20GB.mp4
 
 #EXTINF:-1 tvg-logo="https://xl.movieposterdb.com/06_02/1992/0104431/xl_93718_0104431_cb20523c.jpg" group-title="Película",Mi Pobre Angelito 2 (1992) 
-https://ia601200.us.archive.org/4/items/m-1-p-0br-3-4ng-3l-1t-0-2-1080p-lat-2.8-gb/M1%20p0br3%204ng3l1t0%202%201080p%20LAT%202.8%20GB.mp4
+https://hugh.cdn.rumble.cloud/video/s8/2/S/P/_/f/SP_fo.aaa.mp4
+#https://ia601200.us.archive.org/4/items/m-1-p-0br-3-4ng-3l-1t-0-2-1080p-lat-2.8-gb/M1%20p0br3%204ng3l1t0%202%201080p%20LAT%202.8%20GB.mp4
 #https://archive.org/download/03_20251117/gedit/03.mp4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wdPCAQuA7l764uwIvRj3hBWvyYymUseg0WnW8VILx34JHpxT9BMoLP1HwxsAFqR0FwwpUQ" group-title="Película",Ricky Ricón (1994)
@@ -375,6 +398,7 @@ https://ia601605.us.archive.org/23/items/resplandor_202302/RESPLANDOR.mp4
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_834120-MLA53101516422_122022-O.webp" group-title="Película",Volver al Futuro (1985)
 https://ia903101.us.archive.org/0/items/volveralfuturo/Volver%20al%20Futuro.mp4
+#https://dl.dropboxusercontent.com/s/uhbpgxswzg2guga/SalynPM-VALF1.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmR94RDwqfln__Wp7sqTcMRjItBYNF1ONuw&s" group-title="Película",Volver al Futuro 2 (1989)
 https://ia803101.us.archive.org/0/items/volveralfuturo/Volver%20al%20Futuro%20II.mp4
@@ -395,6 +419,7 @@ https://dn710009.ca.archive.org/0/items/h-4rr-1y-p-0tt-3r-6-1080p-dual-4.6-gb/M0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqONXiyYv-h1V0uQ8HAKFsL0kAvLfaJlmqsQ&s" group-title="Película",Titanic (1997) 
 https://archive.org/download/001_20200216/001.mkv
 #https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
+#https://dl.dropbox.com/scl/fi/osyw6fgbiiwzjkx0bv9oy/Titanic.mp4?rlkey=b07hibjgt20txijg0citjdshs&dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCmwP2W/4262y.jpg" group-title="Película",El Jinete sin Cabeza (1999)
 https://dn721802.ca.archive.org/0/items/el-j-1net-3e-sin-ca-4b-3z-za-1080p-lat-2-88-gb/El%20J1net3e%20sin%20Ca4b3zZa%201080p%20LAT%202%2C88%20GB.mp4
@@ -412,7 +437,7 @@ https://content.jwplatform.com/videos/RuDUr9p2-cXeGjWD9.mp4
 #https://cdn.jwplayer.com/manifests/RuDUr9p2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.aciprensa.com/imagespp/la-pasion-de-cristo.jpg?w=720&h=480" group-title="Película",La pasión de Cristo (2004)
-https://archive.org/download/2982-la-pasion-de-cristo-2004-720p-d-s-spa-eng-v/2982-La%20Pasion%20de%20Cristo%20%282004%29%20720p%20D%20S%20spa%20eng%20v.mkv
+https://1a-1791.com/video/fww1/22/s8/2/h/a/4/C/ha4Cy.aaa.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJiMjgzYzItMzI3NC00NjQ0LTkyZTMtZTNmNWMyZDIxNjU2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Yo robot (2004)
 https://hugh.cdn.rumble.cloud/video/fw/s8/2/P/E/P/N/PEPNt.aaa.mp4
@@ -431,8 +456,12 @@ https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
 #https://archive.org/download/buscfel/Crisis/buscfel.mp4
 
 #EXTINF:-1 tvg-logo="https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/06/30/el-diablo-viste-de-prada-2006.jpeg" group-title="Película",El diablo viste a la moda (2006) 
-https://ia601801.us.archive.org/34/items/el-diablo-viste-a-la-moda-1080p-id-350_202012/El%20diablo%20viste%20a%20la%20moda%201080p%20id_350.ia.mp4
+https://1a-1791.com/video/fww1/e5/s8/2/I/q/G/3/IqG3z.aaa.mp4
+#https://ia601801.us.archive.org/34/items/el-diablo-viste-a-la-moda-1080p-id-350_202012/El%20diablo%20viste%20a%20la%20moda%201080p%20id_350.ia.mp4
 #https://archive.org/download/3_20201017_20201017_1926/Today/1.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_diablo_viste_de_Prada_2-715488986-large.jpg" group-title="Película",El diablo viste a la moda 2 (2026)
+http://45.226.28.9:8085/cloud_2/El.diablo.viste.a.la.moda.2.2026.720.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/179849102/s166/django-unchained" group-title="Película",Django desencadenado (2012) 
 https://archive.org/download/02_20260502_20260502/upload/02.mp4
@@ -492,7 +521,6 @@ https://archive.org/download/07_20260501/upload/10.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6CT6CFaCGpshJe2XrPYXUAkQzJQRpRoGDQ&s" group-title="Película",El conjuro: últimos ritos (2025)
 https://archive.org/download/05_20260502/upload/11.mp4
-#http://redworld.pro:8880/movie/Gangalee/Lq8CeHefNV6k/449586.mp4
 #https://dl.dropbox.com/scl/fi/tpxkv8hpyx4s48jx8sklw/sociales.mp4?rlkey=pfyzv59ydy0z8b69038g70qu3&st=kjf3i7cr&dl=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89x20L-FuOY0IaJzRe-IsLApnFVRMX-OBng&s" group-title="Película",La Monja (2018)
@@ -510,10 +538,13 @@ https://archive.org/download/041_20200519_202005/042.mkv
 #EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d62703c7-a2d0-47df-beda-767067b22f4a/47e0a4ab-e732-457f-a40a-8a07882a5b2d?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500" group-title="Película",Annabelle: Regresa a casa (2019)
 https://archive.org/download/muneca/mu%C3%B1eca.mp4
 
-###### Conciertos ######
+###### Conciertos y música ######
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxY2RkNjktM2U2Zi00NTU5LWI3ZTMtNTc5OTM1ZjI5MzE2XkEyXkFqcGc@._V1_.jpg" group-title="Concierto",Queen: Live at Wembley Stadium
-https://ia903209.us.archive.org/22/items/la-pas-1i-0on-d-3-cr-1i-5to-2004-1080p-4-33-gb/Qu3eEn%20L1v3%20at%20WEemble3y%201080p%202.93%20GB.mp4
+#EXTINF:-1 tvg-logo="https://www.bird-sf.com/wp-content/uploads/2022/10/header-80s-990x500.jpg" group-title="Música",80'S MUSIC
+https://1a-1791.com/video/s8/2/K/-/D/S/K-DSs.caa.rec.mp4?u=3&b=0
+
+##EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxY2RkNjktM2U2Zi00NTU5LWI3ZTMtNTc5OTM1ZjI5MzE2XkEyXkFqcGc@._V1_.jpg" group-title="Concierto",Queen: Live at Wembley Stadium
+#https://ia903209.us.archive.org/22/items/la-pas-1i-0on-d-3-cr-1i-5to-2004-1080p-4-33-gb/Qu3eEn%20L1v3%20at%20WEemble3y%201080p%202.93%20GB.mp4
 
 #EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2023/11/28/375137_1507288.jpg?width=1020&quality=80" group-title="Concierto",Taylor Swift: The Eras Tour (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4
@@ -522,18 +553,23 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a184cd3e5b1ef34ffcaa1950324be3fcc050a00d98c5e88a27f90acbcdc2e4cb.jpg" group-title="Series",Chernobyl T1 Capitulo 1
 https://content.jwplatform.com/videos/RRYrtDGu-X2qpGveT.mp4
+#https://dl.dropboxusercontent.com/scl/fi/y7s8id3uovl7i7cnzmwwf/cch5trnoy51b4yl-ccs1.mp4?rlkey=76nk52t5naijdigrdonntrnkc
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a184cd3e5b1ef34ffcaa1950324be3fcc050a00d98c5e88a27f90acbcdc2e4cb.jpg" group-title="Series",Chernobyl T1 Capitulo 2
 https://content.jwplatform.com/videos/QfgRLwoU-X2qpGveT.mp4
+#https://dl.dropboxusercontent.com/scl/fi/ca442b5fh6l5vukfbdd7o/cch5trnoy51b4yl-ccs2.mp4?rlkey=h72ttizso4w8wgvio6ryyh0is
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a184cd3e5b1ef34ffcaa1950324be3fcc050a00d98c5e88a27f90acbcdc2e4cb.jpg" group-title="Series",Chernobyl T1 Capitulo 3
 https://content.jwplatform.com/videos/OqBxZ4qu-X2qpGveT.mp4
+#https://dl.dropboxusercontent.com/scl/fi/hfn2yr95r6brjd4c9pvub/cch5trnoy51b4yl-3.mp4?rlkey=lbnweldjvm1u5l53bqjxdafdr
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a184cd3e5b1ef34ffcaa1950324be3fcc050a00d98c5e88a27f90acbcdc2e4cb.jpg" group-title="Series",Chernobyl T1 Capitulo 4
 https://content.jwplatform.com/videos/WdWa2qAk-6WFsbhPC.mp4
+#https://dl.dropboxusercontent.com/scl/fi/4jjn23jlaa06nq8yvoigv/cch5trnoy51b4yl-4.mp4?rlkey=6mmp3cznhsel289yh22lha2so
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a184cd3e5b1ef34ffcaa1950324be3fcc050a00d98c5e88a27f90acbcdc2e4cb.jpg" group-title="Series",Chernobyl T1 Capitulo 5 
 https://content.jwplatform.com/videos/VtFG6vqz-X2qpGveT.mp4
+#https://dl.dropboxusercontent.com/scl/fi/97pqim2s4zxy761g5qo6k/cch5trnoy51b4yl-5.mp4?rlkey=b1j8um689w65on6gpf2ivrjsv
 
 ###### Chespirito: Sin querer queriendo ######
 
