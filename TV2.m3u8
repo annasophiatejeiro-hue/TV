@@ -795,8 +795,7 @@ http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-encuentro.pl
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN 1 🇦🇷 (Op. 1)
 http://181.115.239.66:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN 1 🇦🇷 (Op. 2)
-http://181.94.205.55:4022/udp/225.2.2.2:20018
+
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN 1 🇦🇷 (Op. 3)
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-espn.playlist.m3u8
