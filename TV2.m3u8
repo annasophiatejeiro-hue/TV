@@ -651,7 +651,7 @@ http://190.61.114.186:8000/play/a03u/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/dreamworks/output.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 🌎 (Op. 1)
-http://38.199.6.1:18001/play/a0d0/index.m3u8
+http://38.43.132.201:8000/play/a0wu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 🌎 (Op. 2)
 http://45.188.229.33:8000/play/a1iw/index.m3u8
@@ -676,7 +676,7 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 http://181.65.154.10:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 🌎 (Op. 8)
-http://38.43.132.201:8000/play/a0wu/index.m3u8
+http://38.199.6.1:18001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSports 🌎 (Op. 9)
 http://181.224.255.210:8001/play/a0s8/index.m3u8
@@ -2490,22 +2490,22 @@ https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 ##https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-2k-vod.png?raw=true" group-title="Vevo",Vevo 2K 🇺🇸
-https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-70s-vod.png?raw=true" group-title="Vevo",Vevo '70s 🇺🇸
-https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-80s-vod.png?raw=true" group-title="Vevo",Vevo '80s 🇺🇸
-https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 
 #EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-90s-vod.png?raw=true" group-title="Vevo",Vevo '90s 🇺🇸
-https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
 #EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-latino-vod.png?raw=true" group-title="Vevo",Vevo Latino 🇺🇸
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Vevo",Vevo Retro Rock 🇺🇸
-https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+##EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Vevo",Vevo Retro Rock 🇺🇸
+#https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 
 ###### STREAM DE RADIOS ######
 
