@@ -2472,9 +2472,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Vaca y Pollito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Cow-and-chicken-52569ee974f28.png/revision/latest?cb=20161210195047" group-title="24/7",Vaca y Pollito 🇺🇸
-#EXTVLCOPT:http-reconnect=true
-http://23.153.217.158:8080/998411519tv/pa9qnqi/281237
+##EXTINF:-1 tvg-id="Vaca y Pollito" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Cow-and-chicken-52569ee974f28.png/revision/latest?cb=20161210195047" group-title="24/7",Vaca y Pollito 🇺🇸
+##EXTVLCOPT:http-reconnect=true
+#http://23.153.217.158:8080/998411519tv/pa9qnqi/281237
 
 #EXTINF:-1 tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" group-title="24/7",Yo soy Betty la fea 🇨🇴 
 #EXTVLCOPT:http-reconnect=true
