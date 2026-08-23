@@ -1050,12 +1050,9 @@ http://181.224.200.5:2277/play/a02k/index.m3u8
 http://181.176.155.7:8090/play/a1e8/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes",ESPN 5 🌎 (Op. 3)
-http://181.78.8.199:8000/play/a08n/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes",ESPN 5 🌎 (Op. 4)
 http://191.97.49.82:8001/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes",ESPN 5 🌎 (Op. 5)
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes",ESPN 5 🌎 (Op. 4)
 http://liketv.xyz:80/alerua5897/24681012/140.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes Br",ESPN 6 🇧🇷 (Op. 1)
@@ -1077,12 +1074,9 @@ http://190.61.42.218:9000/play/a062/index.m3u8
 http://181.224.200.5:2277/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes",ESPN 6 🌎 (Op. 4)
-http://181.78.8.199:8000/play/a07g/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes",ESPN 6 🌎 (Op. 5)
 http://liketv.xyz:80/alerua5897/24681012/141.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes",ESPN 6 🌎 (Op. 6)
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes",ESPN 6 🌎 (Op. 5)
 http://181.205.130.194:4000/play/a07t
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes",ESPN 7 🌎 (Op. 1)
@@ -1098,9 +1092,6 @@ http://187.102.210.142:5556/play/a02f
 http://191.97.59.33:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes",ESPN 7 🌎 (Op. 5)
-http://181.78.8.199:8000/play/a0bx/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes",ESPN 7 🌎 (Op. 6)
 http://liketv.xyz:80/alerua5897/24681012/142.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium 🇦🇷 (Op. 1)
