@@ -458,24 +458,27 @@ https://prepublish.f.qaotic.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_Canald
 #EXTVLCOPT:http-reconnect=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="General US",CNN 🇺🇸
+http://79.127.238.249:14463
+
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a072/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 2)
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-comedycentral.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 3)
 http://138.121.113.175:8000/play/a05n/index.m3u8
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-comedycentral.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 4)
 http://179.1.146.22:8000/play/a0bc/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 5)
 http://158.172.155.130:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General",Comedy Central 🇦🇷 (Op. 6)
 http://181.209.38.115:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🌎 (Op. 1)
@@ -484,10 +487,10 @@ https://streamer.metronethn.com/ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🌎 (Op. 2)
 http://190.61.114.186:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🇺🇸 (Op. 1)
 http://79.127.238.249:14464
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🇺🇸 (Op. 2)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="General US",Comedy Central 🇺🇸 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
@@ -530,22 +533,22 @@ http://181.209.38.115:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",DeporTV 🇦🇷 (Op. 4)
 http://177.53.153.207:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 1)
 http://45.188.229.33:8000/play/a1ds/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-discoverychannel.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 2)
 http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-discoverychannel.playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 3)
 http://181.209.38.115:8000/play/a02g/index.m3u8
 #http://179.1.146.22:8000/play/a0b9/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 4)
 http://138.59.227.20:8000/play/a08g/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 (Op. 5)
 http://177.53.153.207:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales Br",Discovery Channel 🇧🇷 (Op. 1)
@@ -557,11 +560,14 @@ http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales Br",Discovery Channel 🇧🇷 (Op. 3)
 http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🌎 (Op. 1)
 https://streamer.metronethn.com/Discovery/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales",Discovery Channel 🌎 (Op. 2)
 http://45.70.201.81:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Documentales US",Discovery Channel 🇺🇸
+http://79.127.238.249:14465
 
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Documentales",Discovery H&H 🇦🇷 (Op. 1)
 http://45.188.229.33:8000/play/a1dr/index.m3u8?hls
@@ -2204,9 +2210,7 @@ http://138.59.227.20:8000/play/a06x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 5)
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
-#http://177.53.153.207:8000/play/a005/index.m3u8
 #http://190.128.214.127:64333/play/a01l/index.m3u8
-#http://fortv.cc:8080/live/BC3SuX/983484/327380.ts?hls
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 6)
 http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-tycsport.playlist.m3u8
@@ -2438,13 +2442,9 @@ http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&pass
 
 #EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 1)
 #EXTVLCOPT:http-reconnect=true
-http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBc3FWNnlZL3hrVERnVHlhSHd5dEtlQT0
-
-#EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 2)
-#EXTVLCOPT:http-reconnect=true
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16056
 
-#EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 3)
+#EXTINF:-1 tvg-id="Malcolm in the middle" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8d84c5a2-5ae6-423c-bce4-a4236151a9cd/compose?format=webp&width=2560" group-title="24/7" user-agent="iPhone",Malcolm in the middle 🇺🇸 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281253
 #http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297377.m3u8
