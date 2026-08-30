@@ -303,10 +303,10 @@ https://archive.org/download/l-2_20250817/M%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c4/06/6d/c4066da2-42f7-749e-61cf-ca55e302a59e/00050086125777.rgb.jpg/900x900bb.jpg" group-title="Película",Mulan II (2004)
 https://archive.org/download/l-2_20250817/M%20%282%29.mp4
 
-##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c1/Mulan-2020-Poster.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201105182002&path-prefix=es" group-title="Película",Mulan (2020)
-#https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c1/Mulan-2020-Poster.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201105182002&path-prefix=es" group-title="Película",Mulan (2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
 
-#EXTINF:-1 tvg-logo="https://www.irun.org/images/actualidad-ocio-agenda/agenda/2021/abuztua/rey-leon.jpg" group-title="Película",El Rey León (2019)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c9/ElReyLeon2019.jpg/revision/latest?cb=20200727234136&path-prefix=es" group-title="Película",El Rey León (2019)
 https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yrZqrGVbmoYZJdncnx60JUhzsGm.jpg" group-title="Película",Lilo y Stitch (2025)
@@ -355,7 +355,7 @@ https://archive.org/download/h-4rr-1y-p-0tt-3r-6-1080p-dual-4.6-gb/H4rr1y%20p0tt
 #https://sandroflix.sandrostoreps3.workers.dev/content/filmes/Harry.Potter/5.Harry.Potter.e.a.Ordem.da.Fenix.-.BY.SANDRO.STORE.mp4
 #https://archive.org/download/08_20260419_202604/Debianators/01.mp4
 
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/179690384/s718/harry-potter-y-el-misterio-del-principe.jpg" group-title="Película",Harry Potter y el misterio del príncipe (2009)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaxQ3pYHz6AhnN-Ff1gaXlliJdp0HU4eO_IdbyUgqwIwQE03Px55f2L7q&s=10" group-title="Película",Harry Potter y el misterio del príncipe (2009)
 https://archive.org/download/h-4rr-1y-p-0tt-3r-6-1080p-dual-4.6-gb/H4rr1y%20p0tt3r%206%201080p%20DUAL%204.6%20GB.mkv
 #https://dl.dropboxusercontent.com/s/qgfrlpyp1yzqmiy/SalynPM-H.P.6.mp4?dl=0
 #https://archive.org/download/03_20260419/Linux/005.mp4
@@ -567,6 +567,7 @@ http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBc01GTnFIVm9sa0cvbGpxcGZk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTucgVpcswgTOvvNcKhBW-VaF5KxIgNpAdy2g&s" group-title="Película",La monja II (2023)
 https://dl.dropbox.com/scl/fi/66dcdiiyqxzqvdzj3d007/matematica.mp4?rlkey=ivab5kmylxvqvzi3lkigy8bcs&st=hviy92pk&dl=0
+#https://dl.dropbox.com/scl/fi/kmnntpc3ge31tk2nrlsko/m0nj4-2.mp4?rlkey=zu617etf1rgk7ruxlse72usa8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/moviepedia/images/9/9b/Annabelle-poster.jpg/revision/latest?cb=20140822183411&path-prefix=de" group-title="Película",Annabelle (2014)
 https://archive.org/download/041_20200519_202005/041.mkv
