@@ -2286,14 +2286,13 @@ http://205.235.6.29:8000/play/a0ys/index.m3u8
 
 ###### Series, Novelas y Caricaturas 24/7 ######
 
-#EXTINF:-1 tvg-id="31 minutos" tvg-logo="https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdpjv3vAOa7dM6b8gMQBLAI8YBL0hWf4tvzxeT_N7lDchcBwSYIjOEJflFWi-tY3VeR8LK4I-K0HG9hA1rWXo4j-_x43ToG6mMk.png?r=796" group-title="24/7",31 minutos 🇨🇱
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526359&extension=ts
+##EXTINF:-1 tvg-id="31 minutos" tvg-logo="https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdpjv3vAOa7dM6b8gMQBLAI8YBL0hWf4tvzxeT_N7lDchcBwSYIjOEJflFWi-tY3VeR8LK4I-K0HG9hA1rWXo4j-_x43ToG6mMk.png?r=796" group-title="24/7",31 minutos 🇨🇱
+##EXTVLCOPT:http-reconnect=true
+#http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526359&extension=ts
 
 #EXTINF:-1 tvg-id="ALF" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9488ec56c1f3332db91963a65c2afcb653ca2d4a122c5f85753f2fe742c8d1c2.png" group-title="24/7",ALF 🇺🇸 
 #EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526383&extension=ts
-#http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaXdnUlFYeHhHR1VaTHcxd2w1cmxBcz0
+http://livetv-plus.com:8880/cTNCbGQ2WThlUFRwQ0dEc1k4ZlJBaXdnUlFYeHhHR1VaTHcxd2w1cmxBcz0
 
 ##EXTINF:-1 tvg-id="Billy y Mandy" tvg-logo="https://image.tmdb.org/t/p/original/t21Q9gWXn5AulS1pPVxdUcBpU3E.png" group-title="24/7",Billy y Mandy 🇺🇸
 ##EXTVLCOPT:http-reconnect=true
@@ -2332,8 +2331,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="El Laboratorio de Dexter" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0f292408-bfdd-4d2d-9de1-b531bc85cbb3/6d5a0ecf444ef3fd16a05b186969b8d85d6dbfe0.png?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" group-title="24/7",El Laboratorio de Dexter 🇺🇸
 #EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526329&extension=ts
-#http://23.153.217.158:8080/998411519tv/pa9qnqi/281219
+http://23.153.217.158:8080/998411519tv/pa9qnqi/281219
 
 #EXTINF:-1 tvg-id="El Príncipe del Rap" tvg-logo="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABfJmZ0RWI_KtbVK5cNLqQhXAO5xGp8oszdn4Bd-XWpUh5xEiA4GYoVnaYlk-CRncwRP5Ofb-5nPc3-3lLlOVvQ3bBtA8oe0X-Hs.png?r=384" group-title="24/7",El Príncipe del Rap 🇺🇸
 http://planettvweb.com:8091/Schnyder56/VLap5784d/73712
