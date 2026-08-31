@@ -2428,10 +2428,6 @@ http://23.153.217.158:8080/998411519tv/pa9qnqi/281126
 
 #EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory 🇺🇸 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
-http://elpapanatas.space:8080/Felipe123/Felipe123/309634
-
-#EXTINF:-1 tvg-id="The big bang theory" tvg-logo="https://image.tmdb.org/t/p/original/w4SDOkKPIQKQ1swVPqpsdqEybk2.png" group-title="24/7",The big bang theory 🇺🇸 (Op. 4)
-#EXTVLCOPT:http-reconnect=true
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16153
 #http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16155
 #http://toms-pics.info:25461/live/TOPPDOGG6/detroit6/297784.m3u8
@@ -2463,14 +2459,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 #EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 6)
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-
-#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 7)
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526376&extension=ts
-
-#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 8)
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/streaming/clients_live.php?username=meyfgdbnah&password=DCQHPQjTYhm4&stream=526377&extension=ts
 
 #EXTINF:-1 tvg-id="Yo soy Betty la fea" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55b8807ca03e0c2e01aac6710aa1ecf0c2039d973a61835907b7382301eb323.jpg" group-title="24/7",Yo soy Betty la fea 🇨🇴 
 #EXTVLCOPT:http-reconnect=true
