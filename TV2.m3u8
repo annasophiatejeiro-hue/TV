@@ -2484,21 +2484,18 @@ http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16153
 
 #EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 1)
 #EXTVLCOPT:http-reconnect=true
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/online-24-7.playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
-http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/online-24-7.playlist.m3u8
-
-#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 4)
-#EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
-#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 5)
+#EXTINF:-1 tvg-id="The Simpsons" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7",The Simpsons 🇺🇸 (Op. 4)
 #EXTVLCOPT:http-reconnect=true
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
