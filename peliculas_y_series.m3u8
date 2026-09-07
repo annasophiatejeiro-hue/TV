@@ -75,6 +75,7 @@ http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBaWszNithNUNUY0hPb0oxcFZG
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XXRKihjyPN2i-tiCE7KStd3eoE-ho0e3X6bwH00L4KTmCvjzA0IyFcc&s=10" group-title="Película",Michael (2026)
 http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBb2pzUGxlRDd1TzcrNCsyaGZETm5vWi9XV1hEdFRwQUZCcmUzZUdWMGRpSA
 #http://45.226.28.9:8085/cloud_2/Michael.2026.720.lat.mp4
+#http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/283161.mp4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-y-eWu_8alsDCRx3DMLiJP16FqHaKXVqwMtmydVkjqxLLCchlU5NlhbvaIXZc-T-pmOi=w240-h480-rw" group-title="Película",Había una vez en... Hollywood (2019)
 https://archive.org/download/captura-de-pantalla-2023-11-02-151743/Hab%C3%ADa.una.vez.en.Hollywood.2019.720p-Dual-Lat.mkv
@@ -437,7 +438,8 @@ https://ia803101.us.archive.org/0/items/volveralfuturo/Volver%20al%20Futuro%20II
 https://ia803101.us.archive.org/0/items/volveralfuturo/Volver%20al%20Futuro%20III.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ3ZWY0NjktNWRiNy00NTgxLTg5NmYtMzI5ZDExODVjZjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Película",E.T. El extraterrestre (1980)
-https://archive.org/download/elex_20210814_202108/elex.mkv
+https://dl.dropboxusercontent.com/scl/fi/8zll62wo8acugtmryed0c/E1T-3REL-13EXTR1AT43ERRES1TRE.mp4?rlkey=qoq06qx559g6t44uw2gjnvqes&st=8wf7wfvu
+#https://archive.org/download/elex_20210814_202108/elex.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCW4b7_VVw1TgCuhJnUGJU9eeQVF5cq3yESQ&s" group-title="Película",Joven manos de tijera (1990)
 https://archive.org/download/m-4n-0st-1j-3r-4-1990-1080p-4-31-gb/M4n0st1j3r4%24%20%281990%29%201080p%204%2C31%20GB.mkv
@@ -495,6 +497,7 @@ https://1a-1791.com/video/fww1/e5/s8/2/I/q/G/3/IqG3z.aaa.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM2ZGVlMDUtNGJlYi00N2E0LTk4NjAtNzgyN2UxZDM2ODU3XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Película",El diablo viste a la moda 2 (2026)
 http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBcTgyTFU3WDE4MTdjbFF5VjRDOGhaa3lIWnhXSmpzRDVKK2grdEdVcHBwcQ
 #http://45.226.28.9:8085/cloud_2/El.diablo.viste.a.la.moda.2.2026.720.lat.mp4
+#http://23.153.217.158:8080/movie/wspdprzjjh/bdkizmamhb/281939.mp4
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/179849102/s166/django-unchained" group-title="Película",Django desencadenado (2012) 
 https://archive.org/download/02_20260502_20260502/upload/02.mp4
@@ -682,6 +685,168 @@ https://dl.dropbox.com/scl/fi/hy95khg7wj6zkfyjrrpgy/mstemstica-5.mp4?rlkey=mq77a
 
 #EXTINF:-1  group-title="Menem" tvg-id="Series" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732bc5ca29c0b94af14deb3c7b",Menem 06x1 El Final del Juego
 https://dl.dropbox.com/scl/fi/tzax6yvhip0391kasqw0l/mstemstica-6.mp4?rlkey=8t0iypsb8pw5880nb2ijua7co&st=hvn2fq7p&dl=0
+
+###### Coraje el Perro Cobarde ######
+
+#EXTM3U
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x1 Una noche en el Motel Katz / La barbacoa de la abuela cajún
+http://archive.org/download/26_20190827_20190827/1.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x2 La sombra de Coraje / Dr Le Quack especialista en amnesia
+http://archive.org/download/26_20190827_20190827/2.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x3 Coraje conoce a Pie Grande / Cabeza explosiva
+http://archive.org/download/26_20190827_20190827/3.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x4 El demonio en el colchón / El espeluznante Fred
+http://archive.org/download/26_20190827_20190827/4.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x5 La noche del hombre topo / Día de las madres
+http://archive.org/download/26_20190827_20190827/5.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x6 Los hermanos pato / Shirley la médium
+http://archive.org/download/26_20190827_20190827/6.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x7 La maldición del Rey Ramsés / El pie que aprieta
+http://archive.org/download/26_20190827_20190827/7.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x8 El jorobado de Ningún Lugar / Los dioses deben estar locos
+http://archive.org/download/26_20190827_20190827/8.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x9 La reina del charco negro / Todos quieren dirigir
+http://archive.org/download/26_20190827_20190827/9.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x10 El muñeco de nieve viene / El patito precioso maravilloso adorable y encantador
+http://archive.org/download/26_20190827_20190827/10.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x11 Cabezas de carne / Club Katz
+http://archive.org/download/26_20190827_20190827/11.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x12 La Venganza del Pollo Extratrerrestre
+http://archive.org/download/26_20190827_20190827/12.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 1x13 La pequeña Muriel / El gran Fusilli
+http://archive.org/download/26_20190827_20190827/13.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x1 El árbol mágico de Ningún Lugar / Randy el Robot
+http://archive.org/download/26_20190827_20190827/14.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x2 La maldición de Shirley / Coraje en la Gran Ciudad Apestosa
+http://archive.org/download/26_20190827_20190827/15.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x3 Hasta en las peores familias / 1.000 años de Coraje
+http://archive.org/download/26_20190827_20190827/16.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x4 Coraje y la Momia / Muriel invisible
+http://archive.org/download/26_20190827_20190827/17.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x5 La aspiradora / Misión al Sol
+http://archive.org/download/26_20190827_20190827/18.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x6 La Mosca Coraje / El eterno segundo lugar
+http://archive.org/download/26_20190827_20190827/19.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x7 Televisión de Ningún Lugar / Mega Muriel la Magnífica
+http://archive.org/download/26_20190827_20190827/20.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x8 Un día de pelos / La gorra de oro
+http://archive.org/download/26_20190827_20190827/21.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x9 La serpiente del río del mal / El trasplante
+http://archive.org/download/26_20190827_20190827/22.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x10 El extraterrestre / El Vaquero Coraje
+http://archive.org/download/26_20190827_20190827/23.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x11 La mosca / El fantasma de McPhearson
+http://archive.org/download/26_20190827_20190827/24.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x12 La maldición / El ataque de la ballena de arena
+http://archive.org/download/26_20190827_20190827/25.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 2x13 La torre del Dr. Zalost
+http://archive.org/download/26_20190827_20190827/26.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x1 La Doble de Muriel / Coraje contra el Robot Coraje
+http://archive.org/download/26_20190827_20190827/27.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x2 El Campamento del Terror / El Disco Mágico
+http://archive.org/download/26_20190827_20190827/28.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x3 La Tormenta / El Mago de los Sueños
+http://archive.org/download/26_20190827_20190827/29.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x4 Coraje en el Disco Duro / El Viaje de las Valkyrias
+http://archive.org/download/26_20190827_20190827/30.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x5 Buceo Increíble / El Contaminador
+http://archive.org/download/26_20190827_20190827/31.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x6 Viaje al Fondo del Mar / La Cortina de la Crueldad
+http://archive.org/download/26_20190827_20190827/32.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x7 El Banquete de las Ranas / El Gusano de Tulip
+http://archive.org/download/26_20190827_20190827/33.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x8 Romance en el Louvre / La Noche del EspantapájarosRomance en el Louvre
+http://archive.org/download/26_20190827_20190827/34.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x9 Magia / Niñera de Aves
+http://archive.org/download/26_20190827_20190827/35.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x10 Temas Pez-culiares / Gente Mala y Violenta
+http://archive.org/download/26_20190827_20190827/36.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x11 La Venganza del Muñeco de Nieve / El Nuevo Estanque
+http://archive.org/download/26_20190827_20190827/37.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x12 Club de Acolchados / El Rey del Flan
+http://archive.org/download/26_20190827_20190827/38.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 3x13 Juicio Submarino / El Domo
+http://archive.org/download/26_20190827_20190827/39.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x1 La Historia de un Castor / El Cascanueces
+http://archive.org/download/26_20190827_20190827/40.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x2 Aventura en Escocia / La Casa Llama
+http://archive.org/download/26_20190827_20190827/41.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x3 Robo en un Globo / Los Espíritus del Molino
+http://archive.org/download/26_20190827_20190827/42.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x4 Un Resfriado Poco Común / Temporada de Caza
+http://archive.org/download/26_20190827_20190827/43.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x5 La Novia del Monstruo del Pantano / La Cabra La Cabra
+http://archive.org/download/26_20190827_20190827/44.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x6 Muriel Estalla / Perfiles de Coraje
+http://archive.org/download/26_20190827_20190827/45.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x7 La Máscara
+http://archive.org/download/26_20190827_20190827/46.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x8 Tigre Agachado Perro Escondido / Muriel Enmudecida
+http://archive.org/download/26_20190827_20190827/47.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x9 Aqua-Granjero / La Comida del Dragón
+http://archive.org/download/26_20190827_20190827/48.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x10 El Último Creador de Estrellas / El Hijo del Pollo del Espacio Exterior
+http://archive.org/download/26_20190827_20190827/49.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x11 Cura con Coraje / Juego de Venganza
+http://archive.org/download/26_20190827_20190827/50.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x12 Cabaret Coraje / La Cólera de la Bibliotecaria
+http://archive.org/download/26_20190827_20190827/51.mp4
+
+#EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 4x13 La Historia de Coraje / Perfecto
+http://archive.org/download/26_20190827_20190827/52.mp4
+
+##EXTINF:-1  group-title="Coraje el Perro Cobarde" tvg-id="Series" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/ac/CorajeElPerroCobarde.jpg/revision/latest?cb=20231104172041&path-prefix=es",Coraje el Perro Cobarde 53??
+#http://archive.org/download/26_20190827_20190827/53.mp4
 
 ###### Malcolm in the middle ######
 
