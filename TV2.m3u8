@@ -59,7 +59,6 @@ http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTVLCOPT:http-reconnect=true
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist_720p.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 3)
@@ -73,7 +72,8 @@ http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/a24.playlist.m3
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-reconnect=true
-http://liketv.pro/live/diegos2024/Coly2413/52.m3u8
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+#http://liketv.pro/live/diegos2024/Coly2413/52.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias",A24 🇦🇷 (Op. 6)
 #EXTVLCOPT:http-reconnect=true
@@ -293,15 +293,15 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Espanol 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Español 🇺🇸 (Op. 1)
 #EXTVLCOPT:network-caching=1000
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Espanol 🇺🇸 (Op. 2)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Español 🇺🇸 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Espanol 🇺🇸 (Op. 3)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes US",beIN SPORTS XTRA en Español 🇺🇸 (Op. 3)
 #EXTVLCOPT:network-caching=1000
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
@@ -541,8 +541,9 @@ http://181.209.80.115:8000/play/cronica
 #EXTVLCOPT:http-reconnect=true
 http://liketv.pro/live/diegos2024/Coly2413/73.ts
 
-##EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Automovilismo",DAZN F1 🇪🇸 
-##EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Automovilismo",DAZN F1 🇪🇸 
+#EXTVLCOPT:network-caching=1000
+http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 #http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",DeporTV 🇦🇷 (Op. 1)
@@ -1962,7 +1963,6 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tnt.playlist
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine",TNT 🇦🇷 (Op. 2)
 http://181.209.80.115:8000/play/tnt_hd
-#http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-tnt.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine",TNT 🇦🇷 (Op. 3)
 http://45.188.229.33:8000/play/a1dn/index.m3u8?hls
@@ -1971,7 +1971,7 @@ http://45.188.229.33:8000/play/a1dn/index.m3u8?hls
 http://138.59.227.20:8000/play/a08b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine",TNT 🇦🇷 (Op. 5)
-http://158.172.155.130:8000/play/a00i/index.m3u8
+http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-tnt.playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine",TNT 🇦🇷 (Op. 6)
 http://181.209.38.115:8000/play/a033/index.m3u8
@@ -2057,7 +2057,6 @@ http://liketv.xyz:80/alerua5897/24681012/156.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-referrer=https://www.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
-#http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/gzq5h400000052hwepofodn3w6lod4zh/output.mpd
 #https://streamvidex.qzz.io/videx/tycsports/index.m3u8
 
