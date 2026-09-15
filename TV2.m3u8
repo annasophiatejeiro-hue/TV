@@ -814,7 +814,7 @@ http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/eltrece.playlis
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 4)
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷 🇦🇷",El Trece 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-reconnect=true
 http://190.128.214.127:64333/play/a01d/index.m3u8
 
@@ -2072,12 +2072,10 @@ http://45.5.117.99:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine 🌎",Universal Premiere 🌎 (Op. 2)
 http://45.181.120.65:9087/play/a0f5/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine" 🌎,Universal Premiere 🌎 (Op. 3)
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine",Universal Premiere 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine 🌎",Universal Premiere 🌎 (Op. 3)
 http://45.181.120.65:9087/play/a0f6/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine" 🌎,Universal Premiere 🌎 (Op. 3)
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine",Universal Premiere 🌎 (Op. 4)
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-premiere-lam.png?raw=true" group-title="Cine 🌎",Universal Premiere 🌎 (Op. 4)
 http://201.207.54.159:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-tv-lam.png?raw=true" group-title="Cine 🇦🇷",Universal TV 🇦🇷 (Op. 1)
