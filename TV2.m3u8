@@ -108,6 +108,15 @@ http://168.228.44.241:9998/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-id="Adult swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇺🇸",Adult Swim 🇺🇸
 http://79.127.238.249:14460
 
+#EXTINF:-1 tvg-id="AlphaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Alpha_TV_Logo_%282026%2C_tentative%29.png/revision/latest?cb=20260915143206" group-title="Música/Cine 🇦🇷",AlphaTV 🇦🇷 (Op. 1)
+#EXTVLCOPT:network-caching=1000
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+#EXTINF:-1 tvg-id="AlphaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Alpha_TV_Logo_%282026%2C_tentative%29.png/revision/latest?cb=20260915143206" group-title="Música/CineGeneral 🇦🇷",AlphaTV 🇦🇷 (Op. 2)
+https://nameless-resonance-f644.javimarki.workers.dev/17
+#https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
+#http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🇦🇷",AMC 🇦🇷 (Op. 1)
 http://181.209.38.115:8000/play/a00s/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/amc/output.mpd
@@ -2583,15 +2592,6 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8?uid=aaefb8
 #EXTINF:-1 tvg-id="Radio Latina 101.1" tvg-logo="https://play-lh.googleusercontent.com/1Hecbx-dy8zEaCx5mZMOJ4cKuLqA1mdjW9huaDWq7m6BwYDO6vKH0cHuQ61GZT3nko_vLexD1kheUMPqZAjD0g=w600-h300-pc0xffffff-pd" group-title="Radio FM 🇦🇷",Radio Latina 101.1 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA101.1_LRL318LATI
-
-#EXTINF:-1 tvg-id="AlphaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Alpha_TV_Logo_%282026%2C_tentative%29.png/revision/latest?cb=20260915143206" group-title="Radio FM 🇦🇷",AlphaTV 🇦🇷 (Op. 1)
-#EXTVLCOPT:network-caching=1000
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-
-#EXTINF:-1 tvg-id="AlphaTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Alpha_TV_Logo_%282026%2C_tentative%29.png/revision/latest?cb=20260915143206" group-title="Radio FM 🇦🇷",AlphaTV 🇦🇷 (Op. 2)
-https://nameless-resonance-f644.javimarki.workers.dev/17
-#https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
-#http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
 
 #EXTINF:-1 tvg-id="Sónica 102.3" tvg-logo="https://radiosonicafm.com.ar/icons/icon@512.png?v1" group-title="Radio FM 🇦🇷",Radio Sónica 102.3 (Paso de los Libres) 🇦🇷 [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
