@@ -1169,20 +1169,17 @@ http://190.128.214.97:64333/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-reconnect=true
 http://181.209.105.115:2525/play/foxsports/index.m3u8
+#http://195.178.110.110:80/foxsports/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 8)
-#EXTVLCOPT:http-reconnect=true
-http://195.178.110.110:80/foxsports/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 9)
 http://158.172.155.130:8000/play/a09x/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 10)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 9)
 #EXTVLCOPT:http-reconnect=true
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/456.m3u8
 #http://p2premium.club:80/live/jor99y2wa1/Hgxuxd2QHcBB/360931.ts
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 11)
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 1 🇦🇷 (Op. 10)
 #EXTVLCOPT:http-reconnect=true
 http://lotv.plus:80/fieratvpro/R745DQeSrm/8229.m3u8
 
