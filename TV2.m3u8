@@ -816,26 +816,20 @@ http://138.59.227.20:8000/play/a099/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-reconnect=true
 http://181.209.38.115:8000/play/a00b/index.m3u8
+#http://planettvweb.com:8091/Schnyder56/VLap5784d/12755
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-reconnect=true
-http://planettvweb.com:8091/Schnyder56/VLap5784d/12755
+http://181.209.80.115:8000/play/espn_hd
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 6)
 #EXTVLCOPT:http-reconnect=true
-http://181.209.80.115:8000/play/espn_hd
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/518.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-reconnect=true
-http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/518.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 8)
-#EXTVLCOPT:http-reconnect=true
 http://45.188.229.33:8000/play/a1az/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 9)
-#EXTVLCOPT:http-reconnect=true
-http://195.178.110.110/espn/index.m3u8
+#http://195.178.110.110/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 1 🇧🇷 (Op. 1)
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
@@ -858,10 +852,12 @@ http://138.59.227.20:8000/play/a098/index.m3u8?hls
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 3)
 http://181.115.239.66:8000/play/a00m/index.m3u8
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-espn2.playlist.m3u8
-#http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 4)
 http://181.209.80.115:8000/play/espn_2_hd
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 5)
+http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 2 🇧🇷 (Op. 1)
 http://46.151.196.223:14438
@@ -1394,11 +1390,11 @@ http://181.209.80.115:8000/play/nat_geo_hd
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🌎",National Geographic 🌎 
 http://181.119.66.28:8081/NATGEO-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇺🇸",National Geographic 🇺🇸
-http://198.58.104.90:8989/natgeo/index.m3u8
+##EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇺🇸",National Geographic 🇺🇸
+#http://198.58.104.90:8989/natgeo/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nba-tv-ar.png?raw=true" group-title="Deportes 🇺🇸",NBA TV 🇺🇸 
-http://198.58.104.90:8989/nba/index.m3u8
+##EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nba-tv-ar.png?raw=true" group-title="Deportes 🇺🇸",NBA TV 🇺🇸 
+#http://198.58.104.90:8989/nba/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true" group-title="Argentina 🇦🇷",NetTV 🇦🇷 (Op. 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
