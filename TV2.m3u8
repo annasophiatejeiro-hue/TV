@@ -1051,6 +1051,9 @@ http://181.209.80.115:8000/play/espn_premium_hd
 #EXTVLCOPT:http-reconnect=true
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/542.m3u8
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 6)
+http://190.128.214.127:64333/play/a02i/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPNPremium" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🌎",ESPN Premium 🌎 
 http://201.240.104.137:8000/play/a08d/index.m3u8?hls
 
@@ -1430,6 +1433,9 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/musica/CHmusictop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música 🇦🇷",MusicTop 🇦🇷 (Op. 2)
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
+
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/musica/CHmusictop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música 🇦🇷",MusicTop 🇦🇷 (Op. 3)
+http://190.128.214.97:64333/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇦🇷",National Geographic 🇦🇷 (Op. 1)
 http://181.115.239.66:8000/play/a00t/index.m3u8
@@ -1889,6 +1895,9 @@ http://195.178.110.110/tntsports/index.m3u8
 http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/460.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 6)
+http://190.128.214.127:64333/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 7)
 #EXTVLCOPT:http-reconnect=true
 http://lotv.plus:80/fieratvpro/R745DQeSrm/327045.m3u8
 
