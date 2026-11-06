@@ -625,7 +625,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Argentina 🇦🇷",Encuentro 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Argentina 🇦🇷",Encuentro 🇦🇷
 #EXTVLCOPT:http-reconnect=true
 http://158.172.155.130:8000/play/a00n/index.m3u8
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-encuentro.playlist.m3u8
@@ -944,32 +944,32 @@ http://79.127.238.228:14093
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="Noticias 🇧🇷",GloboNews 🇧🇷 (Op. 2)
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBONEWS.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9_720p/index.m3u8
+##EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 1)
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 1)
 http://179.1.146.22:8000/play/a0bo/index.m3u8
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-hbo.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 2)
 http://190.108.83.69:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 4)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 3)
 http://181.224.255.210:8001/play/a0f161/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 5)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 4)
 http://38.226.49.253:8000/play/a067/index.m3u8
 #http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 6)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 5)
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 7)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 6)
 http://45.5.117.99:8000/play/a0l2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 8)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine 🌎",HBO 🌎 (Op. 7)
 http://38.225.117.1:9005/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 1)
