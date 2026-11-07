@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://iptv-epg.org/files/epg-us.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates2.xml,https://iptv-epg.org/files/epg-br.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://iptv-epg.org/files/epg-cl.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://iptv-epg.org/files/epg-co.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://iptv-epg.org/files/epg-mx.xml,https://www.open-epg.com/files/unitedkingdom1.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://www.open-epg.com/files/unitedstates2.xml;https://www.open-epg.com/files/unitedstates2.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/spain1.xml;https://www.open-epg.com/files/chile1.xml;https://www.open-epg.com/files/chile2.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia2.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/mexico1.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/unitedkingdom1.xml"
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -71,7 +71,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇦🇷",Adult Swim 🇦🇷 (Op. 3)
 http://158.172.155.130:8000/play/a0as/index.m3u8
 
-#EXTINF:-1 tvg-id="Adult Swim.br tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇧🇷",Adult Swim 🇧🇷 
+#EXTINF:-1 tvg-id="Adult Swim.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇧🇷",Adult Swim 🇧🇷 
 http://45.162.64.114/ADULT_SWIM/index.m3u8
 
 ##EXTINF:-1 tvg-id="Adult Swim.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Caricaturas 🇺🇸",Adult Swim 🇺🇸
