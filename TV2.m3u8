@@ -516,50 +516,50 @@ http://190.108.83.69:8000/play/a036/index.m3u8
 http://181.78.14.26:4000/play/a047/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/dreamworks/output.mpd
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 1)
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 #http://liketv.xyz:80/alerua5897/24681012/132.m3u8
 #http://181.209.80.115:8000/play/dsports_hd
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 2)
 http://45.188.229.33:8000/play/a1iw/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 3)
 http://38.187.22.140:25501/play/a01r/index.m3u8
 #http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 4)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 4)
 #EXTVLCOPT:http-reconnect=true
 http://190.108.83.69:8000/play/a0cb/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 5)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 5)
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 6)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 6)
 #EXTVLCOPT:http-reconnect=true
 http://38.56.111.14:8000/play/a041/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 7)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 7)
 #EXTVLCOPT:http-reconnect=true
 http://190.108.80.138:8000/play/a0k0/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 8)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 8)
 #EXTVLCOPT:http-reconnect=true
 http://38.224.231.176:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Deportes 🌎",DSports 2 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Deportes 🌎",DSports 2 🌎 (Op. 1)
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Deportes 🌎",DSports 2 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Deportes 🌎",DSports 2 🌎 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 http://181.78.82.130:8000/play/a0r4/index.m3u8
 
-#EXTINF:-1 tvg-id="DSportsPlus.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🌎",DSports + 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🌎",DSports + 🌎 (Op. 1)
 #EXTVLCOPT:http-reconnect=true
 http://38.210.105.10:8000/play/a0j5/index.m3u8
 #http://195.178.110.110/dsportsplus/index.m3u8
 
-#EXTINF:-1 tvg-id="DSportsPlus.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🌎",DSports + 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🌎",DSports + 🌎 (Op. 2)
 http://38.199.5.160:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina 🇦🇷",El Gourmet 🇦🇷 (Op. 1)
