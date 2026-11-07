@@ -867,13 +867,13 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/FoxSports1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSports2.ar tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 2 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 2 🇦🇷 (Op. 1)
 http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/whq00000275x8ol6uzpdl14b9mhb6loc/output.mpd
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-foxsport2.playlist.m3u8
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-foxsport2.playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOXSports2.ar tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 2 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 2 🇦🇷 (Op. 2)
 http://138.59.227.20:8000/play/a09b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FOXSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 2 🇦🇷 (Op. 3)
@@ -914,7 +914,7 @@ http://138.59.227.20:8000/play/a070/index.m3u8?hls
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine 🇦🇷",FX 🇦🇷 (Op. 2)
 http://158.172.155.130:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-id=FX.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine 🇦🇷",FX 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine 🇦🇷",FX 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310_720p/index.m3u8
 
