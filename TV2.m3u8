@@ -1514,19 +1514,19 @@ http://138.59.227.20:8000/play/a08e/index.m3u8?hls
 http://138.59.227.20:8000/play/a08c/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/ys5dsbmbhj0n00000246u0bv0ntrqybu/output.mpd
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-reconnect=true
 http://190.128.214.127:64333/play/a03c/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 2)
 http://138.59.227.20:8000/play/a06z/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
