@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://iptv-epg.org/files/epg-gb.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://iptv-epg.org/files/epg-gb.xml"
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -416,21 +416,21 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 http://013tv.com:8080/F24657/f44540b5/1672
 #http://latorillaconcebolla.njxtsrntp.top:8080/live/6761732810397624/7b4740996f0d/57486.m3u8
 
-#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a07f/index.m3u8?hls
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-deportv.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
 #http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-deportv.playlist.m3u8
 
-#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 2)
 http://177.53.153.207:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
 http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/5188.ts
 
-#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-reconnect=true
 http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/81462.ts
 
