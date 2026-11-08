@@ -1487,23 +1487,20 @@ https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f_720p/index.m3u8
 #http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090610&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 1)
-http://45.188.229.33:8000/play/a1dn/index.m3u8?hls
+http://138.59.227.20:8000/play/a08b/index.m3u8?hls
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tnt.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/yythzps63vn00000245fkb6ah5w93eyw/output.mpd
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 2)
-http://138.59.227.20:8000/play/a08b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 3)
 http://177.53.153.207:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 3)
 http://158.172.155.130:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 4)
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" group-title="Cine 🇦🇷",TNT 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n_720p/index.m3u8
 
