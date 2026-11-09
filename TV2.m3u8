@@ -1,16 +1,16 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2;https://iptv-epg.org/files/epg-gb.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://raw.githubusercontent.com/cgyegcvcecvoc/PremiumTV/e40bc1e38b7bced76076e4850e94a283bdecddd3/EPG/Argentina.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2;https://iptv-epg.org/files/epg-gb.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml"
 
 ###### SÓLO PARA USO PERSONAL ######
 
 ###### TELEVISIÓN ######
 
-#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 1)
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
 
-#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 2)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13Max.ar@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/13max-hd-ar.png?raw=true" group-title="Corrientes 🇦🇷",13Max (Telefe) 🇦🇷
+#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/13max-hd-ar.png?raw=true" group-title="Corrientes 🇦🇷",13Max (Telefe) 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true" group-title="General 🇦🇷",A&E 🇦🇷 (Op. 1)
@@ -606,24 +606,24 @@ http://177.53.153.207:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ELNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina 🇦🇷",El Nueve 🇦🇷 (Op. 4)
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/el13/output.mpd
 #http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/eltrece.playlist.m3u8
 
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 3)
 http://177.53.153.207:8000/play/a00p/index.m3u8
 #http://45.226.28.9:8085/Live/5a13eba449269ad831f5bc9fd563ccb3/local-eltrece.playlist.m3u8
 
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 4)
 http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m_720p/index.m3u8
 
