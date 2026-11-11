@@ -1019,7 +1019,7 @@ http://179.1.146.22:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="Cine 🌎",HBO Family 🌎 (Op. 4)
 http://181.119.177.253:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true" group-title="Cine 🌎",HBO Mundi 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true" group-title="Cine 🌎",HBO Mundi 🌎 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5_720p/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/hbomund/output.mpd
