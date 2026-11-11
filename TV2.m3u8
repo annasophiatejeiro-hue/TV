@@ -1591,16 +1591,16 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="0308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 1)
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="0308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
 #https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dil_720p/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
-#EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="0308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 3)
 http://190.61.42.218:9000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina 🇦🇷",TV Pública 🇦🇷 (Op. 1)
@@ -1644,7 +1644,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true" group-title="Cine 🌎",Universal Cinema 🌎 
+#EXTINF:-1 tvg-id="0841" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true" group-title="Cine 🌎",Universal Cinema 🌎 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
 
 #EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-comedy-lam.png?raw=true" group-title="Cine 🌎",Universal Comedy 🌎 (Op. 1)
@@ -1731,21 +1731,22 @@ http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🇦🇷",Warner Channel 🇦🇷 (Op. 6)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+
 #EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🇧🇷",Warner Channel 🇧🇷 
 http://79.127.238.228:14647
 #https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="0832" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 1)
 http://181.224.255.210:8001/play/a0od/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 2)
+#EXTINF:-1 tvg-id="0832" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 2)
 http://181.78.0.107:8006/play/a08c/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="0832" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 3)
 http://205.235.6.29:8000/play/a0ys/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/warner-channel-lam.png?raw=true" group-title="General 🌎",Warner Channel 🌎 (Op. 4)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
 ###### Series, Novelas y Caricaturas 24/7 ######
 
