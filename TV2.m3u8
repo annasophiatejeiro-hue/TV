@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml;https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u"
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -773,7 +773,7 @@ https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43_720p/index.m3u8
 #http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-104.playlist.m3u8
 #http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-95.playlist.m3u8
 
-##EXTINF:-1 tvg-id="3415" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 5 🇧🇷 (Op. 1)
+##EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 5 🇧🇷 (Op. 1)
 ##EXTVLCOPT:network-caching=1000
 #http://46.151.196.223:14456
 
@@ -1305,13 +1305,13 @@ http://181.225.96.99:8000/play/a09e/index.m3u8?fbclid=IwdGRzaAVRskhjbGNrBVGyP2V4
 #EXTINF:-1 tvg-id="co0002" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Colombia 🇨🇴",RCN 🇨🇴 (Op. 3)
 http://181.78.17.228:8081/RCN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 1)
+#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 1)
 http://190.60.32.178:8178/play/a0ga/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 2)
+#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 2)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 3)
+#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 3)
 http://181.225.96.99:8000/play/a08w/index.m3u8?fbclid=IwdGRzaAVRskhjbGNrBVGyP2V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfbpByfyuOd3vBdTmrZluCGMzajW8SQvwNDt7Ume7svP26r32CWACR2Wkx2HQ_aem_pJX8ZCA5OqRR45ch-lQgDg&sfnsn=scwspmo
 
 #EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brasil 🇧🇷",RecordTV 🇧🇷 (Op. 1)
@@ -1627,7 +1627,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes 🇦🇷",TyC Sports 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-referrer=https://www.tycsports.com/
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes 🇦🇷",TyC Sports 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
@@ -1651,9 +1651,6 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 ##EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes 🇦🇷",TyC Sports 🇦🇷 (Op. 7)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_720p/index.m3u8
-
-##EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes 🇦🇷",TyC Sports 🇦🇷 (Op. 8)
-https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="0841" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/universal-cinema-lam.png?raw=true" group-title="Cine 🌎",Universal Cinema 🌎 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
@@ -1816,7 +1813,7 @@ http://23.153.217.158:8080/998411519tv/pa9qnqi/281229
 #EXTVLCOPT:http-reconnect=true
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281231
 
-#EXTINF:-1 tvg-id="Kenan y Kel" tvg-logo="https://image.tmdb.org/t/p/original/hr2i30SDXvJ7LyVDCH4WdsBXAui.png" group-title="24/7 🇺🇸",Kenan y Kel 🇺🇸
+#EXTINF:-1 tvg-id="KenanKel.us" tvg-logo="https://image.tmdb.org/t/p/original/hr2i30SDXvJ7LyVDCH4WdsBXAui.png" group-title="24/7 🇺🇸",Kenan y Kel 🇺🇸
 #EXTVLCOPT:http-reconnect=true
 http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/43365.ts
 
