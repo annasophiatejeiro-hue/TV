@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml" 
+#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/brazil3.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml" 
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -764,7 +764,7 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17_720p/index.m3u8
 ##EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 3 🇦🇷 (Op. 8)
 #http://38.199.5.160:8000/play/a0a4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 3 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN 3.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 3 🇧🇷 
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="0414" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes 🇦🇷",ESPN 4 🇦🇷 (Op. 1)
@@ -790,14 +790,14 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 4 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 4 🇧🇷 
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_4/index.m3u8
 
-##EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇦🇷",ESPN 5 🇦🇷 
+##EXTINF:-1 tvg-id="ESPN 5.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇦🇷",ESPN 5 🇦🇷 
 #http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-104.playlist.m3u8
 #http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-95.playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 5 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN 5.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🇧🇷",ESPN 5 🇧🇷 
 #EXTVLCOPT:network-caching=1000
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_5/index.m3u8
 
@@ -819,7 +819,7 @@ http://190.108.91.206:9050/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="3415" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🌎",ESPN 5 🌎 (Op. 6)
 http://38.199.5.160:8000/play/a0a5/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes 🇧🇷",ESPN 6 🇧🇷 
+#EXTINF:-1 tvg-id="ESPN 6.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes 🇧🇷",ESPN 6 🇧🇷 
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_6/index.m3u8
 #http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
