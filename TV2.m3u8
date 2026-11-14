@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml;https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u"
+#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil1.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml" 
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -10,7 +10,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 2)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/13max-hd-ar.png?raw=true" group-title="Corrientes 🇦🇷",13Max (Telefe) 🇦🇷
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/13max-hd-ar.png?raw=true" group-title="Corrientes 🇦🇷",13Max (Telefe) 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true" group-title="General 🇦🇷",A&E 🇦🇷 (Op. 1)
@@ -93,17 +93,17 @@ http://158.172.155.130:8000/play/a00p/index.m3u8
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-amc.playlist.m3u8
 #http://138.121.15.230:9002/AMC/index.m3u8
 
-##EXTINF:-1 tvg-id="AMC.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🇧🇷",AMC 🇧🇷 (Op. 1)
+##EXTINF:-1 tvg-id="AMC.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🌎",AMC 🌎
 #http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC Brasil.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🇧🇷",AMC 🇧🇷 
 #EXTVLCOPT:network-caching=1000
 http://170.83.49.66:8083/AMCHD/index.m3u8
 
-##EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🇺🇸",AMC 🇺🇸 (Op. 2)
-#http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine 🇺🇸",AMC 🇺🇸 
+https://tvsen6.aynaott.com/amc/index.m3u8
 
-#EXTINF:-1 tvg-id="0619" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/amc-series-lam.png?raw=true" group-title="Series 🌎",AMC Series 🌎 
+#EXTINF:-1 tvg-id="AmcSeries.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/amc-series-lam.png?raw=true" group-title="Series 🌎",AMC Series 🌎 
 http://158.172.155.130:8000/play/a006/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 
@@ -362,8 +362,11 @@ https://prepublish.f.qaotic.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_Canald
 #EXTVLCOPT:http-reconnect=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-id="mov-CNNEsp.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Noticias 🌎",CNN en Español 🌎
+#EXTINF:-1 tvg-id="mov-CNNEsp.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Noticias 🌎",CNN en Español 🌎 (Op. 1)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
+
+#EXTINF:-1 tvg-id="mov-CNNEsp.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Noticias 🌎",CNN en Español 🌎 (Op. 2)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Noticias 🇧🇷",CNN 🇧🇷 (Op. 1)
 http://170.83.49.66:8083/CNNBRASILHD/index.m3u8
@@ -1258,8 +1261,8 @@ https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao_720p/index.m3u8
 ##EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales 🇺🇸",National Geographic 🇺🇸
 #http://198.58.104.90:8989/natgeo/index.m3u8
 
-##EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nba-tv-ar.png?raw=true" group-title="Deportes 🇺🇸",NBA TV 🇺🇸 
-#http://198.58.104.90:8989/nba/index.m3u8
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nba-tv-ar.png?raw=true" group-title="Deportes 🇺🇸",NBA TV 🇺🇸 
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true" group-title="Argentina 🇦🇷",NetTV 🇦🇷 (Op. 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -1305,13 +1308,13 @@ http://181.225.96.99:8000/play/a09e/index.m3u8?fbclid=IwdGRzaAVRskhjbGNrBVGyP2V4
 #EXTINF:-1 tvg-id="co0002" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Colombia 🇨🇴",RCN 🇨🇴 (Op. 3)
 http://181.78.17.228:8081/RCN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 1)
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 1)
 http://190.60.32.178:8178/play/a0ga/index.m3u8
 
-#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 2)
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 2)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 
-#EXTINF:-1 tvg-id="RCNHD2.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 3)
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia 🇨🇴",RCN 2 🇨🇴 (Op. 3)
 http://181.225.96.99:8000/play/a08w/index.m3u8?fbclid=IwdGRzaAVRskhjbGNrBVGyP2V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfbpByfyuOd3vBdTmrZluCGMzajW8SQvwNDt7Ume7svP26r32CWACR2Wkx2HQ_aem_pJX8ZCA5OqRR45ch-lQgDg&sfnsn=scwspmo
 
 #EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brasil 🇧🇷",RecordTV 🇧🇷 (Op. 1)
@@ -1389,18 +1392,18 @@ http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="Cine 🇧🇷",Sony Channel 🇧🇷
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a09j/index.m3u8?hls
 #http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-sony.playlist.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/sonymovies/output.mpd
 
-#EXTINF:-1 tvg-id="SonyMovies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 2)
 http://181.115.239.66:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 3)
 http://158.172.155.130:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🇦🇷",Sony Movies 🇦🇷 (Op. 4)
 http://177.53.153.207:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="0810" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movies-us.png?raw=true" group-title="Cine 🌎",Sony Movies 🌎 (Op. 1)
@@ -1486,7 +1489,11 @@ http://138.59.227.20:8000/play/a067/index.m3u8?hls
 #EXTINF:-1 tvg-id="1834" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" group-title="Cine 🌎",Studio Universal 🌎
 http://187.102.210.46/universo/index.m3u8
 
-#EXTINF:-1 tvg-id="SYFY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cine 🇺🇸",SyFy 🇺🇸 
+#EXTINF:-1 tvg-id="SYFY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cine 🇺🇸",SyFy 🇺🇸 (Op. 1)
+#EXTVLCOPT:http-reconnect=true
+http://play.pelusa.online:8080/live/Yanira1253/yjDSNaRJbgVQ/36795.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cine 🇺🇸",SyFy 🇺🇸 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #http://4.30.180.36:8420/syfy/index.m3u8?token=test
@@ -1500,7 +1507,9 @@ http://fortv.cc:8080/54514663/54514663/20867
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="General 🇺🇸",TBS 🇺🇸 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 http://013tv.com:8080/F24657/f44540b5/5803
-#http://4.30.180.36:8420/tbs/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="General 🇺🇸",TBS 🇺🇸 (Op. 3)
+https://tvsen6.aynaott.com/tbs/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Argentina 🇦🇷",Telefe HD 🇦🇷 (Op. 1)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
