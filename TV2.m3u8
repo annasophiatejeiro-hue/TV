@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/brazil3.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml;https://iptv-org.github.io/epg/guides/tv/argentina.epg.xml" 
+#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/brazil3.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml" 
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -866,29 +866,26 @@ http://45.188.229.33:8000/play/a1di/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 2)
 http://138.59.227.20:8000/play/a086/index.m3u8?hls
+#http://190.128.214.127:64333/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 3)
-#EXTVLCOPT:http-reconnect=true
-http://190.128.214.127:64333/play/a02i/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 4)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 6)
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 6)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 7)
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 9)
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 8)
 http://45.134.141.161:80/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0418" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🌎",ESPN Premium 🌎 (Op. 1)
@@ -1644,23 +1641,23 @@ http://138.59.227.20:8000/play/a08e/index.m3u8?hls
 http://138.59.227.20:8000/play/a08c/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/ys5dsbmbhj0n00000246u0bv0ntrqybu/output.mpd
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 1)
-#EXTVLCOPT:http-reconnect=true
-http://190.128.214.127:64333/play/a03c/index.m3u8
+##EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 0)
+##EXTVLCOPT:http-reconnect=true
+#http://190.128.214.127:64333/play/a03c/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a06z/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 2)
 #EXTVLCOPT:http-reconnect=true
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 4)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 4)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 
 #EXTINF:-1 tvg-id="0308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 1)
@@ -1903,7 +1900,7 @@ http://23.153.217.158:8080/998411519tv/pa9qnqi/281127
 #EXTVLCOPT:http-reconnect=true
 http://23.153.217.158:8080/998411519tv/pa9qnqi/281126
 
-#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7 🇺🇸",The Simpsons 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="Los Simpson" tvg-logo="https://www.icons101.com/icon_png/size_256/id_1703/TheSimpsonsLogo.png" group-title="24/7 🇺🇸",The Simpsons 🇺🇸 
 #EXTVLCOPT:http-reconnect=true
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
