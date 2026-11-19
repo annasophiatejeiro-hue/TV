@@ -237,10 +237,6 @@ https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playl
 #EXTVLCOPT:network-caching=1000
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-##EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://mediakit.perfil.com/img/logo-bravo-tv.png" group-title="General 🇦🇷",Bravo TV 🇦🇷 (Op. 1)
-##EXTVLCOPT:network-caching=1000
-#https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHc5n.png?raw=true" group-title="Noticias 🇦🇷",C5N 🇦🇷 (Op. 1)
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #http://emotls.ddns.net:8080/mnp/c5n/output.mpd
