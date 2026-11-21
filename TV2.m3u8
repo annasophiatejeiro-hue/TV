@@ -491,15 +491,15 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://013tv.com:8080/F24657/f44540b5/1672
 
-#EXTINF:-1 tvg-id="DeporTv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 1)
+#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 1)
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a07f/index.m3u8?hls
 #https://faster-viale.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
 
-#EXTINF:-1 tvg-id="DeporTv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 2)
+#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 2)
 http://177.53.153.207:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-id="DeporTv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 3)
+#EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
 http://190.7.19.197:9000/play/a05d/index.m3u8
 #http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/5188.ts
