@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://www.open-epg.com/files/unitedstates2.xml;https://www.open-epg.com/files/unitedstates3.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/brazil3.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/tiviepg.xml;https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz;https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" 
+#EXTM3U url-tvg="https://open-epg.com/files/argentina.xml.gz;https://www.open-epg.com/files/argentina1.xml;https://www.open-epg.com/files/argentina2.xml;https://www.open-epg.com/files/argentina3.xml;https://www.open-epg.com/files/argentina4.xml;https://iptv-epg.org/files/epg-us.xml;https://www.open-epg.com/files/unitedstates1.xml;https://www.open-epg.com/files/unitedstates2.xml;https://www.open-epg.com/files/unitedstates3.xml;https://iptv-epg.org/files/epg-br.xml;https://www.open-epg.com/files/brazil2.xml;https://www.open-epg.com/files/brazil1.xml;https://www.open-epg.com/files/brazil3.xml;https://iptv-epg.org/files/epg-es.xml;https://iptv-epg.org/files/epg-cl.xml;https://www.open-epg.com/files/chile1.xml;https://iptv-epg.org/files/epg-co.xml;https://www.open-epg.com/files/colombia1.xml;https://www.open-epg.com/files/colombia3.xml;https://iptv-epg.org/files/epg-mx.xml;https://www.open-epg.com/files/mexico2.xml;https://iptv-epg.org/files/epg-gb.xml;https://www.open-epg.com/files/unitedkingdom.xml;https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml;https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml;https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz;https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/tiviepg.xml;https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz;https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz;https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz;https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u" 
 
 ###### SÓLO PARA USO PERSONAL ######
 
@@ -2116,32 +2116,36 @@ https://lotus.stingray.com/manifest/ose-101ads-montreal/webapp/master.m3u8
 #EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Música 🇨🇦",Stingray Flashback 70's 🇨🇦
 https://lotus.stingray.com/manifest/ose-115ads-montreal/webapp/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Música 🇨🇦",Stingray Hit List 🇨🇦
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Música 🇨🇦",Stingray Hit List 🇨🇦
 https://lotus.stingray.com/manifest/ose-107ads-montreal/webapp/master.m3u8
 
 #EXTINF:-1 tvg-id="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Música 🇨🇦",Stingray Nothin' But 90s 🇨🇦
 https://lotus.stingray.com/manifest/ose-142ads-montreal/webapp/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Música 🇨🇦",Stingray Pop Adult 🇨🇦
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Música 🇨🇦",Stingray Pop Adult 🇨🇦
 https://lotus.stingray.com/manifest/ose-104ads-montreal/webapp/master.m3u8
 
 #EXTINF:-1 tvg-id="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Música 🇨🇦",Stingray Remember the 80s 🇨🇦
 https://lotus.stingray.com/manifest/ose-128ads-montreal/webapp/master.m3u8
 
+#EXTINF:-1 tvg-id="69c3c6c912e978ee49277dc7" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png" group-title="Música 🇬🇧",That's 60s 🇬🇧 
+https://jmp2.uk/plu-69c3c6c912e978ee49277dc7.m3u8
+
 #EXTINF:-1 tvg-id="that's 70s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-70s-uk.png?raw=true" group-title="Música 🇬🇧",That's 70s 🇬🇧 
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #https://lightning-now70s-samsungnz.amagi.tv:443/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="that's 80s" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-80s-uk.png?raw=true" group-title="Música 🇬🇧",That's 80s 🇬🇧 
+#EXTINF:-1 tvg-id="that's 80s" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG_1771233599160.png" group-title="Música 🇬🇧",That's 80s 🇬🇧 
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#https://lightning-now80s-samsungnz.amagi.tv:443/playlist720p.m3u8
+#https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
 
-#EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/That%27s_90s00s_II.png/revision/latest/scale-to-width-down/250?cb=20260219165635" group-title="Música 🇬🇧",That's 90s00s 🇬🇧
+#EXTINF:-1 tvg-id="660c209e19ca71000846cf38" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG_1771233902958.png" group-title="Música 🇬🇧",That's 90s00s 🇬🇧
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8
 
-#EXTINF:-1 tvg-id="that's ROCK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/thats-rock-uk.png?raw=true" group-title="Música 🇬🇧",That's Rock 🇬🇧 
+#EXTINF:-1 tvg-id="that's ROCK" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG_1771232975260.png" group-title="Música 🇬🇧",That's Rock 🇬🇧 
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-##https://lightning-now90s-samsungnz.amagi.tv:443/playlist720p.m3u8
+#https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-2k-vod.png?raw=true" group-title="Vevo 🇺🇸",Vevo 2K 🇺🇸
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
