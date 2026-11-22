@@ -1143,14 +1143,14 @@ https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b_720p/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 2)
 http://45.188.229.33:8000/play/a1cz/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 3)
+#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 3)
 http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE2IExBVDogSEJPIDI=&t=p&f=.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 4)
+#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 4)
 http://45.5.117.99:8000/play/a00c/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
-#EXTINF:-1 tvg-id="HBO2.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 5)
+#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 5)
 http://45.5.116.228:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="Cine 🌎",HBO Family 🌎 (Op. 1)
