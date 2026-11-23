@@ -643,8 +643,11 @@ http://streamer.sattvacabo.com.br/ESPN1/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mp
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 1 🇧🇷 (Op. 4)
 http://45.185.15.154:9080/stream/59/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 1 🇺🇸
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 1 🇺🇸 (Op. 1)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 1 🇺🇸 (Op. 2)
+http://89.187.179.148:826/1368/gXwiagaXda/119665
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 1)
 http://45.188.229.33:8000/play/a1ab/index.m3u8?hls
@@ -678,8 +681,11 @@ https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇧🇷",ESPN 2 🇧🇷 (Op. 3)
 http://streamer.sattvacabo.com.br/ESPN2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 2 🇺🇸 
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 2 🇺🇸 (Op. 1)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇺🇸",ESPN 2 🇺🇸 (Op. 2)
+http://89.187.179.148:826/1368/gXwiagaXda/119666
 
 #EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 3 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a09a/index.m3u8?hls
@@ -885,7 +891,7 @@ http://181.115.239.66:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="FS2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Deportes 🇺🇸",Fox Sports 2 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU0MzcwMDQwODk6Y2RubGl2ZXR2LnR2OjQ0OGQyOGJhZmM0ZWNmYTIuNzZkN2M1NTUzMTg0OGQ5YzAzZDIzMDhkZjU1Y2UxYjJmOGZhZmM5YWY2NDY1YzEzY2ViZjY4YTg4YmFmYjNmYw
+http://89.187.179.148:826/1368/gXwiagaXda/120161
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes 🇦🇷",Fox Sports 3 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
@@ -925,8 +931,14 @@ http://190.7.19.197:9000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-id="FX Chile" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine 🌎",FX 🌎 
 http://181.119.177.253:8000/play/a0di/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Cine 🇺🇸",FXX 🇺🇸
+#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" group-title="Cine 🇺🇸", FX 🇺🇸
+http://89.187.179.148:826/1368/gXwiagaXda/119898
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Cine 🇺🇸",FXX 🇺🇸 (Op. 1)
 http://89.187.179.148:826/1368/gXwiagaXda/1671
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Cine 🇺🇸",FXX 🇺🇸 (Op. 2)
+http://89.187.179.148:826/1368/gXwiagaXda/119901
 
 #EXTINF:-1 tvg-id="EL GARAGE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true" group-title="Automovilismo 🇦🇷",Garage TV 🇦🇷 (Op. 1)
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -1207,8 +1219,8 @@ http://190.7.19.206:8098/play/a0mh/index.m3u8
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" tvg-language="Spanish" group-title="General 🇦🇷",MTV 🇦🇷 (Op. 2)
 http://45.188.229.33:8000/play/a1eq/index.m3u8
 
-##EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" group-title="General 🇺🇸",MTV 🇺🇸 
-#http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" group-title="General 🇺🇸",MTV 🇺🇸 
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/musica/CHmusictop.png?raw=true" tvg-country="AR" tvg-language="Spanish" group-title="Música 🇦🇷",MusicTop 🇦🇷 (Op. 1)
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
@@ -1235,8 +1247,8 @@ http://181.115.239.66:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nba-tv-ar.png?raw=true" group-title="Deportes 🇺🇸",NBA TV 🇺🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf33/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMzOjE3OTU0MzcwMDUxMjU6Y2RubGl2ZXR2LnR2OmEwNDBjOWFmNWQ4N2Y0ZjEuNzIyMDdhNDVmNmE3YWVhN2E4MzZiMjZmODUzMzI1ZGJlOWU1MWM5NzhiMGU5MzU5ZDYzNWM0MTU3NTk4NjFmMQ
-#http://23.237.104.106:8080/USA_NBA/index.m3u8
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf33/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMzOjE3OTU0MzcwMDUxMjU6Y2RubGl2ZXR2LnR2OmEwNDBjOWFmNWQ4N2Y0ZjEuNzIyMDdhNDVmNmE3YWVhN2E4MzZiMjZmODUzMzI1ZGJlOWU1MWM5NzhiMGU5MzU5ZDYzNWM0MTU3NTk4NjFmMQ
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true" group-title="Argentina 🇦🇷",NetTV 🇦🇷 (Op. 1)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -1369,9 +1381,13 @@ http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT Rio.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sbt-br.png?raw=true" group-title="Brasil 🇧🇷",SBT 🇧🇷 (Op. 4)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="Automovilismo 🇬🇧",Sky Sport F1 🇬🇧 
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="Automovilismo 🇬🇧",Sky Sport F1 🇬🇧 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="Automovilismo 🇬🇧",Sky Sport F1 🇬🇧 (Op. 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://89.187.179.148:826/1368/gXwiagaXda/120397
 
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="Cine 🇦🇷",Sony Channel 🇦🇷 (Op. 1)
 http://138.59.227.20:8000/play/a09c/index.m3u8?hls
@@ -1616,19 +1632,20 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Deportes 🇬🇧",TNT Sports 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTUzOTIwMDg2MTQ6Y2RubGl2ZXR2LnR2OjNmN2IyMzY4Y2RhMDI1YmQuZDVlNDdmMDA2YWI5NDdlMTlmNTA2ZWU4NDNkMzc3MTRhYmYxOWNmZGI1NjE3NzA0NmU4MmM3ZWQwZDAxZDBhZA
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTU0NzY1NTcyNDI6Y2RubGl2ZXR2LnR2OjYyNzQ4ZGJiZGUwZjMwNTAuOTZlZmRmYWMxNGQ2MGUzMjNhMGI1ZTU3OTNlYmE4NDA5NjZjNjU3MDg3OTc5Y2RjZmIzNmRlZTU3ZDZhYjE0OQ
+#http://89.187.179.148:826/1368/gXwiagaXda/119906
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Deportes 🇬🇧",TNT Sports 2 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTUzOTIwMDg4MjI6Y2RubGl2ZXR2LnR2OmUwNzI2MWNjZWE0OTA1M2YuNGI0YmU1NzVlMGQ5OWM2MmM4M2QwMzhiMmU3YmZjYWRmNWVjN2UwNTE3YzFiYzA3Y2E2Mzk3ODJiMDA0ZTAyNw
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTU0NzY1NTc0MDk6Y2RubGl2ZXR2LnR2Ojg0NmRjZmYxNmY5MWRlYzUuMmVhMWI5OTk2ODRhNDdlNjRlYzg2ZGU3MTM5OTRmNjIwMDA3OGMxMzRhYzc4ZDQ1MmE2MTVkYjE5NDQyZTlkNw
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Deportes 🇬🇧",TNT Sports 3 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTUzOTIwMDkwMjk6Y2RubGl2ZXR2LnR2OjA2ZDQ2N2Q0NTUwMTRjMTYuMTdhZTE2MzZlNTNmMzM5ZjBjNjBmMGVlNzU0MWRiZGY4Zjk3N2U1Yjg1MTc2Y2YxYzY0MDNmYWI1MDFlN2MzYQ
-
-##EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Deportes 🇬🇧",TNT Sports 4 🇬🇧
+##EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Deportes 🇬🇧",TNT Sports 3 🇬🇧
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTUzOTIwMDkyMjk6Y2RubGl2ZXR2LnR2OmMyY2NhNDkzOGI5YTRkNTYuOTRkMjIzYWY0NDk1MDM1ZDEyZTkyM2ZkYjRlZThiMmNiYWNlNWI4MDk5NzA4NDg1YjlkMzQzODFjZDIwY2E0OQ
+#https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTUzOTIwMDkwMjk6Y2RubGl2ZXR2LnR2OjA2ZDQ2N2Q0NTUwMTRjMTYuMTdhZTE2MzZlNTNmMzM5ZjBjNjBmMGVlNzU0MWRiZGY4Zjk3N2U1Yjg1MTc2Y2YxYzY0MDNmYWI1MDFlN2MzYQ
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Deportes 🇬🇧",TNT Sports 4 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTU0NzY1NTc4MDI6Y2RubGl2ZXR2LnR2OjVkOWZlZjViZDc1ZDI3YzYuNzlhZDBmMDMzODZlODMyNmUxMTk3NGEzOWIwMjBjNTI0YWVmMWI0ZTcxN2MyMmU4ZDhkZjQ0N2NlZTViMzRmZA
 
 #EXTINF:-1 tvg-id="0308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tooncast-ar.png?raw=true" group-title="Caricaturas 🌎",Tooncast 🌎 (Op. 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
