@@ -11,7 +11,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://www.tvcinco.com/images/logo-transparente.png" group-title="Corrientes 🇦🇷",5TV 🇦🇷 (Op. 3)
-http://200.80.230.125:5056/Live/19dc598e50936ebefdd1d9ed9e56a297/5tv.playlist.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/5tv.playlist.m3u8
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/13max-hd-ar.png?raw=true" group-title="Corrientes 🇦🇷",13Max (Telefe) 🇦🇷
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
