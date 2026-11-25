@@ -122,8 +122,8 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true" group-title="Documentales 🇦🇷",Animal Planet 🇦🇷 
 http://190.7.19.206:8098/play/a0qk/index.m3u8
-#http://45.226.28.9:8085/Live/e7e34d90f1ca8c764c09a22bf83f0a83/local-animalplanet.playlist.m3u8
-#https://faster-viale.cdn.rcs.net.ar/mnp/disc_apar/output.mpd
+#http://45.226.28.9:8085/Live/37e7049953fc633d988909c9a24e0a65/local-animalplanet.playlist.m3u8
+#https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/disc_apar/output.mpd
 
 #EXTINF:-1 tvg-id="Animal Planet.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true" group-title="Documentales 🌎",Animal Planet 🌎 (Op. 1) 
 http://181.78.8.199:8000/play/a0by/index.m3u8
@@ -985,13 +985,16 @@ https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b_720p/index.m3u8
 http://45.188.229.33:8000/play/a1cz/index.m3u8
 
 #EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 3)
-http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE2IExBVDogSEJPIDI=&t=p&f=.m3u8
+https://streaming.onnethn.com/HBO2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 4)
+http://jr-flix.alwaysdata.net/streams/rqtvpro.php?p=NTE2IExBVDogSEJPIDI=&t=p&f=.m3u8
+
+#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 5)
 http://45.5.117.99:8000/play/a00c/index.m3u8
 #https://faster-viale.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
-#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 5)
+#EXTINF:-1 tvg-id="0814" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine 🌎",HBO 2 🌎 (Op. 6)
 http://45.5.116.228:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="Cine 🌎",HBO Family 🌎 (Op. 1)
