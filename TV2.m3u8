@@ -228,27 +228,27 @@ http://185.152.67.187:14474/
 #EXTVLCOPT:http-reconnect=true
 https://cdn-aovivo-atualplay.nxtv.com.br/BAND_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 1)
 #EXTVLCOPT:network-caching=1000
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 2)
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 3)
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Deportes 🇺🇸",beIN SPORTS XTRA 🇺🇸 (Op. 3)
 #EXTVLCOPT:network-caching=1000
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 1)
+#EXTINF:-1 tvg-id="0406" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 1)
 #EXTVLCOPT:network-caching=1000
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 2)
+#EXTINF:-1 tvg-id="0406" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 2)
 #EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 3)
+#EXTINF:-1 tvg-id="0406" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes 🇺🇸",beIN SPORTS XTRA en Español 🇺🇸 (Op. 3)
 #EXTVLCOPT:network-caching=1000
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
@@ -539,7 +539,7 @@ http://138.121.113.213:8001/play/a08f
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Documentales 🇦🇷",Discovery H&H 🇦🇷 (Op. 4)
 http://181.209.38.115:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Documentales 🇧🇷",Discovery H&H 🇧🇷
+#EXTINF:-1 tvg-id="DISCOVERY HOME&HEALTH HD.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Documentales 🇧🇷",Discovery H&H 🇧🇷
 http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true" group-title="Documentales 🇦🇷",Discovery Science 🇦🇷 (Op. 1)
